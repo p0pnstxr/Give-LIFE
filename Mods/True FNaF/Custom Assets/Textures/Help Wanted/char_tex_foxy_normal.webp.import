@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://skwom627fqaa"
-path="res://.godot/imported/char_tex_foxy_normal.webp-5f322c2e586cbb67836e44d5fdb87985.ctex"
+uid="uid://7bm46l4kir71"
+path="res://.godot/imported/Char_Tex_Foxy_Normal.webp-5ce5bb40057f0c8da13cf3d568038d9b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/Help Wanted/char_tex_foxy_normal.webp"
-dest_files=["res://.godot/imported/char_tex_foxy_normal.webp-5f322c2e586cbb67836e44d5fdb87985.ctex"]
+source_file="res://Mods/True FNaF/Custom Assets/Textures/Help Wanted/Char_Tex_Foxy_Normal.webp"
+dest_files=["res://.godot/imported/Char_Tex_Foxy_Normal.webp-5ce5bb40057f0c8da13cf3d568038d9b.ctex"]
 
 [params]
 
