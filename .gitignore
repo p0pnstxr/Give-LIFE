@@ -15,3 +15,11 @@ data_*/
 *.blend1
 /Mods/Give Life/Custom Assets/Substance Files
 /Mods/Faz Anim 2/Custom Assets/Substance Files
+.DS_Store
+Mods/.DS_Store
+Mods/PRPXS Workshop/Custom Assets/.DS_Store
+Mods/PRPXS Workshop/Mod Directory/.DS_Store
+.DS_Store
+Mods/.DS_Store
+Mods/PRPXS Workshop/Custom Assets/.DS_Store
+Mods/PRPXS Workshop/Mod Directory/.DS_Store
