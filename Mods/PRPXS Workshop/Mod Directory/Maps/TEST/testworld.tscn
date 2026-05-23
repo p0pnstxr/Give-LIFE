@@ -1,0 +1,38 @@
+[gd_scene format=3 uid="uid://dchhwpojy0kod"]
+
+[ext_resource type="PackedScene" uid="uid://c5dh0vxqdur1v" path="res://Scenes/player.tscn" id="1_itpav"]
+[ext_resource type="ArrayOccluder3D" uid="uid://b5apq7a6beypk" path="res://Mods/PRPXS Workshop/Mod Directory/Maps/TEST/testworld.occ" id="2_itpav"]
+[ext_resource type="PackedScene" uid="uid://exjhq2go0147" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/basicasstestscene.glb" id="2_suu3c"]
+[ext_resource type="PackedScene" uid="uid://c1ursmuwehccf" path="res://Mods/PRPXS Workshop/Mod Directory/Animatables/Cookietronic.tscn" id="3_itpav"]
+
+[sub_resource type="Environment" id="Environment_itpav"]
+
+[sub_resource type="WorldBoundaryShape3D" id="WorldBoundaryShape3D_vd031"]
+
+[node name="MyFirstMap" type="Node3D" unique_id=668959329]
+
+[node name="Player" parent="." unique_id=318127762 instance=ExtResource("1_itpav")]
+
+[node name="Map" type="Node" parent="." unique_id=82436190]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="Map" unique_id=82658652]
+environment = SubResource("Environment_itpav")
+
+[node name="OccluderInstance3D" type="OccluderInstance3D" parent="Map" unique_id=1455037759]
+occluder = ExtResource("2_itpav")
+bake_mask = 4294967289
+bake_simplification_distance = 0.25
+
+[node name="World Boundary" type="StaticBody3D" parent="Map" unique_id=877664639]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Map/World Boundary" unique_id=1436482319]
+shape = SubResource("WorldBoundaryShape3D_vd031")
+
+[node name="Animatables" type="Node" parent="." unique_id=598355028]
+
+[node name="Cookietronic" parent="Animatables" unique_id=1560122702 instance=ExtResource("3_itpav")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.19067693, 0)
+
+[node name="Map Mesh & Collision" type="Node" parent="." unique_id=540480779]
+
+[node name="basicasstestscene" parent="Map Mesh & Collision" unique_id=1605947484 instance=ExtResource("2_suu3c")]

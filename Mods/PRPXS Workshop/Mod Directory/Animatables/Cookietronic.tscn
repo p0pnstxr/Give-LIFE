@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://c1ursmuwehccf"]
+
+[ext_resource type="Script" uid="uid://iqrmm33dxvui" path="res://Scripts/Animatables/GL_Animatronic.gd" id="1_tjumi"]
+[ext_resource type="Texture2D" uid="uid://mikgrvtytpiy" path="res://UI/Question.png" id="2_2260i"]
+[ext_resource type="PackedScene" uid="uid://u5hk8uw8xp4j" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/cookietronic_GREATESTREMODEL.glb" id="3_qt181"]
+[ext_resource type="Script" uid="uid://60lyan8oproc" path="res://Scripts/Animatables/Physics_Bones.gd" id="4_qt181"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_qt181"]
+size = Vector3(2.8263812, 1.446106, 1.3963013)
+
+[node name="Cookietronic" type="Node3D" unique_id=1560122702 groups=["PRPX_CCK"]]
+script = ExtResource("1_tjumi")
+animParametersFileName = "Cookietronic"
+animatableIcon = ExtResource("2_2260i")
+animatableName = "Cookietronic"
+animatableAuthors = "prpx"
+animatableColor = Color(0.6647675, 0.30795226, 0.1290181, 1)
+
+[node name="cookietronic_GREATESTREMODEL" parent="." unique_id=1494902042 instance=ExtResource("3_qt181")]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
+script = ExtResource("4_qt181")
+boneConfigFileName = "Cookietronic"
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=146631577]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=333902599]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00025510788, 0.66085815, 0.0007019043)
+shape = SubResource("BoxShape3D_qt181")

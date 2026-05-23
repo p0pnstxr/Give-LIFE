@@ -1,0 +1,17 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dr4w20q7houq2"]
+
+[ext_resource type="Texture2D" uid="uid://c4761quwpfiiu" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/cookietxt_texture.png" id="1_xw13k"]
+[ext_resource type="Texture2D" uid="uid://bb2c44crpva1f" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/cookietxt_texture_specular.png" id="2_fv11q"]
+[ext_resource type="Texture2D" uid="uid://dce1mgns48xuf" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/cookietxt_TESTNM02.png" id="3_abwu1"]
+[ext_resource type="Texture2D" uid="uid://bwl7ewbjfylkw" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/cookietxt_texture_specular-2.png" id="4_o5g71"]
+
+[resource]
+resource_name = "Material"
+cull_mode = 2
+albedo_texture = ExtResource("1_xw13k")
+metallic = 1.0
+metallic_texture = ExtResource("2_fv11q")
+roughness_texture = ExtResource("4_o5g71")
+normal_enabled = true
+normal_scale = 0.5
+normal_texture = ExtResource("3_abwu1")

@@ -66,6 +66,7 @@ script = ExtResource("2_q5xte")
 fpsButton = NodePath("MarginContainer/PanelContainer/Settings/Settings/TabContainer/General/VBoxContainer/FPS/CheckButton")
 
 [node name="Background" type="ColorRect" parent="." unique_id=674996388]
+visible = false
 material = ExtResource("3_xrto2")
 layout_mode = 1
 anchors_preset = 15
