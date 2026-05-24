@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sy4melnjskdj"
-path.s3tc="res://.godot/imported/OutOfOrder.webp-321f69fc2d98723ab2c672e26e0b6e00.s3tc.ctex"
-path.etc2="res://.godot/imported/OutOfOrder.webp-321f69fc2d98723ab2c672e26e0b6e00.etc2.ctex"
+path.s3tc="res://.godot/imported/OutOfOrder.webp-0f3d6cf4250d416a6b2fc4546e54b2a7.s3tc.ctex"
+path.etc2="res://.godot/imported/OutOfOrder.webp-0f3d6cf4250d416a6b2fc4546e54b2a7.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/Source Archival/Custom Assets/Textures/OutOfOrder.webp"
-dest_files=["res://.godot/imported/OutOfOrder.webp-321f69fc2d98723ab2c672e26e0b6e00.s3tc.ctex", "res://.godot/imported/OutOfOrder.webp-321f69fc2d98723ab2c672e26e0b6e00.etc2.ctex"]
+source_file="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/OutOfOrder.webp"
+dest_files=["res://.godot/imported/OutOfOrder.webp-0f3d6cf4250d416a6b2fc4546e54b2a7.s3tc.ctex", "res://.godot/imported/OutOfOrder.webp-0f3d6cf4250d416a6b2fc4546e54b2a7.etc2.ctex"]
 
 [params]
 

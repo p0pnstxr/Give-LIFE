@@ -1,65 +1,65 @@
 {
-"PRPX_CCK|Jaw": {
+"Jaw": {
 	"animation": "Mouth-Jaw",
 	"in_speed": 5.5,
 	"out_speed": 5.9,
 	"type": "standard"
   },
-"PRPX_CCK|Jaw2": {
+"Jaw2": {
 	"animation": "Mouth-Jaw2",
 	"in_speed": 5.5,
 	"out_speed": 6.0,
 	"type": "standard"
   },
-"PRPX_CCK|LeftLean": {
+"LeftLean": {
 	"animation": "Body-LeftLean",
 	"in_speed": 1,
 	"out_speed": 2,
 	"type": "standard"
   },
-"PRPX_CCK|RightLean": {
+"RightLean": {
 	"animation": "Body-RightLean",
 	"in_speed": 1,
 	"out_speed": 2,
 	"type": "standard"
   },
-"PRPX_CCK|Blink": {
+"Blink": {
 	"animation": "Eye-Blink",
 	"in_speed": 3.0,
 	"out_speed": 4.0,
 	"type": "standard"
   },
-"PRPX_CCK|Upperlid": {
+"Upperlid": {
 	"animation": "Eye-Upperlid",
 	"in_speed": 5,
 	"out_speed": 6,
 	"type": "standard"
   },
-"PRPX_CCK|Lowerlid": {
+"Lowerlid": {
 	"animation": "Eye-Underlid",
 	"in_speed": 5,
 	"out_speed": 6,
 	"type": "standard"
   },
-"PRPX_CCK|LeftRotation": {
+"LeftRotation": {
 	"animation": "Body-LeftRoto",
 	"in_speed": 3.5,
 	"out_speed": 4.5,
 	"type": "standard"
   },
-"PRPX_CCK|RightRotation": {
+"RightRotation": {
 	"animation": "Body-RightRoto",
 	"in_speed": 3.5,
 	"out_speed": 4.6,
 	"type": "standard"
   },
-"PRPX_CCK|Eye Down": {
+"Eye Down": {
 	"animation": "Eye-Down",
 	"in_speed": 5.5,
 	"out_speed": 6.0,
 	"type": "standard"
   },
-"PRPX_CCK|Eye Up": {
+"Eye Up": {
 	"animation": "Eye-Up",
 	"in_speed": 5.5,
 	"out_speed": 6.0,

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bey8ww1mei4r0"
-path.s3tc="res://.godot/imported/PartyTable.png-3626c6ad59d26925cf4f3a1f7a637ce7.s3tc.ctex"
-path.etc2="res://.godot/imported/PartyTable.png-3626c6ad59d26925cf4f3a1f7a637ce7.etc2.ctex"
+path.s3tc="res://.godot/imported/PartyTable.png-7b1b20c15bfaca25ad31332542df5e24.s3tc.ctex"
+path.etc2="res://.godot/imported/PartyTable.png-7b1b20c15bfaca25ad31332542df5e24.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/Source Archival/Custom Assets/Textures/PartyTable.png"
-dest_files=["res://.godot/imported/PartyTable.png-3626c6ad59d26925cf4f3a1f7a637ce7.s3tc.ctex", "res://.godot/imported/PartyTable.png-3626c6ad59d26925cf4f3a1f7a637ce7.etc2.ctex"]
+source_file="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/PartyTable.png"
+dest_files=["res://.godot/imported/PartyTable.png-7b1b20c15bfaca25ad31332542df5e24.s3tc.ctex", "res://.godot/imported/PartyTable.png-7b1b20c15bfaca25ad31332542df5e24.etc2.ctex"]
 
 [params]
 
