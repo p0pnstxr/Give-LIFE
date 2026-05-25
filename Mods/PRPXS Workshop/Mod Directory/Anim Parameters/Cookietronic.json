@@ -8,7 +8,7 @@
 "Jaw2": {
 	"animation": "Mouth-Jaw2",
 	"in_speed": 5.5,
-	"out_speed": 6.0,
+	"out_speed": 5.9,
 	"type": "standard"
   },
 "LeftLean": {
