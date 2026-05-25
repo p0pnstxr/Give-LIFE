@@ -13,6 +13,7 @@ extends Node
 @onready var scaleMode: OptionButton = get_node("MarginContainer/PanelContainer/Settings/Settings/TabContainer/Graphical/VBoxContainer/Render Scale Mode/OptionButton")
 @onready var renderscale: Slider = get_node("MarginContainer/PanelContainer/Settings/Settings/TabContainer/Graphical/VBoxContainer/Render Scale/HSlider")
 @onready var renderScaleText: Label = get_node("MarginContainer/PanelContainer/Settings/Settings/TabContainer/Graphical/VBoxContainer/Render Scale/Label")
+
 @onready var uiScale: Slider = get_node("MarginContainer/PanelContainer/Settings/Settings/TabContainer/Graphical/VBoxContainer/UI Scale/HSlider")
 @onready var uiScaleText: Label = get_node("MarginContainer/PanelContainer/Settings/Settings/TabContainer/Graphical/VBoxContainer/UI Scale/Label")
 @export var fpsButton: CheckButton

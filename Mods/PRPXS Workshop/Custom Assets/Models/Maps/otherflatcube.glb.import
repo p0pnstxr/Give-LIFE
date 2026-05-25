@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://drj8qcr8if4ov"
-path="res://.godot/imported/cookietronic_MARSBUTT_R-A-M_renamedanims.glb-32847f5023eeaf0631d2adefd560c20e.scn"
+uid="uid://c8dgx1jd1gxkf"
+path="res://.godot/imported/otherflatcube.glb-3685eec025cc90277c0b1d8d876f0186.scn"
 
 [deps]
 
-source_file="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/cookietronic_MARSBUTT_R-A-M_renamedanims.glb"
-dest_files=["res://.godot/imported/cookietronic_MARSBUTT_R-A-M_renamedanims.glb-32847f5023eeaf0631d2adefd560c20e.scn"]
+source_file="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.glb"
+dest_files=["res://.godot/imported/otherflatcube.glb-3685eec025cc90277c0b1d8d876f0186.scn"]
 
 [params]
 
@@ -37,6 +37,14 @@ import_script/path=""
 materials/extract=0
 materials/extract_format=0
 materials/extract_path=""
-_subresources={}
+_subresources={
+"materials": {
+"Material": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://Mods/PRPXS Workshop/Custom Assets/Materials/VoidMap/Material.tres",
+"use_external/path": "uid://wb3ffbl4xaik"
+}
+}
+}
 gltf/naming_version=2
 gltf/embedded_image_handling=0

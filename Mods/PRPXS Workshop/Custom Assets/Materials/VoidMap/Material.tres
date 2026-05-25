@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://wb3ffbl4xaik"]
+
+[ext_resource type="Texture2D" uid="uid://djdr834ub34v" path="res://Mods/Faz Anim 2/Custom Assets/Textures/FakeGrass.jpg" id="1_00fjx"]
+[ext_resource type="Texture2D" uid="uid://2tx7bsgrcgor" path="res://Mods/Faz Anim 2/Custom Assets/Textures/FakeGrass_normal.jpg" id="2_jskk1"]
+
+[resource]
+resource_name = "Material"
+cull_mode = 2
+albedo_color = Color(0.9063318, 0.9063318, 0.9063318, 1)
+albedo_texture = ExtResource("1_00fjx")
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("2_jskk1")

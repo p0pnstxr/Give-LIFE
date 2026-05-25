@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c3xy3tnwhor6a"]
+
+[ext_resource type="Texture2D" uid="uid://ba5m8k27mo02" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/Props/Clouds.bmp" id="1_l05fp"]
+
+[resource]
+resource_name = "Material"
+cull_mode = 2
+albedo_color = Color(0.9063318, 0.9063318, 0.9063318, 1)
+albedo_texture = ExtResource("1_l05fp")
+roughness = 0.5

@@ -230,7 +230,7 @@ layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 3
 tab_alignment = 1
-current_tab = 0
+current_tab = 2
 script = ExtResource("5_8r7np")
 hover_sound = ExtResource("8_o2xf1")
 hover_pitch_randomize_enabled = false
@@ -239,6 +239,7 @@ press_pitch_multiplier_on = 2.0
 press_pitch_multiplier_off = 2.0
 
 [node name="General" type="ScrollContainer" parent="MarginContainer/PanelContainer/Settings/Settings/TabContainer" unique_id=349956025]
+visible = false
 layout_mode = 2
 metadata/_tab_index = 0
 
@@ -566,7 +567,6 @@ press_pitch_randomize_enabled = false
 press_pitch_multiplier_off = 0.5
 
 [node name="Audio" type="ScrollContainer" parent="MarginContainer/PanelContainer/Settings/Settings/TabContainer" unique_id=899395397]
-visible = false
 layout_mode = 2
 metadata/_tab_index = 2
 
