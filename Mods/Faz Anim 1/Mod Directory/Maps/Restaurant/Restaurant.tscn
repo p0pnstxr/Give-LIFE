@@ -671,7 +671,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 29.588264, 0.2211008, -49.583
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 37.338634, 5.4048758, -49.583565)
 
 [node name="LightmapProbe126" type="LightmapProbe" parent="Map/LightmapGI/Light Probes" unique_id=1814344741]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 37.338634, 0.2211008, -49.583565)
+transform = Transform3D(21.05, 0, 0, 0, 21.05, 0, 0, 0, 21.05, 37.338634, 0.2211008, -49.583565)
 
 [node name="LightmapProbe206" type="LightmapProbe" parent="Map/LightmapGI/Light Probes" unique_id=1906160955]
 transform = Transform3D(1, 0, 0, 0, 5.3382506, 0, 0, 0, 4.997985, 40.467297, 3.3330212, -46.963852)
