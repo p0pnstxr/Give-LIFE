@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bm4wgtmgyci17"]
 
-[ext_resource type="Theme" uid="uid://b3wjoiiv6sq22" path="res://UI/Themes/Theme Node.tres" id="1_ory21"]
+[ext_resource type="Theme" uid="uid://8elyrkxhiieu" path="res://UI/Themes/Theme Node Fairfax.tres" id="1_fygpv"]
 [ext_resource type="Script" uid="uid://d0xp5idbh7y7v" path="res://Scripts/Editor/Pause_Menu.gd" id="2_q5xte"]
 [ext_resource type="Texture2D" uid="uid://cggqhltds7t7" path="res://Mods/Faz Anim 2/Custom Assets/UI/NewLogo 1k.png" id="3_mq5vs"]
 [ext_resource type="Material" uid="uid://csvd0ihwnb3ov" path="res://UI/Themes/Static Material.tres" id="3_xrto2"]
@@ -61,7 +61,7 @@ grow_horizontal = 2
 grow_vertical = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
-theme = ExtResource("1_ory21")
+theme = ExtResource("1_fygpv")
 script = ExtResource("2_q5xte")
 fpsButton = NodePath("MarginContainer/PanelContainer/Settings/Settings/TabContainer/General/VBoxContainer/FPS/CheckButton")
 
