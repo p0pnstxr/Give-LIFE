@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://c2ir1x7cpdyxy"]
+
+[ext_resource type="PackedScene" uid="uid://c8dgx1jd1gxkf" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.glb" id="1_ijjkw"]
+[ext_resource type="Material" uid="uid://by4alnjb046f0" path="res://Mods/PRPXS Workshop/Custom Assets/Materials/VoidMap/WhiteStuff.tres" id="2_bl7ga"]
+
+[node name="otherflatcube" unique_id=661894530 instance=ExtResource("1_ijjkw")]
+
+[node name="Cube" parent="." index="0" unique_id=1412278893]
+material_override = ExtResource("2_bl7ga")

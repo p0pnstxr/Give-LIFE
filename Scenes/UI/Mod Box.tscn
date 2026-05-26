@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://celpts3vf8nhv"]
 
-[ext_resource type="Theme" uid="uid://b3wjoiiv6sq22" path="res://UI/Themes/Theme Node.tres" id="1_6rte5"]
+[ext_resource type="Theme" uid="uid://8elyrkxhiieu" path="res://UI/Themes/Theme Node Fairfax.tres" id="1_6rte5"]
 [ext_resource type="Texture2D" uid="uid://bumrryxwwf62o" path="res://UI/IconGreen.png" id="3_6rte5"]
 [ext_resource type="Script" uid="uid://b4aa4vacbh1ln" path="res://Scripts/Sound UI/SoundUI.gd" id="4_7vnka"]
 [ext_resource type="AudioStream" uid="uid://bevbh0ckbw0o4" path="res://Sounds/Tick.wav" id="5_nm14g"]

@@ -4,7 +4,7 @@
 [ext_resource type="ArrayOccluder3D" uid="uid://b5apq7a6beypk" path="res://Mods/PRPXS Workshop/Mod Directory/Maps/TEST/testworld.occ" id="2_itpav"]
 [ext_resource type="PackedScene" uid="uid://exjhq2go0147" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/basicasstestscene.glb" id="2_suu3c"]
 [ext_resource type="PackedScene" uid="uid://c1ursmuwehccf" path="res://Mods/PRPXS Workshop/Mod Directory/Animatables/Cookietronic.tscn" id="3_itpav"]
-[ext_resource type="PackedScene" uid="uid://c8dgx1jd1gxkf" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.glb" id="5_8tbuu"]
+[ext_resource type="PackedScene" uid="uid://c2ir1x7cpdyxy" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.tscn" id="5_8tbuu"]
 
 [sub_resource type="Environment" id="Environment_itpav"]
 background_mode = 1
@@ -49,5 +49,5 @@ spot_angle = 63.21188
 
 [node name="basicasstestscene" parent="Map Mesh & Collision" unique_id=1153849544 instance=ExtResource("2_suu3c")]
 
-[node name="otherflatcube" parent="Map Mesh & Collision" unique_id=661894530 instance=ExtResource("5_8tbuu")]
-transform = Transform3D(0.081795275, 0, 0, 0, 2.5380561, 0, 0, 0, 0.09130385, 0, 0.37148792, 0)
+[node name="otherflatcube2" parent="Map Mesh & Collision" unique_id=661894530 instance=ExtResource("5_8tbuu")]
+transform = Transform3D(0.084210515, 0, 0, 0, 1.9584908, 0, 0, 0, 0.10923877, 0, 0.4296828, 0)

@@ -16,6 +16,7 @@
 [ext_resource type="Script" uid="uid://ckgshfwm3gia5" path="res://Scripts/Editor/GL_HoldButton.gd" id="7_037lw"]
 [ext_resource type="AudioStream" uid="uid://bbnbaxncick0a" path="res://Sounds/Tck.wav" id="7_isteg"]
 [ext_resource type="AudioStream" uid="uid://bevbh0ckbw0o4" path="res://Sounds/Tick.wav" id="8_qw38e"]
+[ext_resource type="Theme" uid="uid://8elyrkxhiieu" path="res://UI/Themes/Theme Node Fairfax.tres" id="9_ds2bq"]
 [ext_resource type="AudioStream" uid="uid://dajwfjwf772x" path="res://Sounds/Donk.wav" id="9_e12if"]
 [ext_resource type="AudioStream" uid="uid://dt1hdqwuf4r8" path="res://Sounds/Thock.wav" id="10_d1frn"]
 [ext_resource type="Script" uid="uid://da33582mdc2f4" path="res://Scripts/Editor/GL_ImportAnimatables.gd" id="11_isteg"]
@@ -136,6 +137,7 @@ size_flags_vertical = 3
 [node name="Modifiers" type="TabContainer" parent="Full Editor/Editor" unique_id=120351013]
 layout_mode = 2
 size_flags_horizontal = 3
+theme = ExtResource("9_ds2bq")
 current_tab = 0
 script = ExtResource("11_muhm5")
 hover_sound = ExtResource("8_qw38e")

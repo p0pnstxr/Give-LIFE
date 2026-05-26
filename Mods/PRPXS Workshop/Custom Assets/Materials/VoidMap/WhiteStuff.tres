@@ -1,10 +1,13 @@
 [gd_resource type="StandardMaterial3D" format=3 uid="uid://by4alnjb046f0"]
 
 [ext_resource type="Texture2D" uid="uid://bey8ww1mei4r0" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/PartyTable.png" id="1_f4lhd"]
+[ext_resource type="Texture2D" uid="uid://clks7tfxssvsr" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/PartyTableMetal.png" id="2_kfa8g"]
+[ext_resource type="Texture2D" uid="uid://c3y7fch4kmsqg" path="res://Mods/PRPXS Workshop/Custom Assets/Textures/AnimCookie/PartyTableRough.png" id="3_2vol2"]
 
 [resource]
 resource_name = "Material"
 cull_mode = 2
 albedo_color = Color(0.9063318, 0.9063318, 0.9063318, 1)
 albedo_texture = ExtResource("1_f4lhd")
-roughness = 0.5
+metallic_texture = ExtResource("2_kfa8g")
+roughness_texture = ExtResource("3_2vol2")
