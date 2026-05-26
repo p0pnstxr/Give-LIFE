@@ -1,0 +1,8 @@
+{
+  "Tragedy": {
+	"animation": "Tragedy",
+	"in_speed": 1,
+	"out_speed": 1,
+	"type": "standard"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Bee": {
+	"animation": "Bee",
+	"in_speed": 0.8,
+	"out_speed": 0.3,
+	"type": "standard"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Cotton Candy": {
+	"animation": "Cotton Candy",
+	"in_speed": 0.4,
+	"out_speed": 0.4,
+	"type": "loop"
+  }
+}
