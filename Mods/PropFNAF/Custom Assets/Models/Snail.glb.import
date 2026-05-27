@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bo3hj15o2qne4"
-path="res://.godot/imported/Snail.glb-2ff216e83e6d41e73716b2bbb28bdc09.scn"
+path="res://.godot/imported/Snail.glb-03891968245f6886f43de8c7c578bbeb.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Snail.glb"
-dest_files=["res://.godot/imported/Snail.glb-2ff216e83e6d41e73716b2bbb28bdc09.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Snail.glb"
+dest_files=["res://.godot/imported/Snail.glb-03891968245f6886f43de8c7c578bbeb.scn"]
 
 [params]
 

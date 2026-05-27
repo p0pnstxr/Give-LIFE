@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tvnpno5hkerb"
-path="res://.godot/imported/Frog Cutout.glb-dfdec596990027ca4068db53b4aafe8d.scn"
+path="res://.godot/imported/Frog Cutout.glb-e273d89682e9911fb508992a18181202.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Frog Cutout.glb"
-dest_files=["res://.godot/imported/Frog Cutout.glb-dfdec596990027ca4068db53b4aafe8d.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Frog Cutout.glb"
+dest_files=["res://.godot/imported/Frog Cutout.glb-e273d89682e9911fb508992a18181202.scn"]
 
 [params]
 

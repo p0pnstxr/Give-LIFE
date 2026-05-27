@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ml8l20q0gvwn"
-path="res://.godot/imported/Flower Wagon.glb-1b094fd0aa7c8952ac184034b2f2a865.scn"
+path="res://.godot/imported/Flower Wagon.glb-0d24530ac3a7ceca382f50be5e975e93.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Flower Wagon.glb"
-dest_files=["res://.godot/imported/Flower Wagon.glb-1b094fd0aa7c8952ac184034b2f2a865.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Flower Wagon.glb"
+dest_files=["res://.godot/imported/Flower Wagon.glb-0d24530ac3a7ceca382f50be5e975e93.scn"]
 
 [params]
 

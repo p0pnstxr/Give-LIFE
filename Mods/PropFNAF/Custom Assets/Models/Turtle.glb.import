@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ucm1q0q75uyy"
-path="res://.godot/imported/Turtle.glb-49a512135deb2078c6e25aa138be387b.scn"
+path="res://.godot/imported/Turtle.glb-777d711915048daea0fc8377863748fe.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Turtle.glb"
-dest_files=["res://.godot/imported/Turtle.glb-49a512135deb2078c6e25aa138be387b.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Turtle.glb"
+dest_files=["res://.godot/imported/Turtle.glb-777d711915048daea0fc8377863748fe.scn"]
 
 [params]
 

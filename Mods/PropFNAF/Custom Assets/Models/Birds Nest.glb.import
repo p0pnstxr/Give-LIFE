@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c8sg3dt7ohu12"
-path="res://.godot/imported/Birds Nest.glb-c3862f20fc368fb2f26afe699065d80b.scn"
+path="res://.godot/imported/Birds Nest.glb-9afb29e5dce36cffcee98198a924a3d0.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Birds Nest.glb"
-dest_files=["res://.godot/imported/Birds Nest.glb-c3862f20fc368fb2f26afe699065d80b.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Birds Nest.glb"
+dest_files=["res://.godot/imported/Birds Nest.glb-9afb29e5dce36cffcee98198a924a3d0.scn"]
 
 [params]
 

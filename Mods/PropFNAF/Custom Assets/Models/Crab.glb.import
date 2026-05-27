@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duad0d8cwmaef"
-path="res://.godot/imported/Crab.glb-a04c2909fe08f9a9b931b89257e990e1.scn"
+path="res://.godot/imported/Crab.glb-8f7c59b1514875b31f5eade5eb26ac68.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Crab.glb"
-dest_files=["res://.godot/imported/Crab.glb-a04c2909fe08f9a9b931b89257e990e1.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Crab.glb"
+dest_files=["res://.godot/imported/Crab.glb-8f7c59b1514875b31f5eade5eb26ac68.scn"]
 
 [params]
 

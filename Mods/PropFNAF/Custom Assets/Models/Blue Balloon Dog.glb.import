@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwlq6qs1ai0xd"
-path="res://.godot/imported/Blue Balloon Dog.glb-052cdbb874e01b9252f0dbaab97b14c3.scn"
+path="res://.godot/imported/Blue Balloon Dog.glb-a7a026424ed5d87ecd9ffbc4b6066d58.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Blue Balloon Dog.glb"
-dest_files=["res://.godot/imported/Blue Balloon Dog.glb-052cdbb874e01b9252f0dbaab97b14c3.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Blue Balloon Dog.glb"
+dest_files=["res://.godot/imported/Blue Balloon Dog.glb-a7a026424ed5d87ecd9ffbc4b6066d58.scn"]
 
 [params]
 

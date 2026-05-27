@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bpftnouq2e6ih"
-path="res://.godot/imported/Comedy.glb-5d88812503ac4b0ddfe235902e4865bf.scn"
+path="res://.godot/imported/Comedy.glb-c7685ff9bc1f9a2ebee7bc7230a5cec6.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Comedy.glb"
-dest_files=["res://.godot/imported/Comedy.glb-5d88812503ac4b0ddfe235902e4865bf.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Comedy.glb"
+dest_files=["res://.godot/imported/Comedy.glb-c7685ff9bc1f9a2ebee7bc7230a5cec6.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://di7xnv4bssli2"
-path="res://.godot/imported/Present Cutout.glb-503e787b6168735eeed5a59eb0366805.scn"
+path="res://.godot/imported/Present Cutout.glb-972bba0ccb7b25235529a5a244ac8864.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Present Cutout.glb"
-dest_files=["res://.godot/imported/Present Cutout.glb-503e787b6168735eeed5a59eb0366805.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Present Cutout.glb"
+dest_files=["res://.godot/imported/Present Cutout.glb-972bba0ccb7b25235529a5a244ac8864.scn"]
 
 [params]
 

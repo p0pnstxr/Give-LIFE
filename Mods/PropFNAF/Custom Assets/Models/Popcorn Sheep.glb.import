@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6ymt2pa8bnuj"
-path="res://.godot/imported/Popcorn Sheep.glb-3f5f72e9dc666c1b1943379e515f4fa4.scn"
+path="res://.godot/imported/Popcorn Sheep.glb-711817a592a28e0b1de541ab0236a101.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Popcorn Sheep.glb"
-dest_files=["res://.godot/imported/Popcorn Sheep.glb-3f5f72e9dc666c1b1943379e515f4fa4.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Popcorn Sheep.glb"
+dest_files=["res://.godot/imported/Popcorn Sheep.glb-711817a592a28e0b1de541ab0236a101.scn"]
 
 [params]
 

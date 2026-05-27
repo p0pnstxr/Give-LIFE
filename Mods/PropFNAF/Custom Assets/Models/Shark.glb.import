@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cmuu0g3loqmnp"
-path="res://.godot/imported/Shark.glb-d1b688fddafeb9e24e4858e17a0a64bf.scn"
+path="res://.godot/imported/Shark.glb-8d33791be80e2f4c4b966d91a6e545fb.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Shark.glb"
-dest_files=["res://.godot/imported/Shark.glb-d1b688fddafeb9e24e4858e17a0a64bf.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Shark.glb"
+dest_files=["res://.godot/imported/Shark.glb-8d33791be80e2f4c4b966d91a6e545fb.scn"]
 
 [params]
 

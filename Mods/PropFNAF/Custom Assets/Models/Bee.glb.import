@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwjfvxuxowt2v"
-path="res://.godot/imported/Bee.glb-63333c6b57afeabf57662bb272d33f92.scn"
+path="res://.godot/imported/Bee.glb-aebc38e3c8dcca4490639a1340f479af.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Bee.glb"
-dest_files=["res://.godot/imported/Bee.glb-63333c6b57afeabf57662bb272d33f92.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Bee.glb"
+dest_files=["res://.godot/imported/Bee.glb-aebc38e3c8dcca4490639a1340f479af.scn"]
 
 [params]
 

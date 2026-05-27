@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dpvphhouv82qd"
-path="res://.godot/imported/King Frog.glb-e648b3c4307c5a0a26343cb28f839565.scn"
+path="res://.godot/imported/King Frog.glb-59addc7886f0ca77294b02f3254de566.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/King Frog.glb"
-dest_files=["res://.godot/imported/King Frog.glb-e648b3c4307c5a0a26343cb28f839565.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/King Frog.glb"
+dest_files=["res://.godot/imported/King Frog.glb-59addc7886f0ca77294b02f3254de566.scn"]
 
 [params]
 

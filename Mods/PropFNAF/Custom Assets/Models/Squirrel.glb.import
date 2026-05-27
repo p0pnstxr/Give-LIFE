@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ba7r6rlua0gqk"
-path="res://.godot/imported/Squirrel.glb-9e0adbd15f5f3c538a0412181c23624b.scn"
+path="res://.godot/imported/Squirrel.glb-df1ec26ba586f7842c01a2d3dee6cc43.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Squirrel.glb"
-dest_files=["res://.godot/imported/Squirrel.glb-9e0adbd15f5f3c538a0412181c23624b.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Squirrel.glb"
+dest_files=["res://.godot/imported/Squirrel.glb-df1ec26ba586f7842c01a2d3dee6cc43.scn"]
 
 [params]
 

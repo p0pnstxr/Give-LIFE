@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dcauws2cb3jdq"
-path="res://.godot/imported/Lion.glb-8004c54e7a13cc6391c1d624d663c597.scn"
+path="res://.godot/imported/Lion.glb-8817a51e627f614b9f5eeeb1d79f1798.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Lion.glb"
-dest_files=["res://.godot/imported/Lion.glb-8004c54e7a13cc6391c1d624d663c597.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Lion.glb"
+dest_files=["res://.godot/imported/Lion.glb-8817a51e627f614b9f5eeeb1d79f1798.scn"]
 
 [params]
 

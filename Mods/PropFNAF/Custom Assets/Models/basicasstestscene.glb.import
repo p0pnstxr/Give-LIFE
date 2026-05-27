@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://exjhq2go0147"
-path="res://.godot/imported/basicasstestscene.glb-eaced06a250368a7d09782122a39f63e.scn"
+path="res://.godot/imported/basicasstestscene.glb-58e906200feff8afab0630ed455d20ad.scn"
 
 [deps]
 
-source_file="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/basicasstestscene.glb"
-dest_files=["res://.godot/imported/basicasstestscene.glb-eaced06a250368a7d09782122a39f63e.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/basicasstestscene.glb"
+dest_files=["res://.godot/imported/basicasstestscene.glb-58e906200feff8afab0630ed455d20ad.scn"]
 
 [params]
 

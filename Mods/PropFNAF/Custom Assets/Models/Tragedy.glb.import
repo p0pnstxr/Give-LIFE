@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bn5fcn44uiq36"
-path="res://.godot/imported/Tragedy.glb-d2dc649bf83231eab4dc1439e0865637.scn"
+path="res://.godot/imported/Tragedy.glb-8216bdd67e2864e47bdba1732a4efe6d.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Tragedy.glb"
-dest_files=["res://.godot/imported/Tragedy.glb-d2dc649bf83231eab4dc1439e0865637.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Tragedy.glb"
+dest_files=["res://.godot/imported/Tragedy.glb-8216bdd67e2864e47bdba1732a4efe6d.scn"]
 
 [params]
 

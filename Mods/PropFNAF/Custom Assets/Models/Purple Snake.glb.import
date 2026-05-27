@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://k3h4xip8hvvq"
-path="res://.godot/imported/Purple Snake.glb-03ef942a1127a2b5dd8d63ebbaae3f7f.scn"
+path="res://.godot/imported/Purple Snake.glb-094eb80efabde3066c874db64ee5b351.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Purple Snake.glb"
-dest_files=["res://.godot/imported/Purple Snake.glb-03ef942a1127a2b5dd8d63ebbaae3f7f.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Purple Snake.glb"
+dest_files=["res://.godot/imported/Purple Snake.glb-094eb80efabde3066c874db64ee5b351.scn"]
 
 [params]
 

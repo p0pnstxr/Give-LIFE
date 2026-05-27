@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://85pgi765a378"
-path="res://.godot/imported/Hanging Cloud.glb-fce4e443d2557ba998d0c54059d71de3.scn"
+path="res://.godot/imported/Hanging Cloud.glb-c0174e3325d36324a1d2090a380c2ac0.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Hanging Cloud.glb"
-dest_files=["res://.godot/imported/Hanging Cloud.glb-fce4e443d2557ba998d0c54059d71de3.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Hanging Cloud.glb"
+dest_files=["res://.godot/imported/Hanging Cloud.glb-c0174e3325d36324a1d2090a380c2ac0.scn"]
 
 [params]
 

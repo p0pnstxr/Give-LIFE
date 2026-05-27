@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://diqo3fl4lbhsl"
-path="res://.godot/imported/Dragonfly.glb-0eae36100008dfa1c1193ed170ecb3de.scn"
+path="res://.godot/imported/Dragonfly.glb-454a995ff048b0d836d6c6ba974b42c5.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Dragonfly.glb"
-dest_files=["res://.godot/imported/Dragonfly.glb-0eae36100008dfa1c1193ed170ecb3de.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Dragonfly.glb"
+dest_files=["res://.godot/imported/Dragonfly.glb-454a995ff048b0d836d6c6ba974b42c5.scn"]
 
 [params]
 

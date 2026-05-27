@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6r2q2sdik63e"
-path="res://.godot/imported/Coral.glb-85ec7fc0d902156b356fa8b51e334b36.scn"
+path="res://.godot/imported/Coral.glb-8a72d7dbdc53bed0d43731fcb6f50dca.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Coral.glb"
-dest_files=["res://.godot/imported/Coral.glb-85ec7fc0d902156b356fa8b51e334b36.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Coral.glb"
+dest_files=["res://.godot/imported/Coral.glb-8a72d7dbdc53bed0d43731fcb6f50dca.scn"]
 
 [params]
 

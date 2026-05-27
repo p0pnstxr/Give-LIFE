@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rqdakrccrtd3"
-path="res://.godot/imported/Fish.glb-535e3426ad00f4b4ccae47257c4471cb.scn"
+path="res://.godot/imported/Fish.glb-c539f13bbe666a0cd120e07985402323.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Fish.glb"
-dest_files=["res://.godot/imported/Fish.glb-535e3426ad00f4b4ccae47257c4471cb.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Fish.glb"
+dest_files=["res://.godot/imported/Fish.glb-c539f13bbe666a0cd120e07985402323.scn"]
 
 [params]
 

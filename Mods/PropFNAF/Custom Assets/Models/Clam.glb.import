@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dbfow6mxifn2a"
-path="res://.godot/imported/Clam.glb-21eea9d946821b1e8c6f69ae1d2b235b.scn"
+path="res://.godot/imported/Clam.glb-157c5de1923b8ab0a3cccbe3713d7463.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Clam.glb"
-dest_files=["res://.godot/imported/Clam.glb-21eea9d946821b1e8c6f69ae1d2b235b.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Clam.glb"
+dest_files=["res://.godot/imported/Clam.glb-157c5de1923b8ab0a3cccbe3713d7463.scn"]
 
 [params]
 

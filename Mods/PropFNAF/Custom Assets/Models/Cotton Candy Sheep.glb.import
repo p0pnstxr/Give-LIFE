@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ryqt3aepyr2t"
-path="res://.godot/imported/Cotton Candy Sheep.glb-a9307a4966a3b94433dee044b1738d25.scn"
+path="res://.godot/imported/Cotton Candy Sheep.glb-73e035746019a55ad97ef97c4033cc8e.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Cotton Candy Sheep.glb"
-dest_files=["res://.godot/imported/Cotton Candy Sheep.glb-a9307a4966a3b94433dee044b1738d25.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Cotton Candy Sheep.glb"
+dest_files=["res://.godot/imported/Cotton Candy Sheep.glb-73e035746019a55ad97ef97c4033cc8e.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://coqbbqywtnrd5"
-path="res://.godot/imported/Starfish.glb-934a4a235cc3971020578e26c7ee0c82.scn"
+path="res://.godot/imported/Starfish.glb-f5e9cb101271b044541ba612176af678.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Starfish.glb"
-dest_files=["res://.godot/imported/Starfish.glb-934a4a235cc3971020578e26c7ee0c82.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Starfish.glb"
+dest_files=["res://.godot/imported/Starfish.glb-f5e9cb101271b044541ba612176af678.scn"]
 
 [params]
 

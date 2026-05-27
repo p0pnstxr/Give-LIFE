@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ci1dy0bofqgfx"
-path="res://.godot/imported/Sun Moons.glb-8b0cd5df888c1626415bc853f04678b8.scn"
+path="res://.godot/imported/Sun Moons.glb-0b7ead1d26948c31ae0d80bc06f0484f.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Sun Moons.glb"
-dest_files=["res://.godot/imported/Sun Moons.glb-8b0cd5df888c1626415bc853f04678b8.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Sun Moons.glb"
+dest_files=["res://.godot/imported/Sun Moons.glb-0b7ead1d26948c31ae0d80bc06f0484f.scn"]
 
 [params]
 
