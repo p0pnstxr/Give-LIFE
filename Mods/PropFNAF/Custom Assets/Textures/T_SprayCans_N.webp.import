@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0jgtutwa3484"
-path.s3tc="res://.godot/imported/T_SprayCans_N.webp-61f546aff88d6fe48f187339d4f6ea69.s3tc.ctex"
-path.etc2="res://.godot/imported/T_SprayCans_N.webp-61f546aff88d6fe48f187339d4f6ea69.etc2.ctex"
+path.s3tc="res://.godot/imported/T_SprayCans_N.webp-5d43b742e6ec66217a0e3198e0e83c22.s3tc.ctex"
+path.etc2="res://.godot/imported/T_SprayCans_N.webp-5d43b742e6ec66217a0e3198e0e83c22.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_SprayCans_N.webp"
-dest_files=["res://.godot/imported/T_SprayCans_N.webp-61f546aff88d6fe48f187339d4f6ea69.s3tc.ctex", "res://.godot/imported/T_SprayCans_N.webp-61f546aff88d6fe48f187339d4f6ea69.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_SprayCans_N.webp"
+dest_files=["res://.godot/imported/T_SprayCans_N.webp-5d43b742e6ec66217a0e3198e0e83c22.s3tc.ctex", "res://.godot/imported/T_SprayCans_N.webp-5d43b742e6ec66217a0e3198e0e83c22.etc2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5je82mgtnyun"
-path="res://.godot/imported/T_LightBox_04_D.webp-d943d6f01dc323f592d5430ebae8e856.ctex"
+path="res://.godot/imported/T_LightBox_04_D.webp-233af6a82022c7d0a307a45dfd95e21b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_LightBox_04_D.webp"
-dest_files=["res://.godot/imported/T_LightBox_04_D.webp-d943d6f01dc323f592d5430ebae8e856.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_LightBox_04_D.webp"
+dest_files=["res://.godot/imported/T_LightBox_04_D.webp-233af6a82022c7d0a307a45dfd95e21b.ctex"]
 
 [params]
 

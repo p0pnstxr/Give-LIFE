@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bllyrxj1ycn80"
-path.s3tc="res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-295d1063f9dbd3949dd72520fd0b9e0e.s3tc.ctex"
-path.etc2="res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-295d1063f9dbd3949dd72520fd0b9e0e.etc2.ctex"
+path.s3tc="res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-4674fa8e01f89a788d13f1fb8972a86f.s3tc.ctex"
+path.etc2="res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-4674fa8e01f89a788d13f1fb8972a86f.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrsHelpful_RingMaster_D.webp"
-dest_files=["res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-295d1063f9dbd3949dd72520fd0b9e0e.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-295d1063f9dbd3949dd72520fd0b9e0e.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrsHelpful_RingMaster_D.webp"
+dest_files=["res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-4674fa8e01f89a788d13f1fb8972a86f.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_RingMaster_D.webp-4674fa8e01f89a788d13f1fb8972a86f.etc2.ctex"]
 
 [params]
 

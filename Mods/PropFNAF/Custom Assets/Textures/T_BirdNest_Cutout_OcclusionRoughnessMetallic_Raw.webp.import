@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6pdwqj2ulop2"
-path.s3tc="res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-27716ab530c110a71e564e9fbc1e016c.s3tc.ctex"
-path.etc2="res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-27716ab530c110a71e564e9fbc1e016c.etc2.ctex"
+path.s3tc="res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-9c7e2443f5a1d6005af41ccbc5f97b3c.s3tc.ctex"
+path.etc2="res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-9c7e2443f5a1d6005af41ccbc5f97b3c.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp"
-dest_files=["res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-27716ab530c110a71e564e9fbc1e016c.s3tc.ctex", "res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-27716ab530c110a71e564e9fbc1e016c.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp"
+dest_files=["res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-9c7e2443f5a1d6005af41ccbc5f97b3c.s3tc.ctex", "res://.godot/imported/T_BirdNest_Cutout_OcclusionRoughnessMetallic_Raw.webp-9c7e2443f5a1d6005af41ccbc5f97b3c.etc2.ctex"]
 
 [params]
 

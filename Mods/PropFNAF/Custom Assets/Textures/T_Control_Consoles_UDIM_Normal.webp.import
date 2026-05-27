@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bi1wpjmkx7bml"
-path.s3tc="res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-2d325090aea69052765aeda4562ca7f4.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-2d325090aea69052765aeda4562ca7f4.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-1468e5ff3aff3f9dd4c689460e2c3162.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-1468e5ff3aff3f9dd4c689460e2c3162.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Control_Consoles_UDIM_Normal.webp"
-dest_files=["res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-2d325090aea69052765aeda4562ca7f4.s3tc.ctex", "res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-2d325090aea69052765aeda4562ca7f4.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Control_Consoles_UDIM_Normal.webp"
+dest_files=["res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-1468e5ff3aff3f9dd4c689460e2c3162.s3tc.ctex", "res://.godot/imported/T_Control_Consoles_UDIM_Normal.webp-1468e5ff3aff3f9dd4c689460e2c3162.etc2.ctex"]
 
 [params]
 

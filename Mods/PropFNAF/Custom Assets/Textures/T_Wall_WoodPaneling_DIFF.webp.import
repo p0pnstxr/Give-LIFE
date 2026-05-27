@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm0m1g0bl7beh"
-path="res://.godot/imported/T_Wall_WoodPaneling_DIFF.webp-80284f96081dfde1d52fde6187791ab6.ctex"
+path="res://.godot/imported/T_Wall_WoodPaneling_DIFF.webp-313a47960f4a3b0255c2cd488c954f17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Wall_WoodPaneling_DIFF.webp"
-dest_files=["res://.godot/imported/T_Wall_WoodPaneling_DIFF.webp-80284f96081dfde1d52fde6187791ab6.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Wall_WoodPaneling_DIFF.webp"
+dest_files=["res://.godot/imported/T_Wall_WoodPaneling_DIFF.webp-313a47960f4a3b0255c2cd488c954f17.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8sip4was238g"
-path.s3tc="res://.godot/imported/T_MrsHelpful_D.webp-674842ed3e37ecf8cbbc84aabe0410c6.s3tc.ctex"
-path.etc2="res://.godot/imported/T_MrsHelpful_D.webp-674842ed3e37ecf8cbbc84aabe0410c6.etc2.ctex"
+path.s3tc="res://.godot/imported/T_MrsHelpful_D.webp-e162d5fc40b5e33b5b9b1c975c6b00bb.s3tc.ctex"
+path.etc2="res://.godot/imported/T_MrsHelpful_D.webp-e162d5fc40b5e33b5b9b1c975c6b00bb.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrsHelpful_D.webp"
-dest_files=["res://.godot/imported/T_MrsHelpful_D.webp-674842ed3e37ecf8cbbc84aabe0410c6.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_D.webp-674842ed3e37ecf8cbbc84aabe0410c6.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrsHelpful_D.webp"
+dest_files=["res://.godot/imported/T_MrsHelpful_D.webp-e162d5fc40b5e33b5b9b1c975c6b00bb.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_D.webp-e162d5fc40b5e33b5b9b1c975c6b00bb.etc2.ctex"]
 
 [params]
 

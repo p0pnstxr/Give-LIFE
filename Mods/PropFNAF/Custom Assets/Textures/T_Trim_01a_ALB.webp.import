@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dli3sm2trpcib"
-path="res://.godot/imported/T_Trim_01a_ALB.webp-b571dc5176e6bcf5d8e7c16ed2c944ee.ctex"
+path="res://.godot/imported/T_Trim_01a_ALB.webp-4ae56c9d2e0b347add76ecd4bbf2b195.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Trim_01a_ALB.webp"
-dest_files=["res://.godot/imported/T_Trim_01a_ALB.webp-b571dc5176e6bcf5d8e7c16ed2c944ee.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Trim_01a_ALB.webp"
+dest_files=["res://.godot/imported/T_Trim_01a_ALB.webp-4ae56c9d2e0b347add76ecd4bbf2b195.ctex"]
 
 [params]
 

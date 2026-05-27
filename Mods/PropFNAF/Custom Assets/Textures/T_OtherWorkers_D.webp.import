@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dipkoa1ky3s00"
-path.s3tc="res://.godot/imported/T_OtherWorkers_D.webp-a90a784ba3b5a6700d54c4a457b1df0a.s3tc.ctex"
-path.etc2="res://.godot/imported/T_OtherWorkers_D.webp-a90a784ba3b5a6700d54c4a457b1df0a.etc2.ctex"
+path.s3tc="res://.godot/imported/T_OtherWorkers_D.webp-f7f6059fa844e6e7c137e9441b1615ed.s3tc.ctex"
+path.etc2="res://.godot/imported/T_OtherWorkers_D.webp-f7f6059fa844e6e7c137e9441b1615ed.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_OtherWorkers_D.webp"
-dest_files=["res://.godot/imported/T_OtherWorkers_D.webp-a90a784ba3b5a6700d54c4a457b1df0a.s3tc.ctex", "res://.godot/imported/T_OtherWorkers_D.webp-a90a784ba3b5a6700d54c4a457b1df0a.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_OtherWorkers_D.webp"
+dest_files=["res://.godot/imported/T_OtherWorkers_D.webp-f7f6059fa844e6e7c137e9441b1615ed.s3tc.ctex", "res://.godot/imported/T_OtherWorkers_D.webp-f7f6059fa844e6e7c137e9441b1615ed.etc2.ctex"]
 
 [params]
 

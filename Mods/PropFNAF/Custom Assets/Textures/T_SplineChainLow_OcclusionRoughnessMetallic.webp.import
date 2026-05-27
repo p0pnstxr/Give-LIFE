@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c54tig2nphrpq"
-path.s3tc="res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-c6848a6d4a5c2160439f8350d8fba378.s3tc.ctex"
-path.etc2="res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-c6848a6d4a5c2160439f8350d8fba378.etc2.ctex"
+path.s3tc="res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-1ee71b9c124a65fadcb4af7d6e7899c9.s3tc.ctex"
+path.etc2="res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-1ee71b9c124a65fadcb4af7d6e7899c9.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_SplineChainLow_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-c6848a6d4a5c2160439f8350d8fba378.s3tc.ctex", "res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-c6848a6d4a5c2160439f8350d8fba378.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_SplineChainLow_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-1ee71b9c124a65fadcb4af7d6e7899c9.s3tc.ctex", "res://.godot/imported/T_SplineChainLow_OcclusionRoughnessMetallic.webp-1ee71b9c124a65fadcb4af7d6e7899c9.etc2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://befvmje4b8qt5"
-path="res://.godot/imported/T_Rolley_Normal.webp-c4aef111c375db16c29f3f4e981a5028.ctex"
+path="res://.godot/imported/T_Rolley_Normal.webp-c3450842a17bb46b05157d452ecabc1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Rolley_Normal.webp"
-dest_files=["res://.godot/imported/T_Rolley_Normal.webp-c4aef111c375db16c29f3f4e981a5028.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Rolley_Normal.webp"
+dest_files=["res://.godot/imported/T_Rolley_Normal.webp-c3450842a17bb46b05157d452ecabc1e.ctex"]
 
 [params]
 

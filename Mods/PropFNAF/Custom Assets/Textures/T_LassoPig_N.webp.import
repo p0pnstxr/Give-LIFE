@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c7bis0lq7ra5x"
-path="res://.godot/imported/T_LassoPig_N.webp-5ae5ba1c381aba09feaf0c81af9bc66c.ctex"
+path="res://.godot/imported/T_LassoPig_N.webp-627c7f7f5a34918f1a8727e584766015.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_LassoPig_N.webp"
-dest_files=["res://.godot/imported/T_LassoPig_N.webp-5ae5ba1c381aba09feaf0c81af9bc66c.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_LassoPig_N.webp"
+dest_files=["res://.godot/imported/T_LassoPig_N.webp-627c7f7f5a34918f1a8727e584766015.ctex"]
 
 [params]
 

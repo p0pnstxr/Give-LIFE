@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fh1v1ybxd33m"
-path="res://.godot/imported/T_light_spotlight_N.webp-b09620bbe4fbb69c068e1adc6f0da167.ctex"
+path="res://.godot/imported/T_light_spotlight_N.webp-641bfdec5cb9317c8f619ecc77f51a16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_light_spotlight_N.webp"
-dest_files=["res://.godot/imported/T_light_spotlight_N.webp-b09620bbe4fbb69c068e1adc6f0da167.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_light_spotlight_N.webp"
+dest_files=["res://.godot/imported/T_light_spotlight_N.webp-641bfdec5cb9317c8f619ecc77f51a16.ctex"]
 
 [params]
 

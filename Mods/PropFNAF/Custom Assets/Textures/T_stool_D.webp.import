@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diggs5whboeoi"
-path="res://.godot/imported/T_stool_D.webp-6ef2255af97fd5ef6ba04a9670eb8efd.ctex"
+path="res://.godot/imported/T_stool_D.webp-9cc416dd2b82918a56a8e732d4db8d77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_stool_D.webp"
-dest_files=["res://.godot/imported/T_stool_D.webp-6ef2255af97fd5ef6ba04a9670eb8efd.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_stool_D.webp"
+dest_files=["res://.godot/imported/T_stool_D.webp-9cc416dd2b82918a56a8e732d4db8d77.ctex"]
 
 [params]
 

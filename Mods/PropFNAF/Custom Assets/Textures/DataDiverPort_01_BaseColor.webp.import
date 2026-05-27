@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2bmj2py2bgce"
-path.s3tc="res://.godot/imported/DataDiverPort_01_BaseColor.webp-f8d34427ddbf7a7ef51bdcdb6d0069f3.s3tc.ctex"
-path.etc2="res://.godot/imported/DataDiverPort_01_BaseColor.webp-f8d34427ddbf7a7ef51bdcdb6d0069f3.etc2.ctex"
+path.s3tc="res://.godot/imported/DataDiverPort_01_BaseColor.webp-cb190fdfe98e0d336666efb50cd13750.s3tc.ctex"
+path.etc2="res://.godot/imported/DataDiverPort_01_BaseColor.webp-cb190fdfe98e0d336666efb50cd13750.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/DataDiverPort_01_BaseColor.webp"
-dest_files=["res://.godot/imported/DataDiverPort_01_BaseColor.webp-f8d34427ddbf7a7ef51bdcdb6d0069f3.s3tc.ctex", "res://.godot/imported/DataDiverPort_01_BaseColor.webp-f8d34427ddbf7a7ef51bdcdb6d0069f3.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/DataDiverPort_01_BaseColor.webp"
+dest_files=["res://.godot/imported/DataDiverPort_01_BaseColor.webp-cb190fdfe98e0d336666efb50cd13750.s3tc.ctex", "res://.godot/imported/DataDiverPort_01_BaseColor.webp-cb190fdfe98e0d336666efb50cd13750.etc2.ctex"]
 
 [params]
 

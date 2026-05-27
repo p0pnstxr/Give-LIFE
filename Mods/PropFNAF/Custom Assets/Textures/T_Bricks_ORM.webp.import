@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8vg7cieob72g"
-path.s3tc="res://.godot/imported/T_Bricks_ORM.webp-2c05ae6e3da007fc0b658a7a9c67e3ea.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Bricks_ORM.webp-2c05ae6e3da007fc0b658a7a9c67e3ea.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Bricks_ORM.webp-cb60469ece11e6260687a26629865de8.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Bricks_ORM.webp-cb60469ece11e6260687a26629865de8.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Bricks_ORM.webp"
-dest_files=["res://.godot/imported/T_Bricks_ORM.webp-2c05ae6e3da007fc0b658a7a9c67e3ea.s3tc.ctex", "res://.godot/imported/T_Bricks_ORM.webp-2c05ae6e3da007fc0b658a7a9c67e3ea.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Bricks_ORM.webp"
+dest_files=["res://.godot/imported/T_Bricks_ORM.webp-cb60469ece11e6260687a26629865de8.s3tc.ctex", "res://.godot/imported/T_Bricks_ORM.webp-cb60469ece11e6260687a26629865de8.etc2.ctex"]
 
 [params]
 

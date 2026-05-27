@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dm2mm1vvsjdpp"
-path.s3tc="res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-921d3100fd2dde392081bdb2c751dff9.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-921d3100fd2dde392081bdb2c751dff9.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-14a3653b895bbba0ada4aa03ed88363b.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-14a3653b895bbba0ada4aa03ed88363b.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WS_SunMoon_Cutout_N.webp"
-dest_files=["res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-921d3100fd2dde392081bdb2c751dff9.s3tc.ctex", "res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-921d3100fd2dde392081bdb2c751dff9.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WS_SunMoon_Cutout_N.webp"
+dest_files=["res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-14a3653b895bbba0ada4aa03ed88363b.s3tc.ctex", "res://.godot/imported/T_WS_SunMoon_Cutout_N.webp-14a3653b895bbba0ada4aa03ed88363b.etc2.ctex"]
 
 [params]
 

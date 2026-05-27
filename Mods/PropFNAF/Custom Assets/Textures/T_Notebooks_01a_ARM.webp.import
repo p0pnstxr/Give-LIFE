@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rdqya3nne041"
-path.s3tc="res://.godot/imported/T_Notebooks_01a_ARM.webp-7b9aa53a431b77923c4bede9f5403ac6.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Notebooks_01a_ARM.webp-7b9aa53a431b77923c4bede9f5403ac6.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Notebooks_01a_ARM.webp-07ea53ca6f6916f301c4252a6de7527e.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Notebooks_01a_ARM.webp-07ea53ca6f6916f301c4252a6de7527e.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Notebooks_01a_ARM.webp"
-dest_files=["res://.godot/imported/T_Notebooks_01a_ARM.webp-7b9aa53a431b77923c4bede9f5403ac6.s3tc.ctex", "res://.godot/imported/T_Notebooks_01a_ARM.webp-7b9aa53a431b77923c4bede9f5403ac6.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Notebooks_01a_ARM.webp"
+dest_files=["res://.godot/imported/T_Notebooks_01a_ARM.webp-07ea53ca6f6916f301c4252a6de7527e.s3tc.ctex", "res://.godot/imported/T_Notebooks_01a_ARM.webp-07ea53ca6f6916f301c4252a6de7527e.etc2.ctex"]
 
 [params]
 

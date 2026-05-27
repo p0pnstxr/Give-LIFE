@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt5ehm8bh8yqb"
-path="res://.godot/imported/T_ToyStore_Facade_Damaged_BaseColor.webp-0346cda6de5b162e543be06c0afeaa96.ctex"
+path="res://.godot/imported/T_ToyStore_Facade_Damaged_BaseColor.webp-1b9e9f42a259dea9a21edf86c84f6155.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ToyStore_Facade_Damaged_BaseColor.webp"
-dest_files=["res://.godot/imported/T_ToyStore_Facade_Damaged_BaseColor.webp-0346cda6de5b162e543be06c0afeaa96.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ToyStore_Facade_Damaged_BaseColor.webp"
+dest_files=["res://.godot/imported/T_ToyStore_Facade_Damaged_BaseColor.webp-1b9e9f42a259dea9a21edf86c84f6155.ctex"]
 
 [params]
 

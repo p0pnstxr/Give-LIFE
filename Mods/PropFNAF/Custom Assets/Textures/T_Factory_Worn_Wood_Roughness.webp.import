@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs8d8nym71p4w"
-path.s3tc="res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-8ecfe6684912108e979b20bf369a07f4.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-8ecfe6684912108e979b20bf369a07f4.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-c6894ab9d3dd58f4cdd87c3590872831.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-c6894ab9d3dd58f4cdd87c3590872831.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Factory_Worn_Wood_Roughness.webp"
-dest_files=["res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-8ecfe6684912108e979b20bf369a07f4.s3tc.ctex", "res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-8ecfe6684912108e979b20bf369a07f4.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Factory_Worn_Wood_Roughness.webp"
+dest_files=["res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-c6894ab9d3dd58f4cdd87c3590872831.s3tc.ctex", "res://.godot/imported/T_Factory_Worn_Wood_Roughness.webp-c6894ab9d3dd58f4cdd87c3590872831.etc2.ctex"]
 
 [params]
 

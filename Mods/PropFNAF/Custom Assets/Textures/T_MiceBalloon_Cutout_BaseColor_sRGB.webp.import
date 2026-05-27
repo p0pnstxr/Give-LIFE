@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6g3lgc1do8rl"
-path.s3tc="res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-92b278e4ecad4b8f7f1f0674a17579fa.s3tc.ctex"
-path.etc2="res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-92b278e4ecad4b8f7f1f0674a17579fa.etc2.ctex"
+path.s3tc="res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-dfe9bddcae4ac77c85e2e04ca7ba3ef7.s3tc.ctex"
+path.etc2="res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-dfe9bddcae4ac77c85e2e04ca7ba3ef7.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MiceBalloon_Cutout_BaseColor_sRGB.webp"
-dest_files=["res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-92b278e4ecad4b8f7f1f0674a17579fa.s3tc.ctex", "res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-92b278e4ecad4b8f7f1f0674a17579fa.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MiceBalloon_Cutout_BaseColor_sRGB.webp"
+dest_files=["res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-dfe9bddcae4ac77c85e2e04ca7ba3ef7.s3tc.ctex", "res://.godot/imported/T_MiceBalloon_Cutout_BaseColor_sRGB.webp-dfe9bddcae4ac77c85e2e04ca7ba3ef7.etc2.ctex"]
 
 [params]
 

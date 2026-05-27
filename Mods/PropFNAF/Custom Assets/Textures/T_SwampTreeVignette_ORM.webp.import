@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dll4uxa40n5e0"
-path.s3tc="res://.godot/imported/T_SwampTreeVignette_ORM.webp-53ea8c00cbb8c95d6adab6762efbf9ce.s3tc.ctex"
-path.etc2="res://.godot/imported/T_SwampTreeVignette_ORM.webp-53ea8c00cbb8c95d6adab6762efbf9ce.etc2.ctex"
+path.s3tc="res://.godot/imported/T_SwampTreeVignette_ORM.webp-7a4e9e2a9e0cff9d87270693434856fa.s3tc.ctex"
+path.etc2="res://.godot/imported/T_SwampTreeVignette_ORM.webp-7a4e9e2a9e0cff9d87270693434856fa.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_SwampTreeVignette_ORM.webp"
-dest_files=["res://.godot/imported/T_SwampTreeVignette_ORM.webp-53ea8c00cbb8c95d6adab6762efbf9ce.s3tc.ctex", "res://.godot/imported/T_SwampTreeVignette_ORM.webp-53ea8c00cbb8c95d6adab6762efbf9ce.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_SwampTreeVignette_ORM.webp"
+dest_files=["res://.godot/imported/T_SwampTreeVignette_ORM.webp-7a4e9e2a9e0cff9d87270693434856fa.s3tc.ctex", "res://.godot/imported/T_SwampTreeVignette_ORM.webp-7a4e9e2a9e0cff9d87270693434856fa.etc2.ctex"]
 
 [params]
 

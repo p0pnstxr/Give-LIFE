@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be1i0rk1jcgr4"
-path="res://.godot/imported/T_picture_big_U_BC.webp-8bde23c930e96a9b11fd7106a5312bbb.ctex"
+path="res://.godot/imported/T_picture_big_U_BC.webp-bf49f99145c85708f8cbd0ae0bf95394.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_picture_big_U_BC.webp"
-dest_files=["res://.godot/imported/T_picture_big_U_BC.webp-8bde23c930e96a9b11fd7106a5312bbb.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_picture_big_U_BC.webp"
+dest_files=["res://.godot/imported/T_picture_big_U_BC.webp-bf49f99145c85708f8cbd0ae0bf95394.ctex"]
 
 [params]
 

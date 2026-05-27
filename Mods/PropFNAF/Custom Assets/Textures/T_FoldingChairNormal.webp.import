@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj05cjvujaujb"
-path="res://.godot/imported/T_FoldingChairNormal.webp-0b3ac62b40e04db9e45398c138bbd1ca.ctex"
+path="res://.godot/imported/T_FoldingChairNormal.webp-1013537902a954cf0d75b649ac6d77f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_FoldingChairNormal.webp"
-dest_files=["res://.godot/imported/T_FoldingChairNormal.webp-0b3ac62b40e04db9e45398c138bbd1ca.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_FoldingChairNormal.webp"
+dest_files=["res://.godot/imported/T_FoldingChairNormal.webp-1013537902a954cf0d75b649ac6d77f0.ctex"]
 
 [params]
 

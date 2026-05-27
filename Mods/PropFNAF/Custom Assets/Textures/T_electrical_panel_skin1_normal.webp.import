@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c52704jbopb21"
-path="res://.godot/imported/T_electrical_panel_skin1_normal.webp-9bac0b0dd166219230160203e60c30a4.ctex"
+path="res://.godot/imported/T_electrical_panel_skin1_normal.webp-f833cd61daaf670915e28ad37174960a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_electrical_panel_skin1_normal.webp"
-dest_files=["res://.godot/imported/T_electrical_panel_skin1_normal.webp-9bac0b0dd166219230160203e60c30a4.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_electrical_panel_skin1_normal.webp"
+dest_files=["res://.godot/imported/T_electrical_panel_skin1_normal.webp-f833cd61daaf670915e28ad37174960a.ctex"]
 
 [params]
 

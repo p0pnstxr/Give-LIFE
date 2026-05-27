@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg3rgobl74mp0"
-path="res://.godot/imported/T_GirlFrog_ORM.webp-6b5d1fdb95b525cbdce20cbac3f4c685.ctex"
+path="res://.godot/imported/T_GirlFrog_ORM.webp-c363fef7abe70b34dd098540d00a9de9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_GirlFrog_ORM.webp"
-dest_files=["res://.godot/imported/T_GirlFrog_ORM.webp-6b5d1fdb95b525cbdce20cbac3f4c685.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_GirlFrog_ORM.webp"
+dest_files=["res://.godot/imported/T_GirlFrog_ORM.webp-c363fef7abe70b34dd098540d00a9de9.ctex"]
 
 [params]
 

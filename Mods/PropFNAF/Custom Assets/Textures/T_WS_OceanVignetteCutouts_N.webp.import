@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnpguhlkdsp0y"
-path.s3tc="res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-5f47105200f0d8d0e441cb3592fcda49.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-5f47105200f0d8d0e441cb3592fcda49.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-03c404aaa3936e765da793d5955aa5df.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-03c404aaa3936e765da793d5955aa5df.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WS_OceanVignetteCutouts_N.webp"
-dest_files=["res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-5f47105200f0d8d0e441cb3592fcda49.s3tc.ctex", "res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-5f47105200f0d8d0e441cb3592fcda49.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WS_OceanVignetteCutouts_N.webp"
+dest_files=["res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-03c404aaa3936e765da793d5955aa5df.s3tc.ctex", "res://.godot/imported/T_WS_OceanVignetteCutouts_N.webp-03c404aaa3936e765da793d5955aa5df.etc2.ctex"]
 
 [params]
 

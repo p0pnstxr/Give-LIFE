@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cit5wx75chqnn"
-path="res://.godot/imported/T_cart01_vintage_cart01_vintage_N.webp-fb5f8bf68ff82764f22681f76d1d228a.ctex"
+path="res://.godot/imported/T_cart01_vintage_cart01_vintage_N.webp-f996b637823127361b9a99ecd4d19f62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_cart01_vintage_cart01_vintage_N.webp"
-dest_files=["res://.godot/imported/T_cart01_vintage_cart01_vintage_N.webp-fb5f8bf68ff82764f22681f76d1d228a.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_cart01_vintage_cart01_vintage_N.webp"
+dest_files=["res://.godot/imported/T_cart01_vintage_cart01_vintage_N.webp-f996b637823127361b9a99ecd4d19f62.ctex"]
 
 [params]
 

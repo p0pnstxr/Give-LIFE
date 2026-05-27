@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmagjnt5je0ip"
-path.s3tc="res://.godot/imported/T_TreeStump_N.webp-45849baf5baa3eea209ffa22b9e31444.s3tc.ctex"
-path.etc2="res://.godot/imported/T_TreeStump_N.webp-45849baf5baa3eea209ffa22b9e31444.etc2.ctex"
+path.s3tc="res://.godot/imported/T_TreeStump_N.webp-a014a9d51b493b2124e833713c2a63b0.s3tc.ctex"
+path.etc2="res://.godot/imported/T_TreeStump_N.webp-a014a9d51b493b2124e833713c2a63b0.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_TreeStump_N.webp"
-dest_files=["res://.godot/imported/T_TreeStump_N.webp-45849baf5baa3eea209ffa22b9e31444.s3tc.ctex", "res://.godot/imported/T_TreeStump_N.webp-45849baf5baa3eea209ffa22b9e31444.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_TreeStump_N.webp"
+dest_files=["res://.godot/imported/T_TreeStump_N.webp-a014a9d51b493b2124e833713c2a63b0.s3tc.ctex", "res://.godot/imported/T_TreeStump_N.webp-a014a9d51b493b2124e833713c2a63b0.etc2.ctex"]
 
 [params]
 

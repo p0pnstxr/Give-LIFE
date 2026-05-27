@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfq33d1wls0mw"
-path="res://.godot/imported/T_WoodWall_ORM.webp-c7479506c81a9a560a7ac74291d92e9b.ctex"
+path="res://.godot/imported/T_WoodWall_ORM.webp-8bbf5922010a15648811e3c811bf5f2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WoodWall_ORM.webp"
-dest_files=["res://.godot/imported/T_WoodWall_ORM.webp-c7479506c81a9a560a7ac74291d92e9b.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WoodWall_ORM.webp"
+dest_files=["res://.godot/imported/T_WoodWall_ORM.webp-8bbf5922010a15648811e3c811bf5f2b.ctex"]
 
 [params]
 

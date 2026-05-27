@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1r303jea88yr"
-path="res://.godot/imported/T_OctopusStage_OcclusionRoughnessMetallic.webp-a41ce1f2981199a0b13ca96cad6e5f4e.ctex"
+path="res://.godot/imported/T_OctopusStage_OcclusionRoughnessMetallic.webp-58b759cee368b64865367945860e3dfb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_OctopusStage_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_OctopusStage_OcclusionRoughnessMetallic.webp-a41ce1f2981199a0b13ca96cad6e5f4e.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_OctopusStage_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_OctopusStage_OcclusionRoughnessMetallic.webp-58b759cee368b64865367945860e3dfb.ctex"]
 
 [params]
 

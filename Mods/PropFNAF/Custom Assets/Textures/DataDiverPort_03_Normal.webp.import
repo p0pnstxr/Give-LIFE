@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy2s0yhh5j7jm"
-path="res://.godot/imported/DataDiverPort_03_Normal.webp-0036f9452b00803e3f538c5fbe2bf4f6.ctex"
+path="res://.godot/imported/DataDiverPort_03_Normal.webp-03c361ab98956efce6b3321276606e3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/DataDiverPort_03_Normal.webp"
-dest_files=["res://.godot/imported/DataDiverPort_03_Normal.webp-0036f9452b00803e3f538c5fbe2bf4f6.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/DataDiverPort_03_Normal.webp"
+dest_files=["res://.godot/imported/DataDiverPort_03_Normal.webp-03c361ab98956efce6b3321276606e3c.ctex"]
 
 [params]
 

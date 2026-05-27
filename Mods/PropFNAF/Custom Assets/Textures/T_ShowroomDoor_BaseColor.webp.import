@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuhp62h05cmpu"
-path="res://.godot/imported/T_ShowroomDoor_BaseColor.webp-16bb632247f450935e9e30da79d89bc9.ctex"
+path="res://.godot/imported/T_ShowroomDoor_BaseColor.webp-ae94038950811df04bca318eefa658d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ShowroomDoor_BaseColor.webp"
-dest_files=["res://.godot/imported/T_ShowroomDoor_BaseColor.webp-16bb632247f450935e9e30da79d89bc9.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ShowroomDoor_BaseColor.webp"
+dest_files=["res://.godot/imported/T_ShowroomDoor_BaseColor.webp-ae94038950811df04bca318eefa658d7.ctex"]
 
 [params]
 

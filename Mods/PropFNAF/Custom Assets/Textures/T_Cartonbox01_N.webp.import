@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xx77hrp8aks5"
-path="res://.godot/imported/T_Cartonbox01_N.webp-14ccb2ecf314068dd01ccfe83b831a89.ctex"
+path="res://.godot/imported/T_Cartonbox01_N.webp-9de2414e648d40e7b5adf04001ecde9a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Cartonbox01_N.webp"
-dest_files=["res://.godot/imported/T_Cartonbox01_N.webp-14ccb2ecf314068dd01ccfe83b831a89.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Cartonbox01_N.webp"
+dest_files=["res://.godot/imported/T_Cartonbox01_N.webp-9de2414e648d40e7b5adf04001ecde9a.ctex"]
 
 [params]
 

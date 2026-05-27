@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brgxk71l5voie"
-path="res://.godot/imported/T_Curtain_D_01.webp-dfefe55459861391bfa5fe70142d32e0.ctex"
+path="res://.godot/imported/T_Curtain_D_01.webp-180faf75047456f35968288b7c858073.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Curtain_D_01.webp"
-dest_files=["res://.godot/imported/T_Curtain_D_01.webp-dfefe55459861391bfa5fe70142d32e0.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Curtain_D_01.webp"
+dest_files=["res://.godot/imported/T_Curtain_D_01.webp-180faf75047456f35968288b7c858073.ctex"]
 
 [params]
 

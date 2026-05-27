@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyw8qk4m83q2w"
-path.s3tc="res://.godot/imported/T_WheelPlatformStage_D.webp-7f5944bacc5fedb64fa5bafaa2c69cb4.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WheelPlatformStage_D.webp-7f5944bacc5fedb64fa5bafaa2c69cb4.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WheelPlatformStage_D.webp-b5be1b0ddcd0410996d876b539578158.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WheelPlatformStage_D.webp-b5be1b0ddcd0410996d876b539578158.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WheelPlatformStage_D.webp"
-dest_files=["res://.godot/imported/T_WheelPlatformStage_D.webp-7f5944bacc5fedb64fa5bafaa2c69cb4.s3tc.ctex", "res://.godot/imported/T_WheelPlatformStage_D.webp-7f5944bacc5fedb64fa5bafaa2c69cb4.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WheelPlatformStage_D.webp"
+dest_files=["res://.godot/imported/T_WheelPlatformStage_D.webp-b5be1b0ddcd0410996d876b539578158.s3tc.ctex", "res://.godot/imported/T_WheelPlatformStage_D.webp-b5be1b0ddcd0410996d876b539578158.etc2.ctex"]
 
 [params]
 

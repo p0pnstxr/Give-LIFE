@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq0ba0kfsxdj2"
-path="res://.godot/imported/T_Lounge_Chair_01a_D.webp-d87f2a487311b3c8bb43ebf8f1943040.ctex"
+path="res://.godot/imported/T_Lounge_Chair_01a_D.webp-7a405cbe6b254b2818cf7e582aa1c067.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Lounge_Chair_01a_D.webp"
-dest_files=["res://.godot/imported/T_Lounge_Chair_01a_D.webp-d87f2a487311b3c8bb43ebf8f1943040.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Lounge_Chair_01a_D.webp"
+dest_files=["res://.godot/imported/T_Lounge_Chair_01a_D.webp-7a405cbe6b254b2818cf7e582aa1c067.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b07eo3mmc4mpc"
-path.s3tc="res://.godot/imported/T_Handtools01_N.webp-605d087e7d769a0a10d05dfe3498139b.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Handtools01_N.webp-605d087e7d769a0a10d05dfe3498139b.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Handtools01_N.webp-062c4afde9b918a044878a088ea8d4de.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Handtools01_N.webp-062c4afde9b918a044878a088ea8d4de.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Handtools01_N.webp"
-dest_files=["res://.godot/imported/T_Handtools01_N.webp-605d087e7d769a0a10d05dfe3498139b.s3tc.ctex", "res://.godot/imported/T_Handtools01_N.webp-605d087e7d769a0a10d05dfe3498139b.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Handtools01_N.webp"
+dest_files=["res://.godot/imported/T_Handtools01_N.webp-062c4afde9b918a044878a088ea8d4de.s3tc.ctex", "res://.godot/imported/T_Handtools01_N.webp-062c4afde9b918a044878a088ea8d4de.etc2.ctex"]
 
 [params]
 

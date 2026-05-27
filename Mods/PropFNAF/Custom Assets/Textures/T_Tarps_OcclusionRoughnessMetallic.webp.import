@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3a6py6aci4s2"
-path="res://.godot/imported/T_Tarps_OcclusionRoughnessMetallic.webp-6094f7b4ad4e3c7f843d32c5e86a1f39.ctex"
+path="res://.godot/imported/T_Tarps_OcclusionRoughnessMetallic.webp-64e12e96393b31efd28344d874e3a1d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Tarps_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_Tarps_OcclusionRoughnessMetallic.webp-6094f7b4ad4e3c7f843d32c5e86a1f39.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Tarps_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_Tarps_OcclusionRoughnessMetallic.webp-64e12e96393b31efd28344d874e3a1d8.ctex"]
 
 [params]
 

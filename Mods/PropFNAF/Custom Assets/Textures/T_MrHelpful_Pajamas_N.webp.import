@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bformviksd1bs"
-path="res://.godot/imported/T_MrHelpful_Pajamas_N.webp-37f5f6eced5e6eaa1e73e11d89262552.ctex"
+path="res://.godot/imported/T_MrHelpful_Pajamas_N.webp-0ec935d5a3438519679280c21118c272.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrHelpful_Pajamas_N.webp"
-dest_files=["res://.godot/imported/T_MrHelpful_Pajamas_N.webp-37f5f6eced5e6eaa1e73e11d89262552.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrHelpful_Pajamas_N.webp"
+dest_files=["res://.godot/imported/T_MrHelpful_Pajamas_N.webp-0ec935d5a3438519679280c21118c272.ctex"]
 
 [params]
 

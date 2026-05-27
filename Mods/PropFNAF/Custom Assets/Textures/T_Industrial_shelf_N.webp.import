@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sqgg1yv8hkei"
-path="res://.godot/imported/T_Industrial_shelf_N.webp-48491e7fcd7a167d60497f7e50fb6044.ctex"
+path="res://.godot/imported/T_Industrial_shelf_N.webp-94a4b46680319b8c49ba9a9799253ae0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Industrial_shelf_N.webp"
-dest_files=["res://.godot/imported/T_Industrial_shelf_N.webp-48491e7fcd7a167d60497f7e50fb6044.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Industrial_shelf_N.webp"
+dest_files=["res://.godot/imported/T_Industrial_shelf_N.webp-94a4b46680319b8c49ba9a9799253ae0.ctex"]
 
 [params]
 

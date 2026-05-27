@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqhi0yr6j3trx"
-path.s3tc="res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-f72d5f94002328f76f6548c6b51a94ab.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-f72d5f94002328f76f6548c6b51a94ab.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-eb49809ebf2d96b3d159eb73f3f9145e.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-eb49809ebf2d96b3d159eb73f3f9145e.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Control_Consoles_UDIM_Albedo.webp"
-dest_files=["res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-f72d5f94002328f76f6548c6b51a94ab.s3tc.ctex", "res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-f72d5f94002328f76f6548c6b51a94ab.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Control_Consoles_UDIM_Albedo.webp"
+dest_files=["res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-eb49809ebf2d96b3d159eb73f3f9145e.s3tc.ctex", "res://.godot/imported/T_Control_Consoles_UDIM_Albedo.webp-eb49809ebf2d96b3d159eb73f3f9145e.etc2.ctex"]
 
 [params]
 

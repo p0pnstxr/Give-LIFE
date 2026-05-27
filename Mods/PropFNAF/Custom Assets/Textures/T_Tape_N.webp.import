@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpmk32gv5n4k4"
-path.s3tc="res://.godot/imported/T_Tape_N.webp-02362ae6eaad191fdaad841e9c7d5ec2.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Tape_N.webp-02362ae6eaad191fdaad841e9c7d5ec2.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Tape_N.webp-16d556f223875af380bb750ae30ef864.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Tape_N.webp-16d556f223875af380bb750ae30ef864.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Tape_N.webp"
-dest_files=["res://.godot/imported/T_Tape_N.webp-02362ae6eaad191fdaad841e9c7d5ec2.s3tc.ctex", "res://.godot/imported/T_Tape_N.webp-02362ae6eaad191fdaad841e9c7d5ec2.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Tape_N.webp"
+dest_files=["res://.godot/imported/T_Tape_N.webp-16d556f223875af380bb750ae30ef864.s3tc.ctex", "res://.godot/imported/T_Tape_N.webp-16d556f223875af380bb750ae30ef864.etc2.ctex"]
 
 [params]
 

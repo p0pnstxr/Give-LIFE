@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvdyman5akghv"
-path.s3tc="res://.godot/imported/T_WorkDesk_N.webp-9fb3197d40323647beb7001fa6d48beb.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WorkDesk_N.webp-9fb3197d40323647beb7001fa6d48beb.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WorkDesk_N.webp-28306b7457b0551b3074234f335d0095.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WorkDesk_N.webp-28306b7457b0551b3074234f335d0095.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WorkDesk_N.webp"
-dest_files=["res://.godot/imported/T_WorkDesk_N.webp-9fb3197d40323647beb7001fa6d48beb.s3tc.ctex", "res://.godot/imported/T_WorkDesk_N.webp-9fb3197d40323647beb7001fa6d48beb.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WorkDesk_N.webp"
+dest_files=["res://.godot/imported/T_WorkDesk_N.webp-28306b7457b0551b3074234f335d0095.s3tc.ctex", "res://.godot/imported/T_WorkDesk_N.webp-28306b7457b0551b3074234f335d0095.etc2.ctex"]
 
 [params]
 

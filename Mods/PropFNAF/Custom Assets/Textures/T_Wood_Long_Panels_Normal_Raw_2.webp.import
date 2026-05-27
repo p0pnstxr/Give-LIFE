@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wkr57xupisuh"
-path="res://.godot/imported/T_Wood_Long_Panels_Normal_Raw_2.webp-c5a2d0c7a2df87042886badc5c1b8ba9.ctex"
+path="res://.godot/imported/T_Wood_Long_Panels_Normal_Raw_2.webp-565c6435dd4ea83b88a0c8f2fe6b7c69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Wood_Long_Panels_Normal_Raw_2.webp"
-dest_files=["res://.godot/imported/T_Wood_Long_Panels_Normal_Raw_2.webp-c5a2d0c7a2df87042886badc5c1b8ba9.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Wood_Long_Panels_Normal_Raw_2.webp"
+dest_files=["res://.godot/imported/T_Wood_Long_Panels_Normal_Raw_2.webp-565c6435dd4ea83b88a0c8f2fe6b7c69.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgmc6hnqjnaxf"
-path.s3tc="res://.godot/imported/T_Tarp01_D.webp-72c8ac73426150dd53ae57e9af130a4d.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Tarp01_D.webp-72c8ac73426150dd53ae57e9af130a4d.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Tarp01_D.webp-799dd5ea2573dd66e04d43b349bea25d.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Tarp01_D.webp-799dd5ea2573dd66e04d43b349bea25d.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Tarp01_D.webp"
-dest_files=["res://.godot/imported/T_Tarp01_D.webp-72c8ac73426150dd53ae57e9af130a4d.s3tc.ctex", "res://.godot/imported/T_Tarp01_D.webp-72c8ac73426150dd53ae57e9af130a4d.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Tarp01_D.webp"
+dest_files=["res://.godot/imported/T_Tarp01_D.webp-799dd5ea2573dd66e04d43b349bea25d.s3tc.ctex", "res://.godot/imported/T_Tarp01_D.webp-799dd5ea2573dd66e04d43b349bea25d.etc2.ctex"]
 
 [params]
 

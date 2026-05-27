@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx6lepbjf1v6t"
-path.s3tc="res://.godot/imported/T_Door2_Metal_ORM.webp-d26df75094f0efd69f1c0f4beaf245c2.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Door2_Metal_ORM.webp-d26df75094f0efd69f1c0f4beaf245c2.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Door2_Metal_ORM.webp-32a63f4d5bd37783d07c3c3af9064696.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Door2_Metal_ORM.webp-32a63f4d5bd37783d07c3c3af9064696.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Door2_Metal_ORM.webp"
-dest_files=["res://.godot/imported/T_Door2_Metal_ORM.webp-d26df75094f0efd69f1c0f4beaf245c2.s3tc.ctex", "res://.godot/imported/T_Door2_Metal_ORM.webp-d26df75094f0efd69f1c0f4beaf245c2.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Door2_Metal_ORM.webp"
+dest_files=["res://.godot/imported/T_Door2_Metal_ORM.webp-32a63f4d5bd37783d07c3c3af9064696.s3tc.ctex", "res://.godot/imported/T_Door2_Metal_ORM.webp-32a63f4d5bd37783d07c3c3af9064696.etc2.ctex"]
 
 [params]
 

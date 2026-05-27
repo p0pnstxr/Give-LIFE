@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsv7bsfmpdgor"
-path="res://.godot/imported/T_MrsHelpful_Business_N.webp-c8267396b3577537e9722893c5e615c4.ctex"
+path="res://.godot/imported/T_MrsHelpful_Business_N.webp-7394fb614a6690b9995391aa2e4945b3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrsHelpful_Business_N.webp"
-dest_files=["res://.godot/imported/T_MrsHelpful_Business_N.webp-c8267396b3577537e9722893c5e615c4.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrsHelpful_Business_N.webp"
+dest_files=["res://.godot/imported/T_MrsHelpful_Business_N.webp-7394fb614a6690b9995391aa2e4945b3.ctex"]
 
 [params]
 

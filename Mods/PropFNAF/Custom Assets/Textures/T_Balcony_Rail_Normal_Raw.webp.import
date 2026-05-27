@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfygiif4lh15v"
-path="res://.godot/imported/T_Balcony_Rail_Normal_Raw.webp-e1e77bebe01b597f2625af8e5fd7cefc.ctex"
+path="res://.godot/imported/T_Balcony_Rail_Normal_Raw.webp-376e542b6622d945b55121f30ed2ca21.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Balcony_Rail_Normal_Raw.webp"
-dest_files=["res://.godot/imported/T_Balcony_Rail_Normal_Raw.webp-e1e77bebe01b597f2625af8e5fd7cefc.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Balcony_Rail_Normal_Raw.webp"
+dest_files=["res://.godot/imported/T_Balcony_Rail_Normal_Raw.webp-376e542b6622d945b55121f30ed2ca21.ctex"]
 
 [params]
 

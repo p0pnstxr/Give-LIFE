@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr5p0mjmgyij4"
-path.s3tc="res://.godot/imported/T_WS_ElevatorPlatform_N.webp-4b09f396ffb666b8c251a3d40cab46f6.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WS_ElevatorPlatform_N.webp-4b09f396ffb666b8c251a3d40cab46f6.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WS_ElevatorPlatform_N.webp-d997b1a3873029a6b97b30955e3573a4.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WS_ElevatorPlatform_N.webp-d997b1a3873029a6b97b30955e3573a4.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WS_ElevatorPlatform_N.webp"
-dest_files=["res://.godot/imported/T_WS_ElevatorPlatform_N.webp-4b09f396ffb666b8c251a3d40cab46f6.s3tc.ctex", "res://.godot/imported/T_WS_ElevatorPlatform_N.webp-4b09f396ffb666b8c251a3d40cab46f6.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WS_ElevatorPlatform_N.webp"
+dest_files=["res://.godot/imported/T_WS_ElevatorPlatform_N.webp-d997b1a3873029a6b97b30955e3573a4.s3tc.ctex", "res://.godot/imported/T_WS_ElevatorPlatform_N.webp-d997b1a3873029a6b97b30955e3573a4.etc2.ctex"]
 
 [params]
 

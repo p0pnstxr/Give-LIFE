@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://biku78k2rhv66"
-path.s3tc="res://.godot/imported/T_Terminal_low_D.webp-ccefdc1a20d80d6b59828f39ca7786a2.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Terminal_low_D.webp-ccefdc1a20d80d6b59828f39ca7786a2.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Terminal_low_D.webp-c02b8bff9ea7416e21edf8bd63f241e2.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Terminal_low_D.webp-c02b8bff9ea7416e21edf8bd63f241e2.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Terminal_low_D.webp"
-dest_files=["res://.godot/imported/T_Terminal_low_D.webp-ccefdc1a20d80d6b59828f39ca7786a2.s3tc.ctex", "res://.godot/imported/T_Terminal_low_D.webp-ccefdc1a20d80d6b59828f39ca7786a2.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Terminal_low_D.webp"
+dest_files=["res://.godot/imported/T_Terminal_low_D.webp-c02b8bff9ea7416e21edf8bd63f241e2.s3tc.ctex", "res://.godot/imported/T_Terminal_low_D.webp-c02b8bff9ea7416e21edf8bd63f241e2.etc2.ctex"]
 
 [params]
 

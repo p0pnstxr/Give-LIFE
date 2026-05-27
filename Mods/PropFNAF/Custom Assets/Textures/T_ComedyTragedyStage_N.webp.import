@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mqgscpi7mfh1"
-path.s3tc="res://.godot/imported/T_ComedyTragedyStage_N.webp-1b5932dc22c9ba05951702fa8fe7ad28.s3tc.ctex"
-path.etc2="res://.godot/imported/T_ComedyTragedyStage_N.webp-1b5932dc22c9ba05951702fa8fe7ad28.etc2.ctex"
+path.s3tc="res://.godot/imported/T_ComedyTragedyStage_N.webp-2e1bb402a0d5f17d8abf7bf0294a5138.s3tc.ctex"
+path.etc2="res://.godot/imported/T_ComedyTragedyStage_N.webp-2e1bb402a0d5f17d8abf7bf0294a5138.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ComedyTragedyStage_N.webp"
-dest_files=["res://.godot/imported/T_ComedyTragedyStage_N.webp-1b5932dc22c9ba05951702fa8fe7ad28.s3tc.ctex", "res://.godot/imported/T_ComedyTragedyStage_N.webp-1b5932dc22c9ba05951702fa8fe7ad28.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ComedyTragedyStage_N.webp"
+dest_files=["res://.godot/imported/T_ComedyTragedyStage_N.webp-2e1bb402a0d5f17d8abf7bf0294a5138.s3tc.ctex", "res://.godot/imported/T_ComedyTragedyStage_N.webp-2e1bb402a0d5f17d8abf7bf0294a5138.etc2.ctex"]
 
 [params]
 

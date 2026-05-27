@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu26yt3g82see"
-path="res://.godot/imported/T_CarnivalPosters_Elephant_01.webp-6ae1bd821f3d9b223c3376a2d99ebcc8.ctex"
+path="res://.godot/imported/T_CarnivalPosters_Elephant_01.webp-f12bd6bd12f4f333125adca06528f3a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_CarnivalPosters_Elephant_01.webp"
-dest_files=["res://.godot/imported/T_CarnivalPosters_Elephant_01.webp-6ae1bd821f3d9b223c3376a2d99ebcc8.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_CarnivalPosters_Elephant_01.webp"
+dest_files=["res://.godot/imported/T_CarnivalPosters_Elephant_01.webp-f12bd6bd12f4f333125adca06528f3a2.ctex"]
 
 [params]
 

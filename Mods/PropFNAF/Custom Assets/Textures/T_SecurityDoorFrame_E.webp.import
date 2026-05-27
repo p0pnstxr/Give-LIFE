@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuvynq1jv3xo4"
-path.s3tc="res://.godot/imported/T_SecurityDoorFrame_E.webp-ac51034cad59abf0a21c25559705f14f.s3tc.ctex"
-path.etc2="res://.godot/imported/T_SecurityDoorFrame_E.webp-ac51034cad59abf0a21c25559705f14f.etc2.ctex"
+path.s3tc="res://.godot/imported/T_SecurityDoorFrame_E.webp-c8e408b0465c5db5385abc40f409c3ee.s3tc.ctex"
+path.etc2="res://.godot/imported/T_SecurityDoorFrame_E.webp-c8e408b0465c5db5385abc40f409c3ee.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_SecurityDoorFrame_E.webp"
-dest_files=["res://.godot/imported/T_SecurityDoorFrame_E.webp-ac51034cad59abf0a21c25559705f14f.s3tc.ctex", "res://.godot/imported/T_SecurityDoorFrame_E.webp-ac51034cad59abf0a21c25559705f14f.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_SecurityDoorFrame_E.webp"
+dest_files=["res://.godot/imported/T_SecurityDoorFrame_E.webp-c8e408b0465c5db5385abc40f409c3ee.s3tc.ctex", "res://.godot/imported/T_SecurityDoorFrame_E.webp-c8e408b0465c5db5385abc40f409c3ee.etc2.ctex"]
 
 [params]
 

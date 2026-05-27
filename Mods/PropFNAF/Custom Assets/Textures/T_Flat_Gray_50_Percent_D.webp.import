@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6t3r0ei852sj"
-path.s3tc="res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-a558305bbbb7b087c54b83a08c5fd334.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-a558305bbbb7b087c54b83a08c5fd334.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-2c07821e04706265e9a2430a631f78c2.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-2c07821e04706265e9a2430a631f78c2.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Flat_Gray_50_Percent_D.webp"
-dest_files=["res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-a558305bbbb7b087c54b83a08c5fd334.s3tc.ctex", "res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-a558305bbbb7b087c54b83a08c5fd334.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Flat_Gray_50_Percent_D.webp"
+dest_files=["res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-2c07821e04706265e9a2430a631f78c2.s3tc.ctex", "res://.godot/imported/T_Flat_Gray_50_Percent_D.webp-2c07821e04706265e9a2430a631f78c2.etc2.ctex"]
 
 [params]
 

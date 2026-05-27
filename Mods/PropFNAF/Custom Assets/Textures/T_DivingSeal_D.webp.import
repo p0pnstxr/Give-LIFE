@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lis63kc0e2u3"
-path.s3tc="res://.godot/imported/T_DivingSeal_D.webp-d46d60d447fad69b3cd2a185d6d8a168.s3tc.ctex"
-path.etc2="res://.godot/imported/T_DivingSeal_D.webp-d46d60d447fad69b3cd2a185d6d8a168.etc2.ctex"
+path.s3tc="res://.godot/imported/T_DivingSeal_D.webp-58e0b5cc15a80b6f015fe5ad53d30156.s3tc.ctex"
+path.etc2="res://.godot/imported/T_DivingSeal_D.webp-58e0b5cc15a80b6f015fe5ad53d30156.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_DivingSeal_D.webp"
-dest_files=["res://.godot/imported/T_DivingSeal_D.webp-d46d60d447fad69b3cd2a185d6d8a168.s3tc.ctex", "res://.godot/imported/T_DivingSeal_D.webp-d46d60d447fad69b3cd2a185d6d8a168.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_DivingSeal_D.webp"
+dest_files=["res://.godot/imported/T_DivingSeal_D.webp-58e0b5cc15a80b6f015fe5ad53d30156.s3tc.ctex", "res://.godot/imported/T_DivingSeal_D.webp-58e0b5cc15a80b6f015fe5ad53d30156.etc2.ctex"]
 
 [params]
 

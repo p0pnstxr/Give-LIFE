@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2ldhmn1g03es"
-path="res://.godot/imported/T_Desk_Set_01a_ALB.webp-708f7a1426a17c2a9629eb74470df315.ctex"
+path="res://.godot/imported/T_Desk_Set_01a_ALB.webp-bfbe4cc24df3e490f6cff16772ecacde.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Desk_Set_01a_ALB.webp"
-dest_files=["res://.godot/imported/T_Desk_Set_01a_ALB.webp-708f7a1426a17c2a9629eb74470df315.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Desk_Set_01a_ALB.webp"
+dest_files=["res://.godot/imported/T_Desk_Set_01a_ALB.webp-bfbe4cc24df3e490f6cff16772ecacde.ctex"]
 
 [params]
 

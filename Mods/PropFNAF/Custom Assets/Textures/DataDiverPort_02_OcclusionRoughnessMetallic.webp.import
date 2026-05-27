@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvd7l11kkfpku"
-path.s3tc="res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-8f2a67027b501b32b16c8a5e6f7119b8.s3tc.ctex"
-path.etc2="res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-8f2a67027b501b32b16c8a5e6f7119b8.etc2.ctex"
+path.s3tc="res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-e5dee19acfab5ddbcaf4f24b9af22702.s3tc.ctex"
+path.etc2="res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-e5dee19acfab5ddbcaf4f24b9af22702.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/DataDiverPort_02_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-8f2a67027b501b32b16c8a5e6f7119b8.s3tc.ctex", "res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-8f2a67027b501b32b16c8a5e6f7119b8.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/DataDiverPort_02_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-e5dee19acfab5ddbcaf4f24b9af22702.s3tc.ctex", "res://.godot/imported/DataDiverPort_02_OcclusionRoughnessMetallic.webp-e5dee19acfab5ddbcaf4f24b9af22702.etc2.ctex"]
 
 [params]
 

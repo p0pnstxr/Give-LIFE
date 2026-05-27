@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx801g716ntkr"
-path="res://.godot/imported/T_Trashcans_Large_N.webp-1f310a3ab962fe3f4032ee7cd2e3dd2a.ctex"
+path="res://.godot/imported/T_Trashcans_Large_N.webp-334191ac32b39e8e81f91ab5665f70d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Trashcans_Large_N.webp"
-dest_files=["res://.godot/imported/T_Trashcans_Large_N.webp-1f310a3ab962fe3f4032ee7cd2e3dd2a.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Trashcans_Large_N.webp"
+dest_files=["res://.godot/imported/T_Trashcans_Large_N.webp-334191ac32b39e8e81f91ab5665f70d5.ctex"]
 
 [params]
 

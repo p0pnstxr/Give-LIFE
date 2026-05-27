@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch2a4qpf28ha5"
-path="res://.godot/imported/T_ShowroomDoor_Emissive.webp-5c2cca621877b07b4529ee1377982791.ctex"
+path="res://.godot/imported/T_ShowroomDoor_Emissive.webp-be42f1e66205acd527931d08ab37fe43.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ShowroomDoor_Emissive.webp"
-dest_files=["res://.godot/imported/T_ShowroomDoor_Emissive.webp-5c2cca621877b07b4529ee1377982791.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ShowroomDoor_Emissive.webp"
+dest_files=["res://.godot/imported/T_ShowroomDoor_Emissive.webp-be42f1e66205acd527931d08ab37fe43.ctex"]
 
 [params]
 

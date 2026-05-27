@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2vd8xbrk8dln"
-path="res://.godot/imported/T_BoyFrog_D.webp-f7e1827f29468613940ddb8d049f665b.ctex"
+path="res://.godot/imported/T_BoyFrog_D.webp-4da32bfc5a5621f40b661dd4e295b195.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_BoyFrog_D.webp"
-dest_files=["res://.godot/imported/T_BoyFrog_D.webp-f7e1827f29468613940ddb8d049f665b.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_BoyFrog_D.webp"
+dest_files=["res://.godot/imported/T_BoyFrog_D.webp-4da32bfc5a5621f40b661dd4e295b195.ctex"]
 
 [params]
 

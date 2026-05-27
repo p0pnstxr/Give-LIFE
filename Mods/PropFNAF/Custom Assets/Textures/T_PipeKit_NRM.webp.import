@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nr5fs712ft2v"
-path="res://.godot/imported/T_PipeKit_NRM.webp-531af498add6b6d109ed21b3b75bafdd.ctex"
+path="res://.godot/imported/T_PipeKit_NRM.webp-e43929d8aa45bce442186cda06735c1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_PipeKit_NRM.webp"
-dest_files=["res://.godot/imported/T_PipeKit_NRM.webp-531af498add6b6d109ed21b3b75bafdd.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_PipeKit_NRM.webp"
+dest_files=["res://.godot/imported/T_PipeKit_NRM.webp-e43929d8aa45bce442186cda06735c1d.ctex"]
 
 [params]
 

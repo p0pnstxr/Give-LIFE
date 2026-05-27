@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnxu2p6we2w2t"
-path="res://.godot/imported/T_FoldingStair_OcclusionRoughnessMetallic.webp-76559fbef6972e5f254ac64ce834086f.ctex"
+path="res://.godot/imported/T_FoldingStair_OcclusionRoughnessMetallic.webp-408e45f8738c8e375e0bf872c04ec44e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_FoldingStair_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_FoldingStair_OcclusionRoughnessMetallic.webp-76559fbef6972e5f254ac64ce834086f.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_FoldingStair_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_FoldingStair_OcclusionRoughnessMetallic.webp-408e45f8738c8e375e0bf872c04ec44e.ctex"]
 
 [params]
 

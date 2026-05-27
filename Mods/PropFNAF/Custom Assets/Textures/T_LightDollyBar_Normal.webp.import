@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci8y7xk3nvo7c"
-path="res://.godot/imported/T_LightDollyBar_Normal.webp-b9249dba34a5b0b467d0b725545db6ef.ctex"
+path="res://.godot/imported/T_LightDollyBar_Normal.webp-1e35f7ddcfcfc9570ed40ae53bcd4456.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_LightDollyBar_Normal.webp"
-dest_files=["res://.godot/imported/T_LightDollyBar_Normal.webp-b9249dba34a5b0b467d0b725545db6ef.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_LightDollyBar_Normal.webp"
+dest_files=["res://.godot/imported/T_LightDollyBar_Normal.webp-1e35f7ddcfcfc9570ed40ae53bcd4456.ctex"]
 
 [params]
 

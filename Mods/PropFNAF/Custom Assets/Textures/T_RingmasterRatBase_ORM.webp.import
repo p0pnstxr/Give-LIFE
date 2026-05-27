@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://px4purn81slf"
-path="res://.godot/imported/T_RingmasterRatBase_ORM.webp-1c1a7a4d5242d65d4d5e5dcbb4f99924.ctex"
+path="res://.godot/imported/T_RingmasterRatBase_ORM.webp-b95ba5490a314161f483df88e51c2009.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_RingmasterRatBase_ORM.webp"
-dest_files=["res://.godot/imported/T_RingmasterRatBase_ORM.webp-1c1a7a4d5242d65d4d5e5dcbb4f99924.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_RingmasterRatBase_ORM.webp"
+dest_files=["res://.godot/imported/T_RingmasterRatBase_ORM.webp-b95ba5490a314161f483df88e51c2009.ctex"]
 
 [params]
 

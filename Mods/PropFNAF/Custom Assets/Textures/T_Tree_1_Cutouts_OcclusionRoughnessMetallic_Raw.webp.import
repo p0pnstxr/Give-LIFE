@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhspsqaiscyg6"
-path.s3tc="res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-4025cc958b471011a0b0453b10736962.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-4025cc958b471011a0b0453b10736962.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-9983e55097e075c6309d06b7ab7f8198.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-9983e55097e075c6309d06b7ab7f8198.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp"
-dest_files=["res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-4025cc958b471011a0b0453b10736962.s3tc.ctex", "res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-4025cc958b471011a0b0453b10736962.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp"
+dest_files=["res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-9983e55097e075c6309d06b7ab7f8198.s3tc.ctex", "res://.godot/imported/T_Tree_1_Cutouts_OcclusionRoughnessMetallic_Raw.webp-9983e55097e075c6309d06b7ab7f8198.etc2.ctex"]
 
 [params]
 

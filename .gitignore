@@ -2,6 +2,8 @@
 *.import/
 export.cfg
 export_presets.cfg
+*.png.import
+*.webp.import
 
 # Imported translations (automatically generated from CSV files)
 *.translation
@@ -15,6 +17,8 @@ data_*/
 *.blend1
 /Mods/Give Life/Custom Assets/Substance Files
 /Mods/Faz Anim 2/Custom Assets/Substance Files
+
+# Mac-specific ignores
 .DS_Store
 Mods/.DS_Store
 Mods/PRPXS Workshop/Custom Assets/.DS_Store

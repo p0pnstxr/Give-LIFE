@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4i3tvn1egtxr"
-path="res://.godot/imported/T_ShowroomDoor_OcclusionRoughnessMetallic.webp-f3c4a00490db2a5fd1ba76441a2c20d3.ctex"
+path="res://.godot/imported/T_ShowroomDoor_OcclusionRoughnessMetallic.webp-d77a36afbe7cfe708d988abb5c27ef06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ShowroomDoor_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_ShowroomDoor_OcclusionRoughnessMetallic.webp-f3c4a00490db2a5fd1ba76441a2c20d3.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ShowroomDoor_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_ShowroomDoor_OcclusionRoughnessMetallic.webp-d77a36afbe7cfe708d988abb5c27ef06.ctex"]
 
 [params]
 

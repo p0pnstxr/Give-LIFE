@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba4usjhk81fds"
-path.s3tc="res://.godot/imported/T_WS_BirthdayCutouts_D.webp-d28dd26ade3ec5e5b0af99f0645eed8b.s3tc.ctex"
-path.etc2="res://.godot/imported/T_WS_BirthdayCutouts_D.webp-d28dd26ade3ec5e5b0af99f0645eed8b.etc2.ctex"
+path.s3tc="res://.godot/imported/T_WS_BirthdayCutouts_D.webp-2e4795cc0013bd44fee3eef62e61e7de.s3tc.ctex"
+path.etc2="res://.godot/imported/T_WS_BirthdayCutouts_D.webp-2e4795cc0013bd44fee3eef62e61e7de.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WS_BirthdayCutouts_D.webp"
-dest_files=["res://.godot/imported/T_WS_BirthdayCutouts_D.webp-d28dd26ade3ec5e5b0af99f0645eed8b.s3tc.ctex", "res://.godot/imported/T_WS_BirthdayCutouts_D.webp-d28dd26ade3ec5e5b0af99f0645eed8b.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WS_BirthdayCutouts_D.webp"
+dest_files=["res://.godot/imported/T_WS_BirthdayCutouts_D.webp-2e4795cc0013bd44fee3eef62e61e7de.s3tc.ctex", "res://.godot/imported/T_WS_BirthdayCutouts_D.webp-2e4795cc0013bd44fee3eef62e61e7de.etc2.ctex"]
 
 [params]
 

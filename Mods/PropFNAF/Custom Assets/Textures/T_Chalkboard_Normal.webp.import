@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca2os8bhue1pb"
-path.s3tc="res://.godot/imported/T_Chalkboard_Normal.webp-ce4643e43032fccba2943130915d4e02.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Chalkboard_Normal.webp-ce4643e43032fccba2943130915d4e02.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Chalkboard_Normal.webp-8ed9aaf1a79d3acc6644131e413ad091.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Chalkboard_Normal.webp-8ed9aaf1a79d3acc6644131e413ad091.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Chalkboard_Normal.webp"
-dest_files=["res://.godot/imported/T_Chalkboard_Normal.webp-ce4643e43032fccba2943130915d4e02.s3tc.ctex", "res://.godot/imported/T_Chalkboard_Normal.webp-ce4643e43032fccba2943130915d4e02.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Chalkboard_Normal.webp"
+dest_files=["res://.godot/imported/T_Chalkboard_Normal.webp-8ed9aaf1a79d3acc6644131e413ad091.s3tc.ctex", "res://.godot/imported/T_Chalkboard_Normal.webp-8ed9aaf1a79d3acc6644131e413ad091.etc2.ctex"]
 
 [params]
 

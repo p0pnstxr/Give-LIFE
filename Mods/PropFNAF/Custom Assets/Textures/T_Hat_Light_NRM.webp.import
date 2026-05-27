@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dki2uv6iqaro3"
-path="res://.godot/imported/T_Hat_Light_NRM.webp-17178d4594ce0770ad9c5fd19727c839.ctex"
+path="res://.godot/imported/T_Hat_Light_NRM.webp-89cd289966ea30f65df6a0a49fb4271c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Hat_Light_NRM.webp"
-dest_files=["res://.godot/imported/T_Hat_Light_NRM.webp-17178d4594ce0770ad9c5fd19727c839.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Hat_Light_NRM.webp"
+dest_files=["res://.godot/imported/T_Hat_Light_NRM.webp-89cd289966ea30f65df6a0a49fb4271c.ctex"]
 
 [params]
 

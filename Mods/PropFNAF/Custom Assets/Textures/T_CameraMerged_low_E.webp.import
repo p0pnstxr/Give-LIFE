@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://la16wqq3bam"
-path="res://.godot/imported/T_CameraMerged_low_E.webp-6e9b6714e428d0adfcc12b3934a0f44d.ctex"
+path="res://.godot/imported/T_CameraMerged_low_E.webp-792fcc0ddef8f3dbce9f20697fa27ec7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_CameraMerged_low_E.webp"
-dest_files=["res://.godot/imported/T_CameraMerged_low_E.webp-6e9b6714e428d0adfcc12b3934a0f44d.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_CameraMerged_low_E.webp"
+dest_files=["res://.godot/imported/T_CameraMerged_low_E.webp-792fcc0ddef8f3dbce9f20697fa27ec7.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgpwf5081fgpb"
-path.s3tc="res://.godot/imported/T_DeskFans_N.webp-aae41366949cb3323a8d3c2f7dbcba5c.s3tc.ctex"
-path.etc2="res://.godot/imported/T_DeskFans_N.webp-aae41366949cb3323a8d3c2f7dbcba5c.etc2.ctex"
+path.s3tc="res://.godot/imported/T_DeskFans_N.webp-ff73ddfd2f0c73385b058bd6a887b379.s3tc.ctex"
+path.etc2="res://.godot/imported/T_DeskFans_N.webp-ff73ddfd2f0c73385b058bd6a887b379.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_DeskFans_N.webp"
-dest_files=["res://.godot/imported/T_DeskFans_N.webp-aae41366949cb3323a8d3c2f7dbcba5c.s3tc.ctex", "res://.godot/imported/T_DeskFans_N.webp-aae41366949cb3323a8d3c2f7dbcba5c.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_DeskFans_N.webp"
+dest_files=["res://.godot/imported/T_DeskFans_N.webp-ff73ddfd2f0c73385b058bd6a887b379.s3tc.ctex", "res://.godot/imported/T_DeskFans_N.webp-ff73ddfd2f0c73385b058bd6a887b379.etc2.ctex"]
 
 [params]
 

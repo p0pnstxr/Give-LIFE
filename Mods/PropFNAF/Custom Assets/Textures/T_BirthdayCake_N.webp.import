@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3bk0tr7qgi27"
-path.s3tc="res://.godot/imported/T_BirthdayCake_N.webp-327c641c5ca3330aa853928a767bba76.s3tc.ctex"
-path.etc2="res://.godot/imported/T_BirthdayCake_N.webp-327c641c5ca3330aa853928a767bba76.etc2.ctex"
+path.s3tc="res://.godot/imported/T_BirthdayCake_N.webp-32b03ce0d92ce819ca85fac9a7ba3af8.s3tc.ctex"
+path.etc2="res://.godot/imported/T_BirthdayCake_N.webp-32b03ce0d92ce819ca85fac9a7ba3af8.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_BirthdayCake_N.webp"
-dest_files=["res://.godot/imported/T_BirthdayCake_N.webp-327c641c5ca3330aa853928a767bba76.s3tc.ctex", "res://.godot/imported/T_BirthdayCake_N.webp-327c641c5ca3330aa853928a767bba76.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_BirthdayCake_N.webp"
+dest_files=["res://.godot/imported/T_BirthdayCake_N.webp-32b03ce0d92ce819ca85fac9a7ba3af8.s3tc.ctex", "res://.godot/imported/T_BirthdayCake_N.webp-32b03ce0d92ce819ca85fac9a7ba3af8.etc2.ctex"]
 
 [params]
 

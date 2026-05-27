@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drhbiyq8uk2c2"
-path="res://.godot/imported/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp-aa93fb81811b7a259ccbbb11edb5c6ca.ctex"
+path="res://.godot/imported/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp-d50af516a7ddb9692dcb590bb48e560b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp"
-dest_files=["res://.godot/imported/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp-aa93fb81811b7a259ccbbb11edb5c6ca.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp"
+dest_files=["res://.godot/imported/T_Single_Panel_Half_Wood_Wall_OcclusionRoughnessMetallic_Raw.webp-d50af516a7ddb9692dcb590bb48e560b.ctex"]
 
 [params]
 

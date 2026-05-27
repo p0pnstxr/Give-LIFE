@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyt04oko5g85f"
-path.s3tc="res://.godot/imported/T_security_light_basecolor.webp-2f753ae87fac9edffbaf46a652d2da18.s3tc.ctex"
-path.etc2="res://.godot/imported/T_security_light_basecolor.webp-2f753ae87fac9edffbaf46a652d2da18.etc2.ctex"
+path.s3tc="res://.godot/imported/T_security_light_basecolor.webp-3434b30bf93bac2c78fe4dcaba322bd1.s3tc.ctex"
+path.etc2="res://.godot/imported/T_security_light_basecolor.webp-3434b30bf93bac2c78fe4dcaba322bd1.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_security_light_basecolor.webp"
-dest_files=["res://.godot/imported/T_security_light_basecolor.webp-2f753ae87fac9edffbaf46a652d2da18.s3tc.ctex", "res://.godot/imported/T_security_light_basecolor.webp-2f753ae87fac9edffbaf46a652d2da18.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_security_light_basecolor.webp"
+dest_files=["res://.godot/imported/T_security_light_basecolor.webp-3434b30bf93bac2c78fe4dcaba322bd1.s3tc.ctex", "res://.godot/imported/T_security_light_basecolor.webp-3434b30bf93bac2c78fe4dcaba322bd1.etc2.ctex"]
 
 [params]
 

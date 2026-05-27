@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ms5nv16chttr"
-path.s3tc="res://.godot/imported/DataDiverPort_02_Normal.webp-b773ffcb1f0a8a9ed8df252f5705c302.s3tc.ctex"
-path.etc2="res://.godot/imported/DataDiverPort_02_Normal.webp-b773ffcb1f0a8a9ed8df252f5705c302.etc2.ctex"
+path.s3tc="res://.godot/imported/DataDiverPort_02_Normal.webp-fe5d5f77b7514a8d650ca71925674215.s3tc.ctex"
+path.etc2="res://.godot/imported/DataDiverPort_02_Normal.webp-fe5d5f77b7514a8d650ca71925674215.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/DataDiverPort_02_Normal.webp"
-dest_files=["res://.godot/imported/DataDiverPort_02_Normal.webp-b773ffcb1f0a8a9ed8df252f5705c302.s3tc.ctex", "res://.godot/imported/DataDiverPort_02_Normal.webp-b773ffcb1f0a8a9ed8df252f5705c302.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/DataDiverPort_02_Normal.webp"
+dest_files=["res://.godot/imported/DataDiverPort_02_Normal.webp-fe5d5f77b7514a8d650ca71925674215.s3tc.ctex", "res://.godot/imported/DataDiverPort_02_Normal.webp-fe5d5f77b7514a8d650ca71925674215.etc2.ctex"]
 
 [params]
 

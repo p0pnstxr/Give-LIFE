@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs7v7tgke6j06"
-path="res://.godot/imported/T_WelcomeShow_Cymbals_ORM.webp-2807477989e7fbedda8489a37faf5ba3.ctex"
+path="res://.godot/imported/T_WelcomeShow_Cymbals_ORM.webp-0eed32e6ad23c286f00470bbd0b40fbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WelcomeShow_Cymbals_ORM.webp"
-dest_files=["res://.godot/imported/T_WelcomeShow_Cymbals_ORM.webp-2807477989e7fbedda8489a37faf5ba3.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WelcomeShow_Cymbals_ORM.webp"
+dest_files=["res://.godot/imported/T_WelcomeShow_Cymbals_ORM.webp-0eed32e6ad23c286f00470bbd0b40fbb.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7fhrhjj8glv5"
-path.s3tc="res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-f1c259606688a093cf916150c7ecb598.s3tc.ctex"
-path.etc2="res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-f1c259606688a093cf916150c7ecb598.etc2.ctex"
+path.s3tc="res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-090398b0beb4d97c310cfa0c7d93fdd9.s3tc.ctex"
+path.etc2="res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-090398b0beb4d97c310cfa0c7d93fdd9.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrHelpful_Ringmaster_D.webp"
-dest_files=["res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-f1c259606688a093cf916150c7ecb598.s3tc.ctex", "res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-f1c259606688a093cf916150c7ecb598.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrHelpful_Ringmaster_D.webp"
+dest_files=["res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-090398b0beb4d97c310cfa0c7d93fdd9.s3tc.ctex", "res://.godot/imported/T_MrHelpful_Ringmaster_D.webp-090398b0beb4d97c310cfa0c7d93fdd9.etc2.ctex"]
 
 [params]
 

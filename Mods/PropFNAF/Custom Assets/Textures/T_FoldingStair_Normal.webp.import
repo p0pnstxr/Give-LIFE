@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl4odli4jid3k"
-path="res://.godot/imported/T_FoldingStair_Normal.webp-47e3203e2c7d60989ae4a88d9484caa4.ctex"
+path="res://.godot/imported/T_FoldingStair_Normal.webp-7b32f82f85fca1f808294b3ddea19a5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_FoldingStair_Normal.webp"
-dest_files=["res://.godot/imported/T_FoldingStair_Normal.webp-47e3203e2c7d60989ae4a88d9484caa4.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_FoldingStair_Normal.webp"
+dest_files=["res://.godot/imported/T_FoldingStair_Normal.webp-7b32f82f85fca1f808294b3ddea19a5e.ctex"]
 
 [params]
 

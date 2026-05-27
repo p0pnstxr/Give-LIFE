@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cre0fp3uw84pw"
-path.s3tc="res://.godot/imported/T_MrsHelpful_Birthday_D.webp-1ffbdbf5e7f62aa2a8a3f4e6f5238dd6.s3tc.ctex"
-path.etc2="res://.godot/imported/T_MrsHelpful_Birthday_D.webp-1ffbdbf5e7f62aa2a8a3f4e6f5238dd6.etc2.ctex"
+path.s3tc="res://.godot/imported/T_MrsHelpful_Birthday_D.webp-c8efcb874542a5aa816a88d6bd63b22f.s3tc.ctex"
+path.etc2="res://.godot/imported/T_MrsHelpful_Birthday_D.webp-c8efcb874542a5aa816a88d6bd63b22f.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrsHelpful_Birthday_D.webp"
-dest_files=["res://.godot/imported/T_MrsHelpful_Birthday_D.webp-1ffbdbf5e7f62aa2a8a3f4e6f5238dd6.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_Birthday_D.webp-1ffbdbf5e7f62aa2a8a3f4e6f5238dd6.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrsHelpful_Birthday_D.webp"
+dest_files=["res://.godot/imported/T_MrsHelpful_Birthday_D.webp-c8efcb874542a5aa816a88d6bd63b22f.s3tc.ctex", "res://.godot/imported/T_MrsHelpful_Birthday_D.webp-c8efcb874542a5aa816a88d6bd63b22f.etc2.ctex"]
 
 [params]
 

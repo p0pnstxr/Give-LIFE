@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct6mymxy76lgn"
-path.s3tc="res://.godot/imported/T_JBHIppo_ORM.webp-5b3e17e424129263a7ceb7df995d09f0.s3tc.ctex"
-path.etc2="res://.godot/imported/T_JBHIppo_ORM.webp-5b3e17e424129263a7ceb7df995d09f0.etc2.ctex"
+path.s3tc="res://.godot/imported/T_JBHIppo_ORM.webp-1f2a369204ca45befeee57095fc3696f.s3tc.ctex"
+path.etc2="res://.godot/imported/T_JBHIppo_ORM.webp-1f2a369204ca45befeee57095fc3696f.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_JBHIppo_ORM.webp"
-dest_files=["res://.godot/imported/T_JBHIppo_ORM.webp-5b3e17e424129263a7ceb7df995d09f0.s3tc.ctex", "res://.godot/imported/T_JBHIppo_ORM.webp-5b3e17e424129263a7ceb7df995d09f0.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_JBHIppo_ORM.webp"
+dest_files=["res://.godot/imported/T_JBHIppo_ORM.webp-1f2a369204ca45befeee57095fc3696f.s3tc.ctex", "res://.godot/imported/T_JBHIppo_ORM.webp-1f2a369204ca45befeee57095fc3696f.etc2.ctex"]
 
 [params]
 

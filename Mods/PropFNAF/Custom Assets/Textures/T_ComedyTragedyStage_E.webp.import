@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm11ciqcr7viu"
-path="res://.godot/imported/T_ComedyTragedyStage_E.webp-69207787e6fbb3cd5748c83d88ee98b6.ctex"
+path="res://.godot/imported/T_ComedyTragedyStage_E.webp-1599b1c638a6b2b889262c0fc3a89859.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ComedyTragedyStage_E.webp"
-dest_files=["res://.godot/imported/T_ComedyTragedyStage_E.webp-69207787e6fbb3cd5748c83d88ee98b6.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ComedyTragedyStage_E.webp"
+dest_files=["res://.godot/imported/T_ComedyTragedyStage_E.webp-1599b1c638a6b2b889262c0fc3a89859.ctex"]
 
 [params]
 

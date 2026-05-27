@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlomv613asqrg"
-path="res://.godot/imported/T_Speaker_01a_NRM.webp-01b53db9438f4f895c9a0ae646eabbb0.ctex"
+path="res://.godot/imported/T_Speaker_01a_NRM.webp-7bf5f7f4473dec351b03676e7b67fb5c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Speaker_01a_NRM.webp"
-dest_files=["res://.godot/imported/T_Speaker_01a_NRM.webp-01b53db9438f4f895c9a0ae646eabbb0.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Speaker_01a_NRM.webp"
+dest_files=["res://.godot/imported/T_Speaker_01a_NRM.webp-7bf5f7f4473dec351b03676e7b67fb5c.ctex"]
 
 [params]
 

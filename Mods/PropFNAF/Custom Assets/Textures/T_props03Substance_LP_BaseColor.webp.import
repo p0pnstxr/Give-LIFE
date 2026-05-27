@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhdbd73vg08hb"
-path="res://.godot/imported/T_props03Substance_LP_BaseColor.webp-e3d6bc9132572c2a66d05e01a0139c03.ctex"
+path="res://.godot/imported/T_props03Substance_LP_BaseColor.webp-37680d2b8a41550df35a11a8c7b0ab66.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_props03Substance_LP_BaseColor.webp"
-dest_files=["res://.godot/imported/T_props03Substance_LP_BaseColor.webp-e3d6bc9132572c2a66d05e01a0139c03.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_props03Substance_LP_BaseColor.webp"
+dest_files=["res://.godot/imported/T_props03Substance_LP_BaseColor.webp-37680d2b8a41550df35a11a8c7b0ab66.ctex"]
 
 [params]
 

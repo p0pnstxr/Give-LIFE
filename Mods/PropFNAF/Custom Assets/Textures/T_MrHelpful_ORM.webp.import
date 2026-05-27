@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1iaslwsq7nin"
-path="res://.godot/imported/T_MrHelpful_ORM.webp-6ffa5530e4aa7b277ae1b7b6d761fd0d.ctex"
+path="res://.godot/imported/T_MrHelpful_ORM.webp-087a9772afc92219cf247efa0f75cf5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrHelpful_ORM.webp"
-dest_files=["res://.godot/imported/T_MrHelpful_ORM.webp-6ffa5530e4aa7b277ae1b7b6d761fd0d.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrHelpful_ORM.webp"
+dest_files=["res://.godot/imported/T_MrHelpful_ORM.webp-087a9772afc92219cf247efa0f75cf5b.ctex"]
 
 [params]
 

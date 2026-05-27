@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rjsu2bb5ww04"
-path="res://.godot/imported/T_StandingToolBox_Normal.webp-7e903cb75eb948a225d0559f2677fefd.ctex"
+path="res://.godot/imported/T_StandingToolBox_Normal.webp-da2f19cbd9ee6176daf7c844b86f9a76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_StandingToolBox_Normal.webp"
-dest_files=["res://.godot/imported/T_StandingToolBox_Normal.webp-7e903cb75eb948a225d0559f2677fefd.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_StandingToolBox_Normal.webp"
+dest_files=["res://.godot/imported/T_StandingToolBox_Normal.webp-da2f19cbd9ee6176daf7c844b86f9a76.ctex"]
 
 [params]
 

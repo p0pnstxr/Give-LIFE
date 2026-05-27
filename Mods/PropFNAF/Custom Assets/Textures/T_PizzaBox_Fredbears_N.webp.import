@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu1ybtqpum1vh"
-path="res://.godot/imported/T_PizzaBox_Fredbears_N.webp-61dfd9de0c3dfb6cb882c3b61aa27877.ctex"
+path="res://.godot/imported/T_PizzaBox_Fredbears_N.webp-0bc06a047242b588bbb2d4678e8d4def.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_PizzaBox_Fredbears_N.webp"
-dest_files=["res://.godot/imported/T_PizzaBox_Fredbears_N.webp-61dfd9de0c3dfb6cb882c3b61aa27877.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_PizzaBox_Fredbears_N.webp"
+dest_files=["res://.godot/imported/T_PizzaBox_Fredbears_N.webp-0bc06a047242b588bbb2d4678e8d4def.ctex"]
 
 [params]
 

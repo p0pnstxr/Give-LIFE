@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c13bpdux4nni1"
-path.s3tc="res://.godot/imported/T_TheatreAttachments_ORM.webp-815c6fda41becad202e994acd5211d95.s3tc.ctex"
-path.etc2="res://.godot/imported/T_TheatreAttachments_ORM.webp-815c6fda41becad202e994acd5211d95.etc2.ctex"
+path.s3tc="res://.godot/imported/T_TheatreAttachments_ORM.webp-ca8b6e72be439e6237d7b0116ac7a1ba.s3tc.ctex"
+path.etc2="res://.godot/imported/T_TheatreAttachments_ORM.webp-ca8b6e72be439e6237d7b0116ac7a1ba.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_TheatreAttachments_ORM.webp"
-dest_files=["res://.godot/imported/T_TheatreAttachments_ORM.webp-815c6fda41becad202e994acd5211d95.s3tc.ctex", "res://.godot/imported/T_TheatreAttachments_ORM.webp-815c6fda41becad202e994acd5211d95.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_TheatreAttachments_ORM.webp"
+dest_files=["res://.godot/imported/T_TheatreAttachments_ORM.webp-ca8b6e72be439e6237d7b0116ac7a1ba.s3tc.ctex", "res://.godot/imported/T_TheatreAttachments_ORM.webp-ca8b6e72be439e6237d7b0116ac7a1ba.etc2.ctex"]
 
 [params]
 

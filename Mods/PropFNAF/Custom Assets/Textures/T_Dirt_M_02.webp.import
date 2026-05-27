@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3vwuri3wabou"
-path.s3tc="res://.godot/imported/T_Dirt_M_02.webp-a4dfc4a62b1514dbbf78f43776fb37a1.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Dirt_M_02.webp-a4dfc4a62b1514dbbf78f43776fb37a1.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Dirt_M_02.webp-6e5544c8f415578df4c2917d9d417777.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Dirt_M_02.webp-6e5544c8f415578df4c2917d9d417777.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Dirt_M_02.webp"
-dest_files=["res://.godot/imported/T_Dirt_M_02.webp-a4dfc4a62b1514dbbf78f43776fb37a1.s3tc.ctex", "res://.godot/imported/T_Dirt_M_02.webp-a4dfc4a62b1514dbbf78f43776fb37a1.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Dirt_M_02.webp"
+dest_files=["res://.godot/imported/T_Dirt_M_02.webp-6e5544c8f415578df4c2917d9d417777.s3tc.ctex", "res://.godot/imported/T_Dirt_M_02.webp-6e5544c8f415578df4c2917d9d417777.etc2.ctex"]
 
 [params]
 

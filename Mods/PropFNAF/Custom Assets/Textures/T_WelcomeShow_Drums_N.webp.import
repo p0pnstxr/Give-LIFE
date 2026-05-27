@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdxnyyvc3wnlk"
-path="res://.godot/imported/T_WelcomeShow_Drums_N.webp-82ca693676a4d5fe1c51ea3c38971a57.ctex"
+path="res://.godot/imported/T_WelcomeShow_Drums_N.webp-fda5e294c50fda7406fdb2ba383375fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_WelcomeShow_Drums_N.webp"
-dest_files=["res://.godot/imported/T_WelcomeShow_Drums_N.webp-82ca693676a4d5fe1c51ea3c38971a57.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_WelcomeShow_Drums_N.webp"
+dest_files=["res://.godot/imported/T_WelcomeShow_Drums_N.webp-fda5e294c50fda7406fdb2ba383375fe.ctex"]
 
 [params]
 

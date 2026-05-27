@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0qcx1d5w6wsb"
-path="res://.godot/imported/T_light_caged_skin2_N.webp-a71d448437cf908cfa5bccd73289aa80.ctex"
+path="res://.godot/imported/T_light_caged_skin2_N.webp-173ee396eaed2a60bcf00272d027fd8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_light_caged_skin2_N.webp"
-dest_files=["res://.godot/imported/T_light_caged_skin2_N.webp-a71d448437cf908cfa5bccd73289aa80.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_light_caged_skin2_N.webp"
+dest_files=["res://.godot/imported/T_light_caged_skin2_N.webp-173ee396eaed2a60bcf00272d027fd8f.ctex"]
 
 [params]
 

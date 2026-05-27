@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fr3mlw4uurdo"
-path="res://.godot/imported/T_StainedMetal_D.webp-3a5ed9d0300438dc4d0d1bf31a22f01a.ctex"
+path="res://.godot/imported/T_StainedMetal_D.webp-e8f0b4428698a9d12585eb1c17761c3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_StainedMetal_D.webp"
-dest_files=["res://.godot/imported/T_StainedMetal_D.webp-3a5ed9d0300438dc4d0d1bf31a22f01a.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_StainedMetal_D.webp"
+dest_files=["res://.godot/imported/T_StainedMetal_D.webp-e8f0b4428698a9d12585eb1c17761c3a.ctex"]
 
 [params]
 

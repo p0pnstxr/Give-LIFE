@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp4i6wat1js5c"
-path="res://.godot/imported/T_ClothTile_N_01.webp-59f37bf54240bd8ffc7bd937b7674442.ctex"
+path="res://.godot/imported/T_ClothTile_N_01.webp-e46c0551bd2abe34c92f09d99d32db04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_ClothTile_N_01.webp"
-dest_files=["res://.godot/imported/T_ClothTile_N_01.webp-59f37bf54240bd8ffc7bd937b7674442.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_ClothTile_N_01.webp"
+dest_files=["res://.godot/imported/T_ClothTile_N_01.webp-e46c0551bd2abe34c92f09d99d32db04.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c32tbkfebm0kv"
-path.s3tc="res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-54856b2cebee911e477458c28199f365.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-54856b2cebee911e477458c28199f365.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-697b720714feee5c423b1b4932d279da.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-697b720714feee5c423b1b4932d279da.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Screwdriver_OcclusionRoughnessMetallic.webp"
-dest_files=["res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-54856b2cebee911e477458c28199f365.s3tc.ctex", "res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-54856b2cebee911e477458c28199f365.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Screwdriver_OcclusionRoughnessMetallic.webp"
+dest_files=["res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-697b720714feee5c423b1b4932d279da.s3tc.ctex", "res://.godot/imported/T_Screwdriver_OcclusionRoughnessMetallic.webp-697b720714feee5c423b1b4932d279da.etc2.ctex"]
 
 [params]
 

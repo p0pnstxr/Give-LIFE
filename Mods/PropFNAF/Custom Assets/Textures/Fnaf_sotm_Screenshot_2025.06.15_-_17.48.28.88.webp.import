@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr0gjoqkek676"
-path="res://.godot/imported/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp-5df6798e3ce030553c42b3cbfd9d485e.ctex"
+path="res://.godot/imported/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp-dfd2c3f96314c917a31d2a645efdb91b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp"
-dest_files=["res://.godot/imported/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp-5df6798e3ce030553c42b3cbfd9d485e.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp"
+dest_files=["res://.godot/imported/Fnaf_sotm_Screenshot_2025.06.15_-_17.48.28.88.webp-dfd2c3f96314c917a31d2a645efdb91b.ctex"]
 
 [params]
 

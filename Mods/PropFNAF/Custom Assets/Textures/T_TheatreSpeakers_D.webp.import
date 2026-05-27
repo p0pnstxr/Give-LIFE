@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds1vfv558pqy5"
-path.s3tc="res://.godot/imported/T_TheatreSpeakers_D.webp-e16a6d8f775abba16d4a75cb402b0b4f.s3tc.ctex"
-path.etc2="res://.godot/imported/T_TheatreSpeakers_D.webp-e16a6d8f775abba16d4a75cb402b0b4f.etc2.ctex"
+path.s3tc="res://.godot/imported/T_TheatreSpeakers_D.webp-aefa42ad002c2f0853f0450ab72dc2aa.s3tc.ctex"
+path.etc2="res://.godot/imported/T_TheatreSpeakers_D.webp-aefa42ad002c2f0853f0450ab72dc2aa.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_TheatreSpeakers_D.webp"
-dest_files=["res://.godot/imported/T_TheatreSpeakers_D.webp-e16a6d8f775abba16d4a75cb402b0b4f.s3tc.ctex", "res://.godot/imported/T_TheatreSpeakers_D.webp-e16a6d8f775abba16d4a75cb402b0b4f.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_TheatreSpeakers_D.webp"
+dest_files=["res://.godot/imported/T_TheatreSpeakers_D.webp-aefa42ad002c2f0853f0450ab72dc2aa.s3tc.ctex", "res://.godot/imported/T_TheatreSpeakers_D.webp-aefa42ad002c2f0853f0450ab72dc2aa.etc2.ctex"]
 
 [params]
 

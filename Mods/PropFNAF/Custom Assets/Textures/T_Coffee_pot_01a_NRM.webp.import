@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://noh6fmhm84fk"
-path="res://.godot/imported/T_Coffee_pot_01a_NRM.webp-750a097c856a402345abfca2d4e34aa7.ctex"
+path="res://.godot/imported/T_Coffee_pot_01a_NRM.webp-e509d4addc8f6fed34a01d03e54561be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Coffee_pot_01a_NRM.webp"
-dest_files=["res://.godot/imported/T_Coffee_pot_01a_NRM.webp-750a097c856a402345abfca2d4e34aa7.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Coffee_pot_01a_NRM.webp"
+dest_files=["res://.godot/imported/T_Coffee_pot_01a_NRM.webp-e509d4addc8f6fed34a01d03e54561be.ctex"]
 
 [params]
 

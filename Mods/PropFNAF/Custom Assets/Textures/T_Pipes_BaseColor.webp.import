@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmn3kfpbot2cm"
-path.s3tc="res://.godot/imported/T_Pipes_BaseColor.webp-d0a6d03384b3879f33c69bef4a40eaa2.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Pipes_BaseColor.webp-d0a6d03384b3879f33c69bef4a40eaa2.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Pipes_BaseColor.webp-46b1043844531441b5fc50ba0e06cfd7.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Pipes_BaseColor.webp-46b1043844531441b5fc50ba0e06cfd7.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Pipes_BaseColor.webp"
-dest_files=["res://.godot/imported/T_Pipes_BaseColor.webp-d0a6d03384b3879f33c69bef4a40eaa2.s3tc.ctex", "res://.godot/imported/T_Pipes_BaseColor.webp-d0a6d03384b3879f33c69bef4a40eaa2.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Pipes_BaseColor.webp"
+dest_files=["res://.godot/imported/T_Pipes_BaseColor.webp-46b1043844531441b5fc50ba0e06cfd7.s3tc.ctex", "res://.godot/imported/T_Pipes_BaseColor.webp-46b1043844531441b5fc50ba0e06cfd7.etc2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctnav8dkqjyd1"
-path="res://.godot/imported/T_MrHelpful_CarnivalBarker_D.webp-3260b0375964c1e43786f2c8d4fb0f22.ctex"
+path="res://.godot/imported/T_MrHelpful_CarnivalBarker_D.webp-cc64e3ccdd6167fedbe576e11b3443f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_MrHelpful_CarnivalBarker_D.webp"
-dest_files=["res://.godot/imported/T_MrHelpful_CarnivalBarker_D.webp-3260b0375964c1e43786f2c8d4fb0f22.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_MrHelpful_CarnivalBarker_D.webp"
+dest_files=["res://.godot/imported/T_MrHelpful_CarnivalBarker_D.webp-cc64e3ccdd6167fedbe576e11b3443f0.ctex"]
 
 [params]
 

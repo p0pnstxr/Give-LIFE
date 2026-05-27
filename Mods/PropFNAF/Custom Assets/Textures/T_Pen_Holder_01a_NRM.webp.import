@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7kjmj6xbwaol"
-path="res://.godot/imported/T_Pen_Holder_01a_NRM.webp-789ae1bbbb3ac96596ef2cf9add69a41.ctex"
+path="res://.godot/imported/T_Pen_Holder_01a_NRM.webp-7723defe3f0b0e5348f3d5e2b5a96b6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Pen_Holder_01a_NRM.webp"
-dest_files=["res://.godot/imported/T_Pen_Holder_01a_NRM.webp-789ae1bbbb3ac96596ef2cf9add69a41.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Pen_Holder_01a_NRM.webp"
+dest_files=["res://.godot/imported/T_Pen_Holder_01a_NRM.webp-7723defe3f0b0e5348f3d5e2b5a96b6f.ctex"]
 
 [params]
 

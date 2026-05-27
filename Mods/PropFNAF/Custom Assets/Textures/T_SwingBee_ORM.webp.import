@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckk2o7sotplnn"
-path.s3tc="res://.godot/imported/T_SwingBee_ORM.webp-1ff730c7ce028900aac24bb5d5f6b1d1.s3tc.ctex"
-path.etc2="res://.godot/imported/T_SwingBee_ORM.webp-1ff730c7ce028900aac24bb5d5f6b1d1.etc2.ctex"
+path.s3tc="res://.godot/imported/T_SwingBee_ORM.webp-d42fb10da7e1e87a5651e0ff18ea3358.s3tc.ctex"
+path.etc2="res://.godot/imported/T_SwingBee_ORM.webp-d42fb10da7e1e87a5651e0ff18ea3358.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_SwingBee_ORM.webp"
-dest_files=["res://.godot/imported/T_SwingBee_ORM.webp-1ff730c7ce028900aac24bb5d5f6b1d1.s3tc.ctex", "res://.godot/imported/T_SwingBee_ORM.webp-1ff730c7ce028900aac24bb5d5f6b1d1.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_SwingBee_ORM.webp"
+dest_files=["res://.godot/imported/T_SwingBee_ORM.webp-d42fb10da7e1e87a5651e0ff18ea3358.s3tc.ctex", "res://.godot/imported/T_SwingBee_ORM.webp-d42fb10da7e1e87a5651e0ff18ea3358.etc2.ctex"]
 
 [params]
 

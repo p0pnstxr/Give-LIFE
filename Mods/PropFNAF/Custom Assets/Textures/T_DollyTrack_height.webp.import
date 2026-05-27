@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iob4l8vd3wa6"
-path="res://.godot/imported/T_DollyTrack_height.webp-e3dd3533e49e770faee4350258a82199.ctex"
+path="res://.godot/imported/T_DollyTrack_height.webp-59ebff450e433549c52c59bee21c0051.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_DollyTrack_height.webp"
-dest_files=["res://.godot/imported/T_DollyTrack_height.webp-e3dd3533e49e770faee4350258a82199.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_DollyTrack_height.webp"
+dest_files=["res://.godot/imported/T_DollyTrack_height.webp-59ebff450e433549c52c59bee21c0051.ctex"]
 
 [params]
 

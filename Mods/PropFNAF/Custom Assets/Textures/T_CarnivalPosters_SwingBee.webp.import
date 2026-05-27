@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf5xuy6nep6ih"
-path="res://.godot/imported/T_CarnivalPosters_SwingBee.webp-b6e642dfe82dd12944ec06ece290b090.ctex"
+path="res://.godot/imported/T_CarnivalPosters_SwingBee.webp-ccc0e191b40c01083a7dbb60a3571485.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_CarnivalPosters_SwingBee.webp"
-dest_files=["res://.godot/imported/T_CarnivalPosters_SwingBee.webp-b6e642dfe82dd12944ec06ece290b090.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_CarnivalPosters_SwingBee.webp"
+dest_files=["res://.godot/imported/T_CarnivalPosters_SwingBee.webp-ccc0e191b40c01083a7dbb60a3571485.ctex"]
 
 [params]
 

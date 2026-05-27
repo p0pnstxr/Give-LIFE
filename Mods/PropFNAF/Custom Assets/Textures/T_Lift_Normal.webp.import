@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c73kcm1amvnau"
-path.s3tc="res://.godot/imported/T_Lift_Normal.webp-a2de17eacf6c90d51af8a0373451b591.s3tc.ctex"
-path.etc2="res://.godot/imported/T_Lift_Normal.webp-a2de17eacf6c90d51af8a0373451b591.etc2.ctex"
+path.s3tc="res://.godot/imported/T_Lift_Normal.webp-f73d6cf098e92500d8cbed33ad08690e.s3tc.ctex"
+path.etc2="res://.godot/imported/T_Lift_Normal.webp-f73d6cf098e92500d8cbed33ad08690e.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_Lift_Normal.webp"
-dest_files=["res://.godot/imported/T_Lift_Normal.webp-a2de17eacf6c90d51af8a0373451b591.s3tc.ctex", "res://.godot/imported/T_Lift_Normal.webp-a2de17eacf6c90d51af8a0373451b591.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_Lift_Normal.webp"
+dest_files=["res://.godot/imported/T_Lift_Normal.webp-f73d6cf098e92500d8cbed33ad08690e.s3tc.ctex", "res://.godot/imported/T_Lift_Normal.webp-f73d6cf098e92500d8cbed33ad08690e.etc2.ctex"]
 
 [params]
 

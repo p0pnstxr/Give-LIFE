@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd66bu2y40wly"
-path="res://.godot/imported/T_OctopusStage_BaseColor.webp-29ca4cd743c585a8bf681b3ef7acca91.ctex"
+path="res://.godot/imported/T_OctopusStage_BaseColor.webp-fb97d87d15c5b7bcc7477e7a0c329d98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_OctopusStage_BaseColor.webp"
-dest_files=["res://.godot/imported/T_OctopusStage_BaseColor.webp-29ca4cd743c585a8bf681b3ef7acca91.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_OctopusStage_BaseColor.webp"
+dest_files=["res://.godot/imported/T_OctopusStage_BaseColor.webp-fb97d87d15c5b7bcc7477e7a0c329d98.ctex"]
 
 [params]
 
