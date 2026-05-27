@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2j1eip3brabk"
-path.s3tc="res://.godot/imported/T_LassoPig_ORM.webp-94fd366068ddc426dde9ed13fedea304.s3tc.ctex"
-path.etc2="res://.godot/imported/T_LassoPig_ORM.webp-94fd366068ddc426dde9ed13fedea304.etc2.ctex"
+path.s3tc="res://.godot/imported/T_LassoPig_ORM.webp-04cad44aeba613979516da4cbd1bb0b2.s3tc.ctex"
+path.etc2="res://.godot/imported/T_LassoPig_ORM.webp-04cad44aeba613979516da4cbd1bb0b2.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_LassoPig_ORM.webp"
-dest_files=["res://.godot/imported/T_LassoPig_ORM.webp-94fd366068ddc426dde9ed13fedea304.s3tc.ctex", "res://.godot/imported/T_LassoPig_ORM.webp-94fd366068ddc426dde9ed13fedea304.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_LassoPig_ORM.webp"
+dest_files=["res://.godot/imported/T_LassoPig_ORM.webp-04cad44aeba613979516da4cbd1bb0b2.s3tc.ctex", "res://.godot/imported/T_LassoPig_ORM.webp-04cad44aeba613979516da4cbd1bb0b2.etc2.ctex"]
 
 [params]
 

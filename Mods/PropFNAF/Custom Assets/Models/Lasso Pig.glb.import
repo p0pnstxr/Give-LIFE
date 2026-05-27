@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cidcuvfhsuwou"
-path="res://.godot/imported/Lasso Pig.glb-c6d4f12a6dd424f726ba35ecade8658f.scn"
+path="res://.godot/imported/Lasso Pig.glb-adfb05490fe7de9d360e9bab5006b5bd.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Lasso Pig.glb"
-dest_files=["res://.godot/imported/Lasso Pig.glb-c6d4f12a6dd424f726ba35ecade8658f.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Lasso Pig.glb"
+dest_files=["res://.godot/imported/Lasso Pig.glb-adfb05490fe7de9d360e9bab5006b5bd.scn"]
 
 [params]
 

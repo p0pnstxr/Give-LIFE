@@ -3,13 +3,13 @@
 	"animation": "Armature|FNAFEyelidL",
 	"in_speed": 5.0,
 	"out_speed": 10.0,
-	"type": "move_to"
+	"type": "standard"
   },
   "Eyelids Right": {
 	"animation": "Armature|FNAFEyelidR",
 	"in_speed": 5.0,
 	"out_speed": 10.0,
-	"type": "move_to"
+	"type": "standard"
   },
   "Eyes Left": {
 	"animation": "Armature|FNAFEyesLeft",

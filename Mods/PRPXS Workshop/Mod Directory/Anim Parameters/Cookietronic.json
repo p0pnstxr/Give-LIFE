@@ -1,33 +1,29 @@
 {
 "Jaw": {
+	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw",
-	"in_speed": 5.5,
-	"out_speed": 5.9,
+	"in_speed": 8,
+	"out_speed": 5,
 	"type": "standard"
   },
-"Jaw2": {
+"Jaw (No Shrink)": {
 	"animation": "Mouth-Jaw2",
-	"in_speed": 5.5,
-	"out_speed": 5.9,
-	"type": "standard"
-  },
-"LeftLean": {
-	"animation": "Body-LeftLean",
-	"in_speed": 1,
-	"out_speed": 2,
-	"type": "standard"
-  },
-"RightLean": {
-	"animation": "Body-RightLean",
-	"in_speed": 1,
-	"out_speed": 2,
+	"in_speed": 8,
+	"out_speed": 5,
 	"type": "standard"
   },
 "Blink": {
+	"_comment": "#EYELIDS",
 	"animation": "Eye-Blink",
 	"in_speed": 3.0,
 	"out_speed": 4.0,
 	"type": "standard"
+  },
+"Blink (SwitchVer)": {
+	"animation": "Eye-Blink",
+	"in_speed": 3.0,
+	"out_speed": 4.0,
+	"type": "move-to"
   },
 "Upperlid": {
 	"animation": "Eye-Upperlid",
@@ -35,25 +31,32 @@
 	"out_speed": 6,
 	"type": "standard"
   },
+"Upperlid (SwitchVer)": {
+	"animation": "Eye-Upperlid",
+	"in_speed": 5,
+	"out_speed": 6,
+	"type": "move-to"
+  },
 "Lowerlid": {
 	"animation": "Eye-Underlid",
 	"in_speed": 5,
 	"out_speed": 6,
 	"type": "standard"
   },
-"LeftRotation": {
-	"animation": "Body-LeftRoto",
-	"in_speed": 3.5,
-	"out_speed": 4.5,
-	"type": "standard"
+"Lowerlid (SwitchVer)": {
+	"animation": "Eye-Underlid",
+	"in_speed": 5,
+	"out_speed": 6,
+	"type": "move-to"
   },
-"RightRotation": {
-	"animation": "Body-RightRoto",
-	"in_speed": 3.5,
-	"out_speed": 4.6,
+"Tired Lids": {
+	"animation": "Eye-Lid_wut",
+	"in_speed": 5,
+	"out_speed": 6,
 	"type": "standard"
   },
 "Eye Down": {
+	"_comment": "#IRIS",
 	"animation": "Eye-Down",
 	"in_speed": 5.5,
 	"out_speed": 6.0,
@@ -63,6 +66,32 @@
 	"animation": "Eye-Up",
 	"in_speed": 5.5,
 	"out_speed": 6.0,
+	"type": "standard"
+  },
+"Left Tilt/Lean": {
+	"_comment": "#BODYTILTS",
+	"animation": "Body-LeftLean",
+	"in_speed": 1,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Right Tilt/Lean": {
+	"animation": "Body-RightLean",
+	"in_speed": 1,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Left Turn": {
+	"_comment": "#BODYTURNS",
+	"animation": "Body-LeftRoto",
+	"in_speed": 3.5,
+	"out_speed": 4.5,
+	"type": "standard"
+  },
+"Right Turn": {
+	"animation": "Body-RightRoto",
+	"in_speed": 3.5,
+	"out_speed": 4.6,
 	"type": "standard"
   },
 }

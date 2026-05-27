@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1xjc18rs2sww"
-path="res://.godot/imported/Welcome Show Stairs.glb-390e0aedf421cc1b36654d7b86f0b48e.scn"
+path="res://.godot/imported/Welcome Show Stairs.glb-15038d3f88d4c2192df18d968957e61b.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Welcome Show Stairs.glb"
-dest_files=["res://.godot/imported/Welcome Show Stairs.glb-390e0aedf421cc1b36654d7b86f0b48e.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Welcome Show Stairs.glb"
+dest_files=["res://.godot/imported/Welcome Show Stairs.glb-15038d3f88d4c2192df18d968957e61b.scn"]
 
 [params]
 
