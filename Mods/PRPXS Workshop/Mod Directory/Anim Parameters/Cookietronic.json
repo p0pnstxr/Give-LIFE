@@ -2,13 +2,13 @@
 "Jaw": {
 	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw",
-	"in_speed": 8,
+	"in_speed": 7,
 	"out_speed": 5,
 	"type": "standard"
   },
 "Jaw (No Shrink)": {
 	"animation": "Mouth-Jaw2",
-	"in_speed": 8,
+	"in_speed": 7,
 	"out_speed": 5,
 	"type": "standard"
   },
