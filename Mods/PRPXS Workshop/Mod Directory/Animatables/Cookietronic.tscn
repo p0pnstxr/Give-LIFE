@@ -16,7 +16,7 @@ animatableName = "Cookietronic"
 animatableAuthors = "prpx"
 animatableColor = Color(0.6647675, 0.30795226, 0.1290181, 1)
 
-[node name="cookietronic_GREATESTREMODEL" parent="." unique_id=899027758 instance=ExtResource("3_qt181")]
+[node name="cookietronic_GREATESTREMODEL" parent="." unique_id=91801328 instance=ExtResource("3_qt181")]
 transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
 script = ExtResource("4_qt181")
 boneConfigFileName = "Cookietronic"
