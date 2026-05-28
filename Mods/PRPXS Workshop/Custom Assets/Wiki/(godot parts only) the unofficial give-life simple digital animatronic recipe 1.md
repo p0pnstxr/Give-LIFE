@@ -37,21 +37,12 @@ navbox:
 	 - export to `/CustomAssets/Materials/` (or anywhere you can remember really).
 	 - make sure you have your textures exported/carried over as well (`CustomAssets\Textures\Animatronics`).
 
-when you go to the new .trec materials, the material info page may seem different compared to how blender shows them. the materials in godot are coded in a more script-like way compared to blender.
-
-if you are aspiring to make a colorable/glow-in-the-dark character, the setup will vary.
-
-colorable:
-![[Screenshot 2026-04-30 at 6.06.18 PM.png]]
-- default colors are now values, instead of being printed into the texture
-- for now, see & reference how the textures of the default models work.
-
-default material setup:
+make sure to double click the exported file to edit it, it'll pop up on the side. heres how it should be set up by default:
 ![[Screenshot 2026-04-30 at 7.18.44 PM.png]]
 
 
-- normal map = normal map, texture = albedo, specular = metallic**, & roughness = roughness! :D
--# ** supposedly
+- normal map = normal map, albedo = texture, specular = metallic**, & roughness = roughness! :D
+** supposedly
 
 ## 4. animatables
 
