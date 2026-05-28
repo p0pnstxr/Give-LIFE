@@ -1,20 +1,20 @@
 {
-"M1: Jaw": {
+"1-M1: Jaw": {
 	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw",
-	"in_speed": 25,
-	"out_speed": 26,
+	"in_speed": 7,
+	"out_speed": 8,
 	"type": "standard"
   },
-"M2: Jaw (No Shrink)": {
+"1-M2: Jaw (No Shrink)": {
 	"animation": "Mouth-Jaw2",
 	"in_speed": 25,
 	"out_speed": 26,
 	"type": "standard"
   },
-"M3: Old Jaw (For Testing)": {
+"1-M3: Old Jaw (For Testing)": {
 	"_comment": "#MOUTHS",
-	"animation": "Mouth-Jaw",
+	"animation": "Mouth-Jaw_Old",
 	"in_speed": 25,
 	"out_speed": 26,
 	"type": "standard"
