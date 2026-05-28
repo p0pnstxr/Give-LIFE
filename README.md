@@ -4,8 +4,8 @@ Now you can make any character rock out to music in full atmospheric 3D, straigh
 You can play with a goofy googly-eyed cookie, a bunch of musical trinkets & gadgets, or even map out a semi-realistic band-
 An endless amount of imagination and fun can be in the fingers of your hands, all you have to do is give it some life.
 
-Currently includes:
-Cookietronic [*] - A googly-eyed cookie animatronic, limited in motion, expressive nonetheless.
+Currently includes: 
+- Cookietronic [*] - A googly-eyed cookie animatronic, limited in motion, expressive nonetheless.
 
 NOTE: THE ONLY ORIGINAL CHARACTER SO FAR IS THE COOKIETRONIC. ANY CHARACTERS LISTED THAT AREN'T ORIGINAL AND/OTHERWISE HAVE A COPYRIGHT
 MUST NOT BE USED FOR FINANCIAL USE. ALL PROPERTIES BELONG TO THEIR ORIGINAL PROPERTIES, THIS MODPACK IS PROVIDED AS A FAN TRIBUTE. PLEASE
