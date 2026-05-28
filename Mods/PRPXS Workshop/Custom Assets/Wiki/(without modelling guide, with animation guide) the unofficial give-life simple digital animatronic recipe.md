@@ -4,6 +4,9 @@
 ###### as long as it supports .glb or .fbx exporting.
 ###### you might have to look up what keys/scenarios are similar for your case though
 
+make sure you have standard latest godot installed, perferably no c++
+
+use github desktop to clone the game repository so you can just hit "pull origin" whenever 64 drops updates
 
 this tutorial removes the modelling part of the guide, for those who already have a pre-made and ready-to-go model. the animation section is kept.
 
@@ -71,27 +74,20 @@ to godot, that is.
 
 ### 3. materials
  
- it is reccomended to export your materials, so you can edit them and refer to their textures.
- - click Actions, then Export Materials.
-	 - export anywhere, reccomended folder is /CustomAssets/Materials/.
-	 - make sure you have your textures carried over from your workspace to your assets folder.
+ - click Actions uptop the preview menu, then Export Materials.
+	 - export to `/CustomAssets/Materials/` (or anywhere you can remember really).
+	 - make sure you have your textures exported/carried over as well (`CustomAssets\Textures\Animatronics`).
 
-when you go to the new .trec materials, the material info page may seem different compared to how blender shows them. the materials in godot are coded in a more script-like way compared to blender.
-
-if you are aspiring to make a colorable/glow-in-the-dark character, the setup will vary.
-
-colorable:
-![[Screenshot 2026-04-30 at 6.06.18 PM.png]]
-- default colors are now values, instead of being printed into the texture
-- for now, see & reference how the textures of the default models work.
-
-default material setup:
+make sure to double click the exported file to edit it, it'll pop up on the side. heres how it should be set up by default:
 ![[Screenshot 2026-04-30 at 7.18.44 PM.png]]
 
 
-- normal map = normal map, texture = albedo, specular = metallic**, & roughness = roughness! :D
--# ** supposedly
+- normal map = normal map, albedo = texture, specular = metallic, & roughness = roughness! :D
 
+this is how it should look for colorables/glowables:
+![[Screenshot 2026-04-30 at 6.06.18 PM.png|697]]
+- texture is now gray, its colors are now variables
+- use gl_paintable for the 'shaders' slot
 ## 4. animatables
 
 - these go in `Custom Directory/Animatables`. they are tscn files (which are Scenes in Godot) containing the model and its info.

@@ -4,6 +4,9 @@
 ###### as long as it supports .glb or .fbx exporting.
 ###### you might have to look up what keys/scenarios are similar for your case though
 
+make sure you have standard latest godot installed, perferably no c++
+
+use github desktop to clone the game repository so you can just hit "pull origin" whenever 64 drops updates
 
 this tutorial keeps only the latter godot parts; importing and configuring assets for the mod, front to back. this is for if you have an animated model already exported, and/or just want to get straight to the engine.
 
@@ -42,26 +45,30 @@ make sure to double click the exported file to edit it, it'll pop up on the side
 
 
 - normal map = normal map, albedo = texture, specular = metallic**, & roughness = roughness! :D
-** supposedly
 
+this is how it should look for colorables/glowables:
+![[Screenshot 2026-04-30 at 6.06.18 PM.png|697]]
+- texture is now gray, its colors are now variables
+- use gl_paintable for the 'shaders' slot
 ## 4. animatables
 
 - these go in `Custom Directory/Animatables`. they are tscn files (which are Scenes in Godot) containing the model and its info.
-- just copy paste one from either true-fnaf or faz2, as they have an easier info card to configure with.
-- faz2 has coloring support, but may be a bit tricky to configure/implement properly at the time of writing.
+- create a new scene with a 3d node, then put the model under it.
+- add a staticbody3d (not under the model), along with a collisionshape3d under it. this lets the character stand on stages and be draggable in construction mode.
+	- the shape can be either box or capsule, whatever you feel fits best for the model.
+	- fit it into the lower-half of the model's body, or the model entirely.
+- you can reference any from the official mods, though it is not reccomended to copy-paste them, as it gets into errors later on.
 
-- go into the animatable and delete the node with a clipboard and eye next to it, for that is the model.
-
-- then drag your model into the top node/circle.
-
-- go into the top with a single click, and edit it's profile however you want.
-	- an icon might necessarily not be needed, it will default to question marks
-		- if you want to make one, you can make it any style you want. it could even be just a screenshot of the model, or a little doodle.
+- go into the top node with a single click, make the script 'GL_Animatronic', and edit it's profile however you want.
+	- you can practically make the icon anything as long as it fits the dimensions.
+- rename your topnode and your 'anim parameters file name' to your animatronic's name, preferably same name as what you named it in its infocard (animatable name)
+	- its ok to have spaces for either
+- if your planning for your animatronic to have physics, go into your model node and set the script to 'Physics_Bones'.
+now you are done with what I call the metadata part :D thats 1/3rd in of the mod, make sure to take breaks!!
 
 ## 5. grouping
 
-- above the animatronic profile, it says you are currently on the Inspector tab. switch to the Groups tab shown next to it.
--# (make sure your on the top node)
+- where you've been seeing the info for your nodes, it says you are currently on the Inspector tab. make sure your on the top node, then switch to the Groups tab.
 
 - create a new Scene Group associated with your character, by clicking the plus sign, next to the searchbar.
 	- Reccomended formating: `GROUP_CHARACTER`.
