@@ -9,18 +9,6 @@ An endless amount of imagination and fun can be in the fingers of your hands; al
 ### Currently includes:
 - Cookietronic (Original) - A googly-eyed cookie animatronic, limited in motion, expressive nonetheless.
 
-NOTE: THE ONLY ORIGINAL CHARACTER SO FAR IS THE COOKIETRONIC. ANY CHARACTERS LISTED THAT AREN'T ORIGINAL AND/OR OTHERWISE HAVE A COPYRIGHT MUST NOT BE USED FOR PROFIT AND OTHER FINANCIAL USES. ALL PROPERTIES BELONG TO THEIR ORIGINAL CREATORS AND OWNERS. THIS MODPACK IS PROVIDED AS A FAN TRIBUTE. PLEASE SUPPORT THE OFFICIAL AND ORIGINAL RELEASES WHEN POSSIBLE.
-###### Credits to this modpack are not necessary but appreciated :3
-
-#### Credits:
-[The64thGamer - Give-LIFE Engine, original repo](https://github.com/The64thGamer/Give-LIFE)
-
-missbananaman - Testing & Feedback
-
-prpx - Engineering, Cookietronic, most of everything except the designs of the copyrighted characters included in this pack
-
-My Family - Encouragement along the way. thank you :)
-
 ### Current Roadmap:
 - [ ] Project Ryokemi
     - [ ] concept art
@@ -36,6 +24,19 @@ My Family - Encouragement along the way. thank you :)
     - [ ] added cheese sausage sandwich (forgot what its called) small ally
     - [ ] .....maybe a banana???
 
+#### Credits:
+[The64thGamer - Give-LIFE Engine, original repo](https://github.com/The64thGamer/Give-LIFE)
+
+missbananaman - Testing, Feedback & Encouragement
+
+prpx - Engineering, Cookietronic, most of everything except the designs of the copyrighted characters included in this pack
+
+My Family - Encouragement along the way. thank you :)
+
+
+
+NOTE: THE ONLY ORIGINAL CHARACTER SO FAR IS THE COOKIETRONIC. ANY CHARACTERS LISTED THAT AREN'T ORIGINAL AND/OR OTHERWISE HAVE A COPYRIGHT MUST NOT BE USED FOR PROFIT AND OTHER FINANCIAL USES. ALL PROPERTIES BELONG TO THEIR ORIGINAL CREATORS AND OWNERS. THIS MODPACK IS PROVIDED AS A FAN TRIBUTE. PLEASE SUPPORT THE OFFICIAL AND ORIGINAL RELEASES WHEN POSSIBLE.
+###### Credits to this modpack are not necessary but appreciated :3
 
 
 ###### Give LIFE is the sequel to Faz-Anim and the RR Engine. In development on Godot utilizing a whole new way to program shows.
