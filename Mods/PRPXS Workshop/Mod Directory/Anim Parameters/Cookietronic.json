@@ -79,13 +79,13 @@
 	"_comment": "#BODYTILTS",
 	"animation": "Body-LeftLean",
 	"in_speed": 1,
-	"out_speed": 2,
+	"out_speed": 10,
 	"type": "standard"
   },
 "BM2: Right Tilt/Lean": {
 	"animation": "Body-RightLean",
 	"in_speed": 1,
-	"out_speed": 2,
+	"out_speed": 10,
 	"type": "standard"
   },
 "BM3: Left Turn": {
