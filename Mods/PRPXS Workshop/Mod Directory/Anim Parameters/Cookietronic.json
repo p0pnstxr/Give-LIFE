@@ -2,8 +2,8 @@
 "1-M1: Jaw": {
 	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw_New",
-	"in_speed": 7,
-	"out_speed": 8,
+	"in_speed": 6,
+	"out_speed": 7,
 	"type": "standard"
   },
 "1-M2: Jaw (No Shrink)": {
