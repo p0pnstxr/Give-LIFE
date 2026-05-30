@@ -2,8 +2,8 @@
 "1-M1: Jaw": {
 	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw_New",
-	"in_speed": 6,
-	"out_speed": 7,
+	"in_speed": 5,
+	"out_speed": 6,
 	"type": "standard"
   },
 "1-M2: Jaw (No Shrink)": {
@@ -15,8 +15,8 @@
 "1-M3: Old Jaw (For Testing)": {
 	"_comment": "#MOUTHS",
 	"animation": "Mouth-Jaw",
-	"in_speed": 25,
-	"out_speed": 26,
+	"in_speed": 7,
+	"out_speed": 8,
 	"type": "standard"
   },
 "EU1: Blink": {
