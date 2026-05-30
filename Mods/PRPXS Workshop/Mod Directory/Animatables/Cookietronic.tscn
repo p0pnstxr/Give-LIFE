@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://iqrmm33dxvui" path="res://Scripts/Animatables/GL_Animatronic.gd" id="1_tjumi"]
 [ext_resource type="Texture2D" uid="uid://mikgrvtytpiy" path="res://UI/Question.png" id="2_2260i"]
-[ext_resource type="PackedScene" uid="uid://u5hk8uw8xp4j" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/cookietronic_GREATESTREMODEL.glb" id="3_qt181"]
+[ext_resource type="PackedScene" uid="uid://e7fchal1xfda" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/cookietronic_NEWBEST.glb" id="3_qt181"]
 [ext_resource type="Script" uid="uid://60lyan8oproc" path="res://Scripts/Animatables/Physics_Bones.gd" id="4_qt181"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_qt181"]
@@ -14,10 +14,10 @@ animParametersFileName = "Cookietronic"
 animatableIcon = ExtResource("2_2260i")
 animatableName = "Cookietronic"
 animatableAuthors = "prpx"
-animatableColor = Color(0.6647675, 0.30795226, 0.1290181, 1)
+animatableColor = Color(0.42717046, 0.18645781, 0.0635469, 1)
 
-[node name="cookietronic_GREATESTREMODEL" parent="." unique_id=91801328 instance=ExtResource("3_qt181")]
-transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
+[node name="cookietronic_NEWBEST" parent="." unique_id=2028151004 instance=ExtResource("3_qt181")]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0.097)
 script = ExtResource("4_qt181")
 boneConfigFileName = "Cookietronic"
 
