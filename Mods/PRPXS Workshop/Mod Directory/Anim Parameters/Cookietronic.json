@@ -75,6 +75,12 @@
 	"out_speed": 6.0,
 	"type": "standard"
   },
+"E3: Eye Inverse": {
+	"animation": "Eye-Inverse",
+	"in_speed": 5.5,
+	"out_speed": 6.0,
+	"type": "standard"
+  },
 "BM1: Left Tilt/Lean": {
 	"_comment": "#BODYTILTS",
 	"animation": "Body-LeftLean",
@@ -108,13 +114,13 @@
 	"type": "loop"
   },
 "Slow SPEEN": {
-	"animation": "Body-FullSpin",
+	"animation": "Body-FullSpin_Slow",
 	"in_speed": 1,
 	"out_speed": 1,
 	"type": "loop"
   },
 "Fast SPEEEEEEEEEEEEEEN": {
-	"animation": "Body-FullSpin",
+	"animation": "Body-FullSpin_Fast",
 	"in_speed": 13,
 	"out_speed": 13,
 	"type": "loop"
