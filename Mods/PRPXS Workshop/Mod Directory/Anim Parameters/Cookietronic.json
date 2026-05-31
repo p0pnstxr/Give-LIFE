@@ -129,6 +129,6 @@
 	"animation": "Body-FullSpin_Center",
 	"in_speed": 10,
 	"out_speed": 10,
-	"type": "standard"
+	"type": "move_to"
   },
 }
