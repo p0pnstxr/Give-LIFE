@@ -83,13 +83,13 @@
   },
 "BM1: Left Tilt/Lean": {
 	"_comment": "#BODYTILTS",
-	"animation": "Body-LeftLean",
+	"animation": "Body-LeftLean_Bake",
 	"in_speed": 1,
 	"out_speed": 10,
 	"type": "standard"
   },
 "BM2: Right Tilt/Lean": {
-	"animation": "Body-RightLean",
+	"animation": "Body-RightLean_Bake",
 	"in_speed": 1,
 	"out_speed": 10,
 	"type": "standard"
@@ -107,22 +107,28 @@
 	"out_speed": 4.6,
 	"type": "standard"
   },
-"SPEEN": {
+"BSM1: SPEEN": {
 	"animation": "Body-FullSpin",
 	"in_speed": 1,
 	"out_speed": 1,
 	"type": "loop"
   },
-"Slow SPEEN": {
+"BSM2: Slow SPEEN": {
 	"animation": "Body-FullSpin_Slow",
 	"in_speed": 0.5,
 	"out_speed": 0.5,
 	"type": "loop"
   },
-"Fast SPEEEEEEEEEEEEEEN": {
+"BSM3: Fast SPEEEEEEEEEEEEEEN": {
 	"animation": "Body-FullSpin_Fast",
 	"in_speed": 10,
 	"out_speed": 10,
 	"type": "loop"
+  },
+"BSM4: Body Centering": {
+	"animation": "Body-FullSpin_Center",
+	"in_speed": 10,
+	"out_speed": 10,
+	"type": "standard"
   },
 }
