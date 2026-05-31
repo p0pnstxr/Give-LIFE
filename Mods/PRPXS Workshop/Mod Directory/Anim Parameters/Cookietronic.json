@@ -109,20 +109,20 @@
   },
 "SPEEN": {
 	"animation": "Body-FullSpin",
-	"in_speed": 5,
-	"out_speed": 5,
-	"type": "loop"
-  },
-"Slow SPEEN": {
-	"animation": "Body-FullSpin_Slow",
 	"in_speed": 1,
 	"out_speed": 1,
 	"type": "loop"
   },
+"Slow SPEEN": {
+	"animation": "Body-FullSpin_Slow",
+	"in_speed": 0.5,
+	"out_speed": 0.5,
+	"type": "loop"
+  },
 "Fast SPEEEEEEEEEEEEEEN": {
 	"animation": "Body-FullSpin_Fast",
-	"in_speed": 13,
-	"out_speed": 13,
+	"in_speed": 10,
+	"out_speed": 10,
 	"type": "loop"
   },
 }
