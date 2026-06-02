@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://c5dh0vxqdur1v" path="res://Scenes/player.tscn" id="1_itpav"]
 [ext_resource type="ArrayOccluder3D" uid="uid://b5apq7a6beypk" path="res://Mods/PRPXS Workshop/Mod Directory/Maps/TEST/testworld.occ" id="2_itpav"]
-[ext_resource type="PackedScene" uid="uid://exjhq2go0147" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/basicasstestscene.glb" id="2_suu3c"]
+[ext_resource type="PackedScene" uid="uid://exjhq2go0147" path="res://Mods/PropFNAF/Custom Assets/Models/basicasstestscene.glb" id="2_suu3c"]
 [ext_resource type="PackedScene" uid="uid://c1ursmuwehccf" path="res://Mods/PRPXS Workshop/Mod Directory/Animatables/Cookietronic.tscn" id="3_itpav"]
 [ext_resource type="PackedScene" uid="uid://c2ir1x7cpdyxy" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.tscn" id="5_8tbuu"]
 
