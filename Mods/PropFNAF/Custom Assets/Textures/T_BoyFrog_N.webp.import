@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q28dlcie6bcw"
-path.s3tc="res://.godot/imported/T_BoyFrog_N.webp-e959654050f7a38322e1fc40ae3498ce.s3tc.ctex"
-path.etc2="res://.godot/imported/T_BoyFrog_N.webp-e959654050f7a38322e1fc40ae3498ce.etc2.ctex"
+path.s3tc="res://.godot/imported/T_BoyFrog_N.webp-c650566fffada4caf40ec2d2725f7bad.s3tc.ctex"
+path.etc2="res://.godot/imported/T_BoyFrog_N.webp-c650566fffada4caf40ec2d2725f7bad.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_BoyFrog_N.webp"
-dest_files=["res://.godot/imported/T_BoyFrog_N.webp-e959654050f7a38322e1fc40ae3498ce.s3tc.ctex", "res://.godot/imported/T_BoyFrog_N.webp-e959654050f7a38322e1fc40ae3498ce.etc2.ctex"]
+source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_BoyFrog_N.webp"
+dest_files=["res://.godot/imported/T_BoyFrog_N.webp-c650566fffada4caf40ec2d2725f7bad.s3tc.ctex", "res://.godot/imported/T_BoyFrog_N.webp-c650566fffada4caf40ec2d2725f7bad.etc2.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://crwwbctcuactb"
-path="res://.godot/imported/Rocktapus.glb-595751ad270b32c89e8478c576ee32da.scn"
+path="res://.godot/imported/Rocktapus.glb-0d688e031e57413d32e8ce3ca0a27e00.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Rocktapus.glb"
-dest_files=["res://.godot/imported/Rocktapus.glb-595751ad270b32c89e8478c576ee32da.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Rocktapus.glb"
+dest_files=["res://.godot/imported/Rocktapus.glb-0d688e031e57413d32e8ce3ca0a27e00.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ckktwbj7h3moo"
-path="res://.godot/imported/Frog And Snake.glb-379225daec24e8f7efc4c7ed711e9d5b.scn"
+path="res://.godot/imported/Frog And Snake.glb-0a940b2e36847bc390b94975ee6fd12d.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Frog And Snake.glb"
-dest_files=["res://.godot/imported/Frog And Snake.glb-379225daec24e8f7efc4c7ed711e9d5b.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Frog And Snake.glb"
+dest_files=["res://.godot/imported/Frog And Snake.glb-0a940b2e36847bc390b94975ee6fd12d.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://s14syxwkvgbc"
-path="res://.godot/imported/Swing Bee.glb-b0830a0613d56ba4cd136be094101c7c.scn"
+path="res://.godot/imported/Swing Bee.glb-c1c8203104fc2ff1b7d39eb6bd2458d1.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Swing Bee.glb"
-dest_files=["res://.godot/imported/Swing Bee.glb-b0830a0613d56ba4cd136be094101c7c.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Swing Bee.glb"
+dest_files=["res://.godot/imported/Swing Bee.glb-c1c8203104fc2ff1b7d39eb6bd2458d1.scn"]
 
 [params]
 
@@ -41,7 +41,7 @@ _subresources={
 "materials": {
 "MI_SwingBee.mat_0ad6348c": {
 "use_external/enabled": true,
-"use_external/fallback_path": "res://Mods/True FNaF/Custom Assets/Materials/SOTM/Swingbee.tres",
+"use_external/fallback_path": "res://Mods/PropFNAF/Custom Assets/Materials/Swingbee.tres",
 "use_external/path": "uid://x25wqr0r3edv"
 }
 }

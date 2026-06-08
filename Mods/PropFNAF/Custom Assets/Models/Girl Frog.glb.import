@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://w11t8ljku1g"
-path="res://.godot/imported/Girl Frog.glb-5c16c97e84490bbd1891e2123a18d502.scn"
+path="res://.godot/imported/Girl Frog.glb-04797e242550f2485ec1449fcf8103c5.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Animatronics/Girl Frog.glb"
-dest_files=["res://.godot/imported/Girl Frog.glb-5c16c97e84490bbd1891e2123a18d502.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Girl Frog.glb"
+dest_files=["res://.godot/imported/Girl Frog.glb-04797e242550f2485ec1449fcf8103c5.scn"]
 
 [params]
 
