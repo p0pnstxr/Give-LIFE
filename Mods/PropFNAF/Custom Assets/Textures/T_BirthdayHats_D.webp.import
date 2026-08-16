@@ -2,13 +2,9 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bid82umtjy6s6"
-<<<<<<< HEAD:Mods/PropFNAF/Custom Assets/Textures/T_BirthdayHats_D.webp.import
-path="res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.ctex"
-=======
-path.s3tc="res://.godot/imported/T_BirthdayHats_D.webp-d02ded088cc613aee332bbec6071e6ca.s3tc.ctex"
-path.etc2="res://.godot/imported/T_BirthdayHats_D.webp-d02ded088cc613aee332bbec6071e6ca.etc2.ctex"
->>>>>>> upstream/main:Mods/True FNaF/Custom Assets/Textures/SOTM/T_BirthdayHats_D.webp.import
+uid="uid://de6db5txkvnr"
+path.s3tc="res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.s3tc.ctex"
+path.etc2="res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -16,13 +12,8 @@ metadata={
 
 [deps]
 
-<<<<<<< HEAD:Mods/PropFNAF/Custom Assets/Textures/T_BirthdayHats_D.webp.import
 source_file="res://Mods/PropFNAF/Custom Assets/Textures/T_BirthdayHats_D.webp"
-dest_files=["res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.ctex"]
-=======
-source_file="res://Mods/True FNaF/Custom Assets/Textures/SOTM/T_BirthdayHats_D.webp"
-dest_files=["res://.godot/imported/T_BirthdayHats_D.webp-d02ded088cc613aee332bbec6071e6ca.s3tc.ctex", "res://.godot/imported/T_BirthdayHats_D.webp-d02ded088cc613aee332bbec6071e6ca.etc2.ctex"]
->>>>>>> upstream/main:Mods/True FNaF/Custom Assets/Textures/SOTM/T_BirthdayHats_D.webp.import
+dest_files=["res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.s3tc.ctex", "res://.godot/imported/T_BirthdayHats_D.webp-d5561618081ade8b7e7d2c784a2dc702.etc2.ctex"]
 
 [params]
 

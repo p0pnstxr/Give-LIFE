@@ -33,6 +33,10 @@ window/size/window_height_override=720
 window/stretch/mode="viewport"
 display_server/driver.linuxbsd="wayland"
 
+[dotnet]
+
+project/assembly_name="Faz-Anim 2"
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/wigglebone/plugin.cfg")

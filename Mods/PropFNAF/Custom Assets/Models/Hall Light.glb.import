@@ -4,18 +4,20 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b1dypharv40oo"
-path="res://.godot/imported/Hall Light.glb-8bc3ba82aa247cb00f5944b3f59650d5.scn"
+path="res://.godot/imported/Hall Light.glb-1110c4fdc5278481d8af6a771ef9d069.scn"
 
 [deps]
 
-source_file="res://Mods/True FNaF/Custom Assets/Models/Props/Hall Light.glb"
-dest_files=["res://.godot/imported/Hall Light.glb-8bc3ba82aa247cb00f5944b3f59650d5.scn"]
+source_file="res://Mods/PropFNAF/Custom Assets/Models/Hall Light.glb"
+dest_files=["res://.godot/imported/Hall Light.glb-1110c4fdc5278481d8af6a771ef9d069.scn"]
 
 [params]
 
 nodes/root_type=""
 nodes/root_name=""
 nodes/root_script=null
+mesh_library/use_node_names_as_mesh_names=false
+array_mesh/deduplicate_surfaces=true
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
 nodes/import_as_skeleton_bones=false
@@ -48,3 +50,4 @@ _subresources={
 }
 gltf/naming_version=2
 gltf/embedded_image_handling=0
+gltf/texture_map_mode=0
