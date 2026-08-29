@@ -3,7 +3,9 @@
 ![](https://github.com/The64thGamer/Give-LIFE/blob/main/UI/logo%20subtitle.png)
 
 Faz-Anim 2 allows players and aspiring creators to interact with animatronics fully in a digital sphere; and with the power of the built-in customization tools, anyone can make them dance to anything they desire...or even make animatronic bands of their own.
+
 There is no limit to what can be an animatronic. This library aims to please that sentiment: most of the animatronics here have original setups and/or completely original characters (see bottom for more info).
+
 This library of colorful animatable beings could not be made without the work of nor the inspiration of others, and we hope to share that inspiration, or create new types of inspiration with you. Thank you for reading go have fun :]
 
 ### Currently includes:
