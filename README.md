@@ -12,11 +12,17 @@ This library of colorful animatable beings could not be made without the work of
 - Cookietronic (Original) - A googly-eyed cookie animatronic, limited in motion, expressive nonetheless.
 
 ### Current Roadmap:
-- [ ] Project Ryokemi
-    - [ ] concept art
-- [ ] perhaps the guys from the Money For Nothing music video (but how would it work????)
-  - [ ] concept art
-  - [ ] skins for beverly hillbillies (weird al's parody version)
+- [ ] Sing/Guitar Module
+    - [ ] base models
+    - [ ] Project Ryokemi
+        - [ ] concept art
+        - [ ] concept models
+        - [ ] stage
+        - [ ] H or T
+        - [ ] robot variants
+    - [ ] perhaps the guys from the Money For Nothing music video (but how would it work????)
+      - [ ] concept art
+      - [ ] skins for beverly hillbillies (weird al's parody version)
 - [ ] polish up simple animatronic guide/recipe booklet
      - [ ] create better link/alias for it
 - [ ] cookietronic is out of beta
@@ -25,6 +31,7 @@ This library of colorful animatable beings could not be made without the work of
     - [ ] maybe suika game skins????? would anyone be into that?????
     - [ ] added cheese sausage sandwich (forgot what its called) small ally
     - [ ] .....maybe a banana???
+- [ ] led pixel sign
 
 #### Credits:
 [The64thGamer - Give-LIFE Engine, original repo](https://github.com/The64thGamer/Give-LIFE)
