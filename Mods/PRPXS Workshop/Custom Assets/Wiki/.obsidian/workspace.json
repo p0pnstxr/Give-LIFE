@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,8 +75,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "94677cc0ee6f17f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "0c5067ca592ec57a",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,14 +215,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "fc732eb5cab53e0d",
   "lastOpenFiles": [
-    "the unofficial give-life simple digital animatronic recipe v0.111.md",
     "(without modelling guide, with animation guide) the unofficial give-life simple digital animatronic recipe.md",
     "(godot parts only) the unofficial give-life simple digital animatronic recipe 1.md",
+    "the unofficial give-life simple digital animatronic recipe v0.111.md",
+    "cookietxt_TESTNM.png",
+    "Screenshot 2026-05-03 at 6.25.36 PM.png",
+    "Screenshot 2026-04-30 at 6.06.18 PM.png",
+    "Screenshot 2026-04-30 at 7.18.44 PM.png",
     "README.md",
     "Screenshot 2026-04-30 at 7.18.44 PM.png.import",
     "Screenshot 2026-04-30 at 6.06.18 PM.png.import",
@@ -207,11 +236,7 @@
     "cookietxt_TESTNM02.png.import",
     "cookietxt_TESTNM.png.import",
     "Screenshot 2026-05-03 at 6.25.36 PM.png.import",
-    "cookietxt_TESTNM.png",
     "cookietxt_TESTNM02.png",
-    "Screenshot 2026-04-30 at 7.18.44 PM.png",
-    "Screenshot 2026-04-30 at 6.06.18 PM.png",
-    "Screenshot 2026-05-03 at 6.25.36 PM.png",
     "Screenshot 2026-05-25 at 12.45.23 PM copy.png",
     "Screenshot 2026-05-25 at 12.45.23 PM.png"
   ]

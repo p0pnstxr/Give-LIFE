@@ -1,12 +1,19 @@
+---
+tags:
+  - guide
+  - main
+  - 🐻
+---
 
 ###### we'll be using [Blender](https://www.blender.org/download/) for this guide as its free and best supported,
+(you can also use [BforArtists](https://www.bforartists.de) which is a clone that makes Blender easier)
 ###### your free to use whatever modeling tools you already have,
 ###### as long as it supports .glb or .fbx exporting.
 ###### you might have to look up what keys/scenarios are similar for your case though
 
 make sure you have standard latest godot installed, perferably no c++
 
-lastly, its recommended to use github desktop to clone the game repository so you can just hit "pull origin" whenever 64 drops updates
+lastly, its recommended to use github desktop to clone the games files, so you can just hit "pull origin" whenever there's an update
 
 
 ---

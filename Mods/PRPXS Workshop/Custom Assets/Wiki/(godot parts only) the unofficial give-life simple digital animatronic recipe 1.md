@@ -1,19 +1,26 @@
+---
+tags:
+  - guide
+  - smallest
+  - ☂️
+---
 
 ###### we'll be using [Blender](https://www.blender.org/download/) for this guide as its free and best supported,
+(you can also use [BforArtists](https://www.bforartists.de) which is a clone that makes Blender easier)
 ###### your free to use whatever modeling tools you already have,
 ###### as long as it supports .glb or .fbx exporting.
 ###### you might have to look up what keys/scenarios are similar for your case though
 
 make sure you have standard latest godot installed, perferably no c++
 
-use github desktop to clone the game repository so you can just hit "pull origin" whenever 64 drops updates
+lastly, its recommended to use github desktop to clone the games files, so you can just hit "pull origin" whenever there's an update
 
-this tutorial keeps only the latter godot parts; importing and configuring assets for the mod, front to back. this is for if you have an animated model already exported, and/or just want to get straight to the engine.
+> this tutorial keeps only the latter godot parts; importing and configuring assets for the mod, front to back. this is for if you have an animated model already exported, and/or just want to get straight to the engine.
 
 ---
 navbox:
 - [[#1. exporting]]
-- [[#3. materials]]
+- [[#2. materials]]
 - [[#4. animatables]]
 - [[#5. grouping]]
 - [[#6. halfway!]]
@@ -23,7 +30,7 @@ navbox:
 
 ---
 
-## 2. exporting
+## 1. exporting
 
 (if youve done this already you can go ahead to the next step)
 
@@ -34,23 +41,23 @@ navbox:
  - now in godot, double-click your model to open it's preview menu
 		 if it appears white and textureless, that is completely normal. preview menu doesnt really preview textures.
 
-### 3. materials
+### 2. materials
  
  - click Actions uptop the preview menu, then Export Materials.
 	 - export to `/CustomAssets/Materials/` (or anywhere you can remember really).
 	 - make sure you have your textures exported/carried over as well (`CustomAssets\Textures\Animatronics`).
 
 make sure to double click the exported file to edit it, it'll pop up on the side. heres how it should be set up by default:
-![[Screenshot 2026-04-30 at 7.18.44 PM.png]]
-
+<img src="Screenshot 2026-04-30 at 7.18.44 PM.png" height="800" />
 
 - normal map = normal map, albedo = texture, specular = metallic**, & roughness = roughness! :D
 
 this is how it should look for colorables/glowables:
-![[Screenshot 2026-04-30 at 6.06.18 PM.png|697]]
+<img src="Screenshot 2026-04-30 at 6.06.18 PM.png" height="800" />
+
 - texture is now gray, its colors are now variables
 - use gl_paintable for the 'shaders' slot
-## 4. animatables
+## 3. animatables
 
 - these go in `Custom Directory/Animatables`. they are tscn files (which are Scenes in Godot) containing the model and its info.
 - create a new scene with a 3d node, then put the model under it.
@@ -66,7 +73,7 @@ this is how it should look for colorables/glowables:
 - if your planning for your animatronic to have physics, go into your model node and set the script to 'Physics_Bones'.
 now you are done with what I call the metadata part :D thats 1/3rd in of the mod, make sure to take breaks!!
 
-## 5. grouping
+## 4. grouping
 
 - where you've been seeing the info for your nodes, it says you are currently on the Inspector tab. make sure your on the top node, then switch to the Groups tab.
 
@@ -75,7 +82,7 @@ now you are done with what I call the metadata part :D thats 1/3rd in of the mod
 
 - set color check to your new group aswell.
 
-## 6. halfway!
+## 5. halfway!
 ###### NOTE TO WRITER: THIS IS THE CONFUSING PART
 - you can now test it's visibility by dragging it into a map! if you want to!
 -# (why did it glitch/error the first time??? they dont do the best with clarifying what 2 do in the og guide.)
@@ -87,14 +94,14 @@ now you are done with what I call the metadata part :D thats 1/3rd in of the mod
 -# (maybe this shouldn't be suggested yet. have my hopes up for the newer release though)
 - I really recommend taking a break and resting at this part, youve done a lot of work up to this point
 
-## 7. proper animation support
+## 6. proper animation support
 - copy-paste a json (or make a new one) from `Mod Directory\Anim Parameters`
 -# true-fnaf is reccomended for easier editing, since they usually have few animations listed, like 'ToyFan'
 
 - rename it with the same name the .tscn file has
 
 - Back in the .tscn's top node, in the Inspector change the 'parameter file' to the same name
-## 8. writing the animations
+## 7. writing the animations
 
 here is an example of what we'll be working with:
 ```
@@ -135,7 +142,7 @@ this is how we tell the game how the animations work, and links them to the anim
 And thats it! You did it :D 🎉🎉🎉
 
 
-## 9. other stuff
+## 8. other stuff
 
 you might need to make a map for your character to actually work & test properly. right now dragging the model anywhere'll error, since they arent in the same folders nor are the indexes for the map.
 luckily, making a map is actually kinda easier than most of the process so far.
