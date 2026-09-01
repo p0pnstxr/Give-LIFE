@@ -4,6 +4,7 @@ export.cfg
 export_presets.cfg
 *.png.import
 *.webp.import
+*.glb.import
 
 # Imported translations (automatically generated from CSV files)
 *.translation
@@ -56,6 +57,8 @@ Mods/PRPXS Workshop/Custom Assets/.DS_Store
 Mods/PRPXS Workshop/.DS_Store
 Mods/.DS_Store
 .DS_Store
+*.import
+*.import
 *.import
 *.import
 *.import
