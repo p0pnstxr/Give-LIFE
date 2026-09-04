@@ -1,0 +1,8 @@
+{
+  "Coral": {
+	"animation": "Coral",
+	"in_speed": 0.15,
+	"out_speed": 0.15,
+	"type": "loop"
+  }
+}

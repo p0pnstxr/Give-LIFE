@@ -1,0 +1,110 @@
+{
+  "Arm L": {
+	"animation": "Robot Arm L",
+	"in_speed": 3,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Arm R": {
+	"animation": "Robot Arm R",
+	"in_speed": 3,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Body Down": {
+	"animation": "Robot Body Down",
+	"in_speed": 2,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Claw L": {
+	"animation": "Robot Claw L",
+	"in_speed": 4,
+	"out_speed": 4,
+	"type": "standard"
+  },
+  "Claw R": {
+	"animation": "Robot Claw R",
+	"in_speed": 4,
+	"out_speed": 4,
+	"type": "standard"
+  },
+  "Collar Back L": {
+	"animation": "Robot Collar Back L",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Collar Back R": {
+	"animation": "Robot Collar Back R",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Collar L": {
+	"animation": "Robot Collar L",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Collar R": {
+	"animation": "Robot Collar R",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Eyes": {
+	"animation": "Robot Eyes",
+	"in_speed": 4,
+	"out_speed": 4,
+	"type": "standard"
+  },
+  "Forearm L": {
+	"animation": "Robot Forearm L",
+	"in_speed": 3,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Forearm R": {
+	"animation": "Robot Forearm R",
+	"in_speed": 3,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Head Left": {
+	"animation": "Robot Head Left",
+	"in_speed": 1.5,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Head Right": {
+	"animation": "Robot Head Right",
+	"in_speed": 1.5,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Head Up": {
+	"animation": "Robot Head Up",
+	"in_speed": 3,
+	"out_speed": 2,
+	"type": "standard"
+  },
+  "Knobs": {
+	"animation": "Robot Knobs",
+	"in_speed": 3,
+	"out_speed": 4,
+	"type": "standard"
+  },
+  "Tilt L": {
+	"animation": "Robot Tilt L",
+	"in_speed": 2,
+	"out_speed": 3,
+	"type": "standard"
+  },
+  "Tilt R": {
+	"animation": "Robot Tilt R",
+	"in_speed": 2,
+	"out_speed": 3,
+	"type": "standard"
+  }
+}

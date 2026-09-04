@@ -1,0 +1,1147 @@
+[gd_scene format=3 uid="uid://bilcjud6l2iec"]
+
+[ext_resource type="PackedScene" uid="uid://c5dh0vxqdur1v" path="res://Scenes/player.tscn" id="1_84tyg"]
+[ext_resource type="ArrayOccluder3D" uid="uid://vonrt6el27bj" path="res://Mods/True FNaF/Mod Directory/Maps/Welcome Show/Welcome Show.occ" id="2_groir"]
+[ext_resource type="PackedScene" uid="uid://dnrdesa7augsy" path="res://Mods/True FNaF/Custom Assets/Models/Maps/Welcome Show.glb" id="3_k1maa"]
+[ext_resource type="PackedScene" uid="uid://cdcyekvvr0d5h" path="res://Mods/True FNaF/Mod Directory/Animatables/Juggling Duck.tscn" id="4_k1maa"]
+[ext_resource type="Script" uid="uid://c5uawj66escut" path="res://Scripts/Animatables/GL_Spotlight.gd" id="4_prrm5"]
+[ext_resource type="PackedScene" uid="uid://cawd52mwjiyof" path="res://Mods/True FNaF/Mod Directory/Animatables/Jug Band Monty.tscn" id="5_0fwej"]
+[ext_resource type="PackedScene" uid="uid://derp5d4vnpqqy" path="res://Mods/True FNaF/Mod Directory/Animatables/Birthday Puppy.tscn" id="5_ou855"]
+[ext_resource type="PackedScene" uid="uid://bc8jbkccmt3mk" path="res://Mods/True FNaF/Mod Directory/Animatables/Ringmaster Base.tscn" id="6_6f5je"]
+[ext_resource type="PackedScene" uid="uid://c6f775qvpey1n" path="res://Mods/True FNaF/Mod Directory/Animatables/Seal.tscn" id="7_24o3w"]
+[ext_resource type="PackedScene" uid="uid://budn8j6njgqgq" path="res://Mods/True FNaF/Mod Directory/Animatables/Mr Helpful.tscn" id="7_qdg1u"]
+[ext_resource type="PackedScene" uid="uid://bn1b0mbbj71vn" path="res://Mods/True FNaF/Mod Directory/Animatables/Mr Helpful Alt.tscn" id="8_1v7pc"]
+[ext_resource type="PackedScene" uid="uid://cngsa0r1unggw" path="res://Mods/True FNaF/Mod Directory/Animatables/Ringmaster Base Alt.tscn" id="8_7ks7s"]
+[ext_resource type="PackedScene" uid="uid://dyhynoyx5qmvk" path="res://Mods/True FNaF/Mod Directory/Animatables/Mrs Helpful.tscn" id="11_7ks7s"]
+[ext_resource type="PackedScene" uid="uid://cjrr3dhrx7gkm" path="res://Mods/True FNaF/Mod Directory/Animatables/Mrs Helpful Alt.tscn" id="11_xrl45"]
+[ext_resource type="PackedScene" uid="uid://bsqeb3pvpmgic" path="res://Mods/True FNaF/Mod Directory/Animatables/Jug Band Hippo.tscn" id="13_mvm2o"]
+[ext_resource type="Texture2D" uid="uid://dml8pwra008ff" path="res://UI/SpotDeepGreen.png" id="14_8n47d"]
+[ext_resource type="PackedScene" uid="uid://2d461ea5f311" path="res://Mods/True FNaF/Mod Directory/Animatables/Seal Bucket.tscn" id="14_k3tak"]
+[ext_resource type="Texture2D" uid="uid://bkwp1c8v6dch7" path="res://UI/SpotTan.png" id="15_24o3w"]
+[ext_resource type="PackedScene" uid="uid://np0t77x5cpdp" path="res://Mods/True FNaF/Mod Directory/Animatables/Balloon Mice.tscn" id="15_rbfby"]
+[ext_resource type="PackedScene" uid="uid://bqsi4xl15ok14" path="res://Mods/True FNaF/Mod Directory/Animatables/Bee.tscn" id="16_bckie"]
+[ext_resource type="PackedScene" uid="uid://52t62ac46js" path="res://Mods/True FNaF/Mod Directory/Animatables/Birds Nest.tscn" id="16_cb76s"]
+[ext_resource type="Texture2D" uid="uid://b78q5wlod5b1j" path="res://UI/SpotRed.png" id="16_jhmpf"]
+[ext_resource type="Texture2D" uid="uid://cyejjgqimakwt" path="res://UI/SpotPurple.png" id="17_e18ba"]
+[ext_resource type="PackedScene" uid="uid://bap1mbpwk7nwr" path="res://Mods/True FNaF/Mod Directory/Animatables/Blue Balloon Dog.tscn" id="18_gt5wa"]
+[ext_resource type="Texture2D" uid="uid://pvnmpdv1rlgq" path="res://UI/SpotGreen.png" id="18_hlfwi"]
+[ext_resource type="Texture2D" uid="uid://dtkmxholirbad" path="res://UI/SpotSkyBlue.png" id="18_s8leu"]
+[ext_resource type="Texture2D" uid="uid://bt3neeiaobcqb" path="res://UI/SpotOrange.png" id="18_x374d"]
+[ext_resource type="PackedScene" uid="uid://xi7n4c6mqwgo" path="res://Mods/True FNaF/Mod Directory/Animatables/Clam.tscn" id="19_drm30"]
+[ext_resource type="Script" uid="uid://bxoluhix7ikna" path="res://Scripts/Animatables/GL_Lights.gd" id="20_e18ba"]
+[ext_resource type="PackedScene" uid="uid://cjxdk0bhc1uxm" path="res://Mods/True FNaF/Mod Directory/Animatables/Comedy.tscn" id="20_k8n6e"]
+[ext_resource type="PackedScene" uid="uid://0swyj6c3ki8e" path="res://Mods/True FNaF/Mod Directory/Animatables/Coral.tscn" id="21_h53ma"]
+[ext_resource type="Texture2D" uid="uid://bds4gv2if6amk" path="res://UI/SpotWhite.png" id="21_s8leu"]
+[ext_resource type="PackedScene" uid="uid://nrt21knyl1yp" path="res://Mods/True FNaF/Mod Directory/Animatables/Cotton Candy Sheep.tscn" id="22_tghgq"]
+[ext_resource type="PackedScene" uid="uid://bpbgjt0nbvjuf" path="res://Mods/True FNaF/Mod Directory/Animatables/Crab.tscn" id="23_a188d"]
+[ext_resource type="PackedScene" uid="uid://cqefqicfyo54j" path="res://Mods/True FNaF/Mod Directory/Animatables/Dragonfly.tscn" id="24_ugnft"]
+[ext_resource type="PackedScene" uid="uid://cy13jhhcmj3q8" path="res://Mods/True FNaF/Mod Directory/Animatables/Fish.tscn" id="25_48a2f"]
+[ext_resource type="PackedScene" uid="uid://dc5lwjmk3s5ju" path="res://Mods/True FNaF/Mod Directory/Animatables/Flower Wagon.tscn" id="26_ke38u"]
+[ext_resource type="PackedScene" uid="uid://bxmko4v0fdwxq" path="res://Mods/True FNaF/Mod Directory/Animatables/Frog Cutout.tscn" id="27_ehgti"]
+[ext_resource type="PackedScene" uid="uid://betgpvyp1cf08" path="res://Mods/True FNaF/Mod Directory/Animatables/Green Balloon Dog.tscn" id="28_253oa"]
+[ext_resource type="PackedScene" uid="uid://dosox4sx5nucf" path="res://Mods/True FNaF/Mod Directory/Animatables/Hanging Cloud.tscn" id="29_fivvt"]
+[ext_resource type="PackedScene" uid="uid://bhx4vgyc0ju4h" path="res://Mods/True FNaF/Mod Directory/Animatables/King Frog.tscn" id="30_vcxxe"]
+[ext_resource type="PackedScene" uid="uid://rffxqu73hxe7" path="res://Mods/True FNaF/Mod Directory/Animatables/Lion.tscn" id="31_exxue"]
+[ext_resource type="PackedScene" uid="uid://dhtifwc1hgo8q" path="res://Mods/True FNaF/Mod Directory/Animatables/Orange Balloon Dog.tscn" id="32_524yl"]
+[ext_resource type="PackedScene" uid="uid://dbwjcdj3ilavm" path="res://Mods/True FNaF/Mod Directory/Animatables/Palm Tree.tscn" id="33_5vgcd"]
+[ext_resource type="PackedScene" uid="uid://co45bbsx88xj1" path="res://Mods/True FNaF/Mod Directory/Animatables/Popcorn Sheep.tscn" id="34_gd307"]
+[ext_resource type="PackedScene" uid="uid://5uoi6dwe2t3p" path="res://Mods/True FNaF/Mod Directory/Animatables/Present Cutout.tscn" id="35_orruf"]
+[ext_resource type="PackedScene" uid="uid://cjfnwerbfv4sk" path="res://Mods/True FNaF/Mod Directory/Animatables/Purple Snake.tscn" id="36_nll4q"]
+[ext_resource type="PackedScene" uid="uid://d0g8ck2ws17j5" path="res://Mods/True FNaF/Mod Directory/Animatables/Red Balloon Dog.tscn" id="37_srr3x"]
+[ext_resource type="PackedScene" uid="uid://b3jy5n2h2nlpd" path="res://Mods/True FNaF/Mod Directory/Animatables/Shark.tscn" id="38_bjdc4"]
+[ext_resource type="PackedScene" uid="uid://rma838f10gew" path="res://Mods/True FNaF/Mod Directory/Animatables/Snail.tscn" id="39_aier8"]
+[ext_resource type="PackedScene" uid="uid://bxj26k8t2r2bg" path="res://Mods/True FNaF/Mod Directory/Animatables/Squirrel.tscn" id="40_7q6x5"]
+[ext_resource type="PackedScene" uid="uid://xmbfov1xj758" path="res://Mods/True FNaF/Mod Directory/Animatables/Starfish.tscn" id="41_1a1ku"]
+[ext_resource type="PackedScene" uid="uid://cyaslnjr3digf" path="res://Mods/True FNaF/Mod Directory/Animatables/Sun Moons.tscn" id="42_6gfa3"]
+[ext_resource type="PackedScene" uid="uid://cnlohng7qk1fn" path="res://Mods/True FNaF/Mod Directory/Animatables/Tragedy.tscn" id="43_wquxw"]
+[ext_resource type="PackedScene" uid="uid://dkweily3px0i8" path="res://Mods/True FNaF/Mod Directory/Animatables/Turtle.tscn" id="44_xp1mc"]
+[ext_resource type="PackedScene" uid="uid://dc0ym80nk4i0a" path="res://Mods/True FNaF/Mod Directory/Animatables/Welcome Show Stairs.tscn" id="46_k1822"]
+[ext_resource type="PackedScene" uid="uid://clofrntnpec5f" path="res://Mods/True FNaF/Mod Directory/Animatables/Rocktapus.tscn" id="46_u1qki"]
+[ext_resource type="PackedScene" uid="uid://dsi0hdxulkfoj" path="res://Mods/True FNaF/Mod Directory/Animatables/Lasso Pig.tscn" id="47_i6pjh"]
+[ext_resource type="PackedScene" uid="uid://b5dxk7fyqfyh6" path="res://Mods/True FNaF/Mod Directory/Animatables/Swing Bee.tscn" id="48_848g7"]
+[ext_resource type="PackedScene" uid="uid://b5dk0jygxtoe3" path="res://Mods/True FNaF/Mod Directory/Animatables/Boy Frog.tscn" id="50_q3irn"]
+[ext_resource type="PackedScene" uid="uid://coucprn4cpo4c" path="res://Mods/True FNaF/Mod Directory/Animatables/Girl Frog.tscn" id="51_g4dm4"]
+[ext_resource type="PackedScene" uid="uid://d0aookwcus8y" path="res://Mods/True FNaF/Mod Directory/Animatables/Party Hats.tscn" id="58_jhmpf"]
+
+[sub_resource type="Environment" id="Environment_groir"]
+background_mode = 2
+background_color = Color(0.3782, 0.47895, 0.62, 1)
+background_energy_multiplier = 1.5
+sky_rotation = Vector3(0, -1.07338, 0)
+ambient_light_source = 1
+reflected_light_source = 1
+tonemap_mode = 4
+tonemap_agx_contrast = 1.0
+ssr_enabled = true
+ssil_enabled = true
+glow_enabled = true
+fog_mode = 1
+fog_light_color = Color(1, 1, 1, 1)
+fog_density = 1.0
+fog_sky_affect = 0.0
+volumetric_fog_density = 0.01
+volumetric_fog_detail_spread = 1.0
+volumetric_fog_sky_affect = 0.0
+adjustment_enabled = true
+adjustment_contrast = 1.1
+adjustment_saturation = 1.3
+
+[sub_resource type="WorldBoundaryShape3D" id="WorldBoundaryShape3D_stiks"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_ou855"]
+size = Vector3(19.23938, 0.22232437, 3.1635132)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_qdg1u"]
+size = Vector3(21.514175, 0.19498539, 1.9289398)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_1v7pc"]
+size = Vector3(21.514175, 0.19498539, 1.9289398)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cjgw4"]
+size = Vector3(1.9357319, 0.19498539, 7.9221487)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6f5je"]
+size = Vector3(1.9357319, 0.19498539, 1.7022853)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7ks7s"]
+size = Vector3(3.4768906, 0.3644812, 8.009417)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_h53ma"]
+size = Vector3(3.0273032, 0.3644812, 1.7649622)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_mvm2o"]
+size = Vector3(3.2954102, 0.08428955, 2.6984863)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0fwej"]
+size = Vector3(24.34085, 16.315678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_k3tak"]
+size = Vector3(24.34085, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_drm30"]
+size = Vector3(24.34085, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_k8n6e"]
+size = Vector3(24.34085, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_rbfby"]
+size = Vector3(19.11927, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_bckie"]
+size = Vector3(19.11927, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_cb76s"]
+size = Vector3(19.11927, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gt5wa"]
+size = Vector3(19.11927, 26.367678, 0.76982117)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_xp1mc"]
+size = Vector3(6.448991, 6.04364, 0.13996506)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_k1822"]
+size = Vector3(2.6054728, 1.0702744, 0.13996506)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_i6pjh"]
+size = Vector3(2.7719736, 3.9733405, 0.5270138)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_u1qki"]
+size = Vector3(3.499268, 4.2424808, 0.5270138)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_848g7"]
+size = Vector3(4.2040443, 1.5737762, 1.9553313)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_g4dm4"]
+size = Vector3(0.096004725, 1.6386223, 19.115297)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_xvjyp"]
+size = Vector3(1.5976095, 1.6044674, 2.4896278)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6gudw"]
+size = Vector3(0.92503715, 1.6044674, 4.712373)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_poq8k"]
+size = Vector3(0.096004725, 1.6386223, 5.5861974)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_kt7g2"]
+size = Vector3(2.9789572, 0.063836575, 5.6005898)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_q3irn"]
+size = Vector3(3.2690144, 1.5737762, 1.9553313)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_8n47d"]
+size = Vector3(21.086561, 0.8933134, 0.107485175)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_24o3w"]
+size = Vector3(14.530918, 0.8933134, 0.107485175)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jhmpf"]
+size = Vector3(7.525918, 1.6322036, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_e18ba"]
+size = Vector3(3.1522315, 1.6322036, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_x374d"]
+size = Vector3(5.179143, 1.7404182, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_hlfwi"]
+size = Vector3(3.4328473, 1.7404182, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_mqf0c"]
+size = Vector3(21.3981, 1.6612247, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_s8leu"]
+size = Vector3(1.4906665, 1.6322036, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_8lh6t"]
+size = Vector3(8.935524, 1.6612247, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_gb242"]
+size = Vector3(2.8710823, 1.6612247, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_k22hl"]
+size = Vector3(0.73595905, 0.8756563, 0.7789081)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7jwkd"]
+size = Vector3(1.0051866, 0.89595807, 1.0497684)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_wn45s"]
+size = Vector3(0.77143824, 0.6047173, 0.79515696)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2jrim"]
+size = Vector3(1.8510685, 1.6612247, 0.18740958)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_jcnbp"]
+size = Vector3(6.3975816, 1.6612247, 0.18740958)
+
+[node name="Welcome Show" type="Node3D" unique_id=2086066372]
+
+[node name="Player" parent="." unique_id=912065313 instance=ExtResource("1_84tyg")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.449, 0)
+flashlightType = 1
+
+[node name="Map" type="Node" parent="." unique_id=150341188]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="Map" unique_id=45817815]
+environment = SubResource("Environment_groir")
+
+[node name="OccluderInstance3D" type="OccluderInstance3D" parent="Map" unique_id=466442026]
+visible = false
+occluder = ExtResource("2_groir")
+bake_mask = 4294967289
+bake_simplification_distance = 0.25
+
+[node name="World Boundary" type="StaticBody3D" parent="Map" unique_id=1654655482]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Map/World Boundary" unique_id=1755227430]
+shape = SubResource("WorldBoundaryShape3D_stiks")
+
+[node name="Animatables" type="Node" parent="Map" unique_id=991753060]
+
+[node name="Juggling Duck" parent="Map/Animatables" unique_id=233530727 instance=ExtResource("4_k1maa")]
+transform = Transform3D(0.60042024, 0, -0.79968464, 0, 1, 0, 0.79968464, 0, 0.60042024, 7.350401, 3.4910758, -5.411556)
+
+[node name="Jug Band Hippo" parent="Map/Animatables" unique_id=1472576521 instance=ExtResource("13_mvm2o")]
+transform = Transform3D(-0.6422126, 0, -0.76652664, 0, 1, 0, 0.76652664, 0, -0.6422126, 5.398399, 1.8998148, 5.623392)
+
+[node name="Jug Band Monty" parent="Map/Animatables" unique_id=1755040515 instance=ExtResource("5_0fwej")]
+transform = Transform3D(-0.662803, 5.4508128e-08, -0.7487938, 2.9802322e-08, 1, 0, 0.74879384, 2.834824e-08, -0.66280293, 6.397505, 1.9174023, 2.4571245)
+
+[node name="Birthday Puppy" parent="Map/Animatables" unique_id=839363954 instance=ExtResource("5_ou855")]
+transform = Transform3D(-0.6089553, 0, 0.79320455, 0, 1, 0, -0.79320455, 0, -0.6089553, -7.1620235, 1.9158788, 4.607229)
+
+[node name="Seal" parent="Map/Animatables" unique_id=1172113007 instance=ExtResource("7_24o3w")]
+transform = Transform3D(0.80385685, 0, -0.59482276, 0, 1, 0, 0.5948228, 0, 0.8038568, 4.396201, 7.0089445, -7.845801)
+
+[node name="Mr Helpful" parent="Map/Animatables" unique_id=1054742576 instance=ExtResource("7_qdg1u")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.66971225, 1.8965249, -10.723003)
+
+[node name="Mrs Helpful" parent="Map/Animatables" unique_id=1246275726 instance=ExtResource("11_7ks7s")]
+transform = Transform3D(0.8188479, 0.54579943, 0.17773888, 0.033617962, 0.26351207, -0.96407026, -0.5730252, 0.79540217, 0.19742763, -7.8234324, 3.5225246, -10.406515)
+
+[node name="Ringmaster Base" parent="Map/Animatables" unique_id=810956668 instance=ExtResource("6_6f5je")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.66971225, 1.8965249, -10.723003)
+
+[node name="Mr Helpful Alt" parent="Map/Animatables" unique_id=1309106493 instance=ExtResource("8_1v7pc")]
+transform = Transform3D(0.8330951, 0, -0.55312985, 0, 1, 0, 0.55312985, 0, 0.8330951, 4.3998313, 6.5216584, -7.8533325)
+
+[node name="Mrs Helpful Alt" parent="Map/Animatables" unique_id=1900648387 instance=ExtResource("11_xrl45")]
+transform = Transform3D(-0.66922134, 0, 0.7430631, 0, 1, 0, -0.7430631, 0, -0.66922134, -7.6123543, 7.779332, 4.7592688)
+
+[node name="Ringmaster Base2" parent="Map/Animatables" unique_id=184148070 instance=ExtResource("8_7ks7s")]
+transform = Transform3D(0.83292127, 0, -0.5533915, 0, 1, 0, 0.5533915, 0, 0.83292127, 4.3998313, 6.5216584, -7.8533325)
+
+[node name="Mood Light" type="OmniLight3D" parent="Map/Animatables" unique_id=2075856358]
+transform = Transform3D(0.8537498, -0.24125114, -0.4614209, 0.51820177, 0.30726722, 0.79815656, -0.050776653, -0.9205351, 0.3873461, -0.2587161, 10.123907, -1.3114839)
+light_color = Color(0.36666667, 1, 0, 1)
+light_energy = 0.0
+shadow_enabled = true
+omni_range = 16.916
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Mood Light" unique_id=1425451671 groups=["L_MOOD"]]
+transform = Transform3D(1, 4.0978193e-08, 2.0489097e-08, 7.450581e-09, 1, 5.9604645e-08, -3.7252903e-09, 2.9802322e-08, 1, -2.870522, 0.27061033, 0.2668209)
+script = ExtResource("4_prrm5")
+canChangeColor = true
+energyMultiplier = 1.0
+lerp_speed = 10.0
+color_lerp_speed = 2.0
+animatableIcon = ExtResource("14_8n47d")
+animatableName = "Mood Light"
+animatableColor = Color(0.1691, 0.89, 0.18111497, 1)
+delete_parent_instead = true
+
+[node name="Tree Mood" type="OmniLight3D" parent="Map/Animatables" unique_id=1921181449]
+transform = Transform3D(0.8537498, -0.24125114, -0.4614209, 0.51820177, 0.30726722, 0.79815656, -0.050776653, -0.9205351, 0.3873461, -6.065866, 9.751597, -7.7324166)
+light_color = Color(0.36666667, 1, 0, 1)
+light_energy = 0.0
+shadow_enabled = true
+omni_range = 5.036
+omni_attenuation = 1.87
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Tree Mood" unique_id=180814285 groups=["L_MOOD_TREE"]]
+transform = Transform3D(1, 4.0978193e-08, 2.0489097e-08, 7.450581e-09, 1, 5.9604645e-08, -3.7252903e-09, 2.9802322e-08, 1, -2.870522, 0.27061033, 0.2668209)
+script = ExtResource("4_prrm5")
+canChangeColor = true
+energyMultiplier = 0.8
+lerp_speed = 10.0
+color_lerp_speed = 2.0
+animatableIcon = ExtResource("14_8n47d")
+animatableName = "Tree Mood"
+animatableColor = Color(0.1691, 0.89, 0.18111497, 1)
+delete_parent_instead = true
+
+[node name="Light Duck" type="SpotLight3D" parent="Map/Animatables" unique_id=1578231398]
+transform = Transform3D(0.8537498, -0.24125111, -0.46142086, 0.51820177, 0.30726722, 0.79815656, -0.050776653, -0.9205351, 0.38734606, 2.106216, 12.45596, -1.3114839)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.5872555
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Duck" unique_id=1515539342 groups=["L_DUCK"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Duck Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Puppy" type="SpotLight3D" parent="Map/Animatables" unique_id=426942985]
+transform = Transform3D(-0.7587656, 0.27974468, 0.5882329, 0.6151883, 0.6045438, 0.5060338, -0.21405232, 0.74583495, -0.63080263, 2.840354, 12.45596, -6.6752048)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.5872555
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Puppy" unique_id=1284224305 groups=["L_PUPPY_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 250.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Puppy Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Helpful" type="SpotLight3D" parent="Map/Animatables" unique_id=526652825]
+transform = Transform3D(-0.9983418, 0.057564046, 5.2116818e-11, -0.015465597, -0.26822212, 0.963233, 0.05544759, 0.9616357, 0.26866764, -0.60399985, 6.653894, -10.945782)
+light_color = Color(0.96862745, 0.5529412, 0.5529412, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 6.075
+spot_attenuation = 2.0
+spot_angle = 47.78
+spot_angle_attenuation = 0.59460473
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Helpful" unique_id=470018532 groups=["L_MRHELP_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 8.0
+lerp_speed = 10.0
+animatableIcon = ExtResource("16_jhmpf")
+animatableName = "Stage Spot"
+animatableColor = Color(0.89, 0.30259997, 0.30259997, 1)
+delete_parent_instead = true
+
+[node name="Light Sun" type="SpotLight3D" parent="Map/Animatables" unique_id=1595848616]
+transform = Transform3D(-0.9983418, 0.057564046, 2.4239202e-09, -0.054308716, -0.9418842, 0.331519, 0.019083576, 0.33096927, 0.94344854, -0.604, 12.456, -5.212332)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 30.9
+spot_angle_attenuation = 0.59460473
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Sun" unique_id=480170920 groups=["L_SUN_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 100.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Sun Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Seal" type="SpotLight3D" parent="Map/Animatables" unique_id=1694673797]
+transform = Transform3D(-0.48528168, -0.64726454, -0.5878356, 0.23921132, -0.74493843, 0.62277174, -0.84099925, 0.16160282, 0.51633793, -0.604, 12.456, -3.804)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 13.7
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Seal" unique_id=1590484840 groups=["L_SEAL_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 500.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Seal Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Pig" type="SpotLight3D" parent="Map/Animatables" unique_id=1898143309]
+transform = Transform3D(-0.70120406, 0.33718815, -0.6281858, -0.70496076, -0.45952916, 0.5402439, -0.10650569, 0.8216675, 0.559928, -4.3940334, 11.221946, -0.1896329)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 8.8
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Pig" unique_id=2041285086 groups=["L_PIG_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 500.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Pig Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Rocktapus" type="SpotLight3D" parent="Map/Animatables" unique_id=908088710]
+transform = Transform3D(0.6272005, 0.39167798, 0.6732071, -0.55400735, -0.3831821, 0.7390854, 0.54744446, -0.8365165, -0.023339583, 1.3547745, 13.470353, -3.5258656)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 27.48515
+spot_attenuation = 2.0
+spot_angle = 15.743884
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Rocktapus" unique_id=1801996271 groups=["L_ROCKTAPUS_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 450.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Rocktapus Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Bee" type="SpotLight3D" parent="Map/Animatables" unique_id=363966436]
+transform = Transform3D(-0.25253037, 0.6261172, 0.7377029, -0.6940608, -0.6484306, 0.31275746, 0.6741719, -0.43303, 0.5983118, -4.2448077, 11.221946, -3.2869399)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 13.66
+spot_angle_attenuation = 3.0314324
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Bee" unique_id=687740244 groups=["L_SWING_SPOT"]]
+script = ExtResource("4_prrm5")
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Swing Bee Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Nest" type="SpotLight3D" parent="Map/Animatables" unique_id=584999734]
+transform = Transform3D(-0.25055152, 0.673035, 0.69587916, -0.67841744, -0.634852, 0.36974674, 0.69063276, -0.37945595, 0.6156619, -2.673603, 11.221946, -3.7606337)
+light_color = Color(0.6862745, 0.85882354, 0.43137255, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 3.91
+spot_angle_attenuation = 3.0314324
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Nest" unique_id=1834787256 groups=["L_NEST_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("18_hlfwi")
+animatableName = "Nest Spot"
+animatableColor = Color(0.7686834, 0.85, 0.15300001, 1)
+delete_parent_instead = true
+
+[node name="Light Honey" type="SpotLight3D" parent="Map/Animatables" unique_id=495250273]
+transform = Transform3D(-0.55839753, 0.7591248, 0.334547, -0.5015464, -0.63015455, 0.5927533, 0.6607901, 0.16320103, 0.732613, -2.673603, 11.221946, -3.7606337)
+light_color = Color(0.63296, 0.86, 0.29239997, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 3.91
+spot_angle_attenuation = 3.0314324
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Honey" unique_id=812791039 groups=["L_HONEY_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("18_hlfwi")
+animatableName = "Honey Spot"
+animatableColor = Color(0.76862746, 0.8509804, 0.15294118, 1)
+delete_parent_instead = true
+
+[node name="Mood Bee" type="SpotLight3D" parent="Map/Animatables" unique_id=1447224811]
+transform = Transform3D(-0.6459218, -0.41756713, 0.6390795, -0.46809718, -0.44466504, -0.76364785, 0.60305053, -0.79240817, 0.09175691, -4.7823343, 2.10484, -6.8586984)
+light_color = Color(0.99999994, 0.8829308, 0.7160219, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 10.562147
+spot_attenuation = 2.0
+spot_angle = 6.1102777
+spot_angle_attenuation = 3.0314324
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Mood Bee" unique_id=653651137 groups=["L_MOOD_BEE"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 500.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("18_x374d")
+animatableName = "Swing Bee Mood"
+animatableColor = Color(0.89, 0.44351667, 0.26700002, 1)
+delete_parent_instead = true
+
+[node name="Light Flowers" type="SpotLight3D" parent="Map/Animatables" unique_id=1930173376]
+transform = Transform3D(-0.71996504, 0.6176124, 0.31655198, -0.24731342, -0.6544959, 0.71447265, 0.6484491, 0.4361078, 0.62395805, -0.604, 12.456, -0.5952163)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.15
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Flowers" unique_id=375232579 groups=["L_FLOWERS"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 250.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Flower Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light MrsHelpful" type="SpotLight3D" parent="Map/Animatables" unique_id=22378040]
+transform = Transform3D(-0.72719073, 0.45351198, 0.51528704, -0.67354316, -0.61621946, -0.4081831, 0.13241392, -0.643895, 0.75356877, -4.7165446, 2.0956316, -7.1672897)
+light_color = Color(1, 0.5882353, 0.5882353, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 20.88
+spot_angle_attenuation = 4.924569
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light MrsHelpful" unique_id=1943451503 groups=["L_MRSHELP_SPOT"]]
+script = ExtResource("4_prrm5")
+canChangeColor = true
+energyMultiplier = 35.0
+lerp_speed = 10.0
+animatableIcon = ExtResource("16_jhmpf")
+animatableName = "Tree Spot"
+animatableColor = Color(0.89, 0.24919997, 0.24919997, 1)
+delete_parent_instead = true
+
+[node name="Light Puppy2" type="SpotLight3D" parent="Map/Animatables" unique_id=1645117922]
+transform = Transform3D(-0.7628397, 0.6283799, 0.15236259, 0.56619745, 0.5353917, 0.6267186, 0.31224367, 0.5643531, -0.76420516, -6.6125402, 12.45596, -6.6752048)
+light_color = Color(0.6158441, 0.41234547, 0.9511346, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 12.62
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Puppy2" unique_id=403304687 groups=["L_PUPPY_CLR_B"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 320.0
+animatableIcon = ExtResource("17_e18ba")
+animatableName = "Purple Light"
+delete_parent_instead = true
+
+[node name="Light Puppy3" type="SpotLight3D" parent="Map/Animatables" unique_id=1055210541]
+transform = Transform3D(-0.18034317, -0.2552727, 0.94990116, 0.5173919, 0.7967136, 0.31233492, -0.83652985, 0.5477986, -0.011605831, 2.840354, 7.037242, 6.115527)
+light_color = Color(0.43137255, 0.84313726, 0.98039216, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 17.92
+spot_angle_attenuation = 2.1435475
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Puppy3" unique_id=2040878018 groups=["L_PUPPY_CLR_A"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 320.0
+animatableIcon = ExtResource("18_s8leu")
+animatableName = "Blue Light"
+animatableColor = Color(0, 0.86533356, 0.88, 1)
+delete_parent_instead = true
+
+[node name="Light Lion" type="SpotLight3D" parent="Map/Animatables" unique_id=1856052350]
+transform = Transform3D(0.8054557, 0.17469493, -0.5663242, 0.50279164, 0.3044615, 0.80901414, 0.3137545, -0.9363679, 0.15739512, -0.5579281, 12.45596, -1.3114839)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.5872555
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Lion" unique_id=326012535 groups=["L_LION"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Lion Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Main Spotlight" type="Node3D" parent="Map/Animatables" unique_id=1026248951 groups=["L_MOVE_SPOT_A"]]
+transform = Transform3D(1, 0, 0, 0, 0.9999999, 0, 0, 0, 0.99999994, -0.34111387, 12.196595, -2.0095062)
+script = ExtResource("20_e18ba")
+canRotateX = true
+canRotateY = true
+energyMultiplier = 500.0
+max_angle_x = 180.0
+max_angle_y = 360.0
+animatableIcon = ExtResource("21_s8leu")
+animatableName = "Movable Spotlight A"
+animatableColor = Color(0.81960785, 0.7882353, 0.654902, 1)
+
+[node name="Spot" type="SpotLight3D" parent="Map/Animatables/Main Spotlight" unique_id=2134614129]
+transform = Transform3D(-1, 8.667487e-08, 1.14109655e-08, 0, -0.13052623, 0.991445, 8.742278e-08, 0.991445, 0.13052623, 0, 0, 0)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.5872555
+spot_angle_attenuation = 2.2973971
+
+[node name="Main Spotlight2" type="Node3D" parent="Map/Animatables" unique_id=471250080 groups=["L_MOVE_SPOT_B"]]
+transform = Transform3D(1, 0, 0, 0, 0.9999999, 0, 0, 0, 0.99999994, -0.34111387, 11.865134, -2.0095062)
+script = ExtResource("20_e18ba")
+canRotateX = true
+canRotateY = true
+energyMultiplier = 500.0
+max_angle_x = 180.0
+max_angle_y = 360.0
+animatableIcon = ExtResource("21_s8leu")
+animatableName = "Movable Spotlight B"
+animatableColor = Color(0.82, 0.7899333, 0.656, 1)
+
+[node name="Spot" type="SpotLight3D" parent="Map/Animatables/Main Spotlight2" unique_id=1645478527]
+transform = Transform3D(-1, 8.667487e-08, 1.14109655e-08, 0, -0.13052623, 0.991445, 8.742278e-08, 0.991445, 0.13052623, 0, 0, 0)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 11.5872555
+spot_angle_attenuation = 2.2973971
+
+[node name="Light Jugband" type="SpotLight3D" parent="Map/Animatables" unique_id=775458259]
+transform = Transform3D(-0.22341283, 0.8008236, -0.55566895, 0.49546963, 0.5842378, 0.6427875, 0.83940226, -0.13171017, -0.5273101, -0.5579281, 12.45596, -1.3114839)
+light_color = Color(0.96862745, 0.96862745, 0.89411765, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 18.45
+spot_angle_attenuation = 0.75785816
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Jugband" unique_id=1619943145 groups=["L_JUGBAND_SPOT"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Jugband Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Jugband2" type="SpotLight3D" parent="Map/Animatables" unique_id=320633492]
+transform = Transform3D(-0.55418843, 0.7901977, -0.2616539, -0.008149363, 0.30917427, 0.95097053, 0.83235127, 0.5291492, -0.1649012, 2.4825222, 12.45596, 3.0019007)
+light_color = Color(0, 0.7166667, 1, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 17.0
+spot_angle_attenuation = 4.0884957
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Jugband2" unique_id=1040432483 groups=["L_JUGBAND_CLR"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 200.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("18_s8leu")
+animatableName = "Aqua Light"
+animatableColor = Color(0.1691, 0.86597, 0.89, 1)
+delete_parent_instead = true
+
+[node name="Light Mice" type="SpotLight3D" parent="Map/Animatables" unique_id=1072464972]
+transform = Transform3D(0.34871724, -0.63245136, -0.69166565, 0.90087724, 0.022652242, 0.43348247, -0.25848883, -0.77426887, 0.5776603, 4.2292924, 12.45596, -1.3114839)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 14.519
+spot_attenuation = 2.0
+spot_angle = 15.21
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Mice" unique_id=45459872 groups=["L_CART"]]
+script = ExtResource("4_prrm5")
+energyMultiplier = 150.0
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Mice Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Light Cart" type="SpotLight3D" parent="Map/Animatables" unique_id=1457343098]
+transform = Transform3D(0.662153, -0.19211505, -0.72432405, 0.7397643, 0.32183853, 0.59090525, 0.11959359, -0.9270986, 0.35522616, -0.5579281, 12.45596, 4.259493)
+light_color = Color(0.9019608, 0.8901961, 0.972549, 1)
+light_energy = 0.0
+shadow_enabled = true
+spot_range = 30.0
+spot_attenuation = 2.0
+spot_angle = 15.995925
+spot_angle_attenuation = 2.2973971
+
+[node name="Node" type="Node3D" parent="Map/Animatables/Light Cart" unique_id=706429363 groups=["L_MICE"]]
+script = ExtResource("4_prrm5")
+lerp_speed = 20.0
+animatableIcon = ExtResource("15_24o3w")
+animatableName = "Sheep Spot"
+animatableColor = Color(0.8901961, 0.7921569, 0.6666667, 1)
+delete_parent_instead = true
+
+[node name="Seal Bucket" parent="Map/Animatables" unique_id=200504758 instance=ExtResource("14_k3tak")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.2365103, 1.8965254, -8.819147)
+
+[node name="Balloon Mice" parent="Map/Animatables" unique_id=872082009 instance=ExtResource("15_rbfby")]
+transform = Transform3D(-4.371139e-08, 0, -1, 0, 1, 0, 1, 0, -4.371139e-08, 8.530601, 8.029026, -5.741308)
+
+[node name="Birds Nest" parent="Map/Animatables" unique_id=426851615 instance=ExtResource("16_cb76s")]
+transform = Transform3D(0.8616291, 0, 0.5075384, 0, 1, 0, -0.5075384, 0, 0.8616291, -8.43742, 7.592108, -8.8322315)
+
+[node name="Bee" parent="Map/Animatables" unique_id=743868454 instance=ExtResource("16_bckie")]
+transform = Transform3D(0.8616291, 0, 0.5075384, 0, 1, 0, -0.5075384, 0, 0.8616291, -5.405502, 5.4404216, -10.089978)
+
+[node name="Blue Balloon Dog" parent="Map/Animatables" unique_id=1627841642 instance=ExtResource("18_gt5wa")]
+transform = Transform3D(-0.5293567, 0, 0.84839934, 0, 1, 0, -0.84839934, 0, -0.5293567, -4.2144904, 1.8997583, 9.38198)
+
+[node name="Clam" parent="Map/Animatables" unique_id=1770375263 instance=ExtResource("19_drm30")]
+transform = Transform3D(0.10907511, 0, 0.9940336, 0, 1, 0, -0.9940336, 0, 0.10907511, -9.581257, 2.2645755, -0.41219032)
+
+[node name="Comedy" parent="Map/Animatables" unique_id=1434614219 instance=ExtResource("20_k8n6e")]
+transform = Transform3D(0.8454576, 0, -0.53404254, 0, 1, 0, 0.53404254, 0, 0.8454576, 5.431666, 9.753302, -8.505493)
+
+[node name="Coral" parent="Map/Animatables" unique_id=1951136357 instance=ExtResource("21_h53ma")]
+transform = Transform3D(0.049163498, 0, 0.99879074, 0, 1, 0, -0.99879074, 0, 0.049163498, -9.227775, 2.1975167, -6.55599)
+
+[node name="Cotton Candy Sheep" parent="Map/Animatables" unique_id=1702866976 instance=ExtResource("22_tghgq")]
+transform = Transform3D(0.22028886, 0, -0.97543466, 0, 1, 0, 0.97543466, 0, 0.22028886, 8.472523, 1.8965251, -2.487565)
+
+[node name="Crab" parent="Map/Animatables" unique_id=39113265 instance=ExtResource("23_a188d")]
+transform = Transform3D(0.085034296, 0, 0.99637806, 0, 1, 0, -0.99637806, 0, 0.085034296, -9.698704, 6.0457745, -2.0426881)
+
+[node name="Dragonfly" parent="Map/Animatables" unique_id=156780902 instance=ExtResource("24_ugnft")]
+transform = Transform3D(-0.654279, 0, -0.7562533, 0, 1, 0, 0.7562533, 0, -0.654279, 8.7693205, 3.5854793, 2.9914112)
+
+[node name="Fish" parent="Map/Animatables" unique_id=376332801 instance=ExtResource("25_48a2f")]
+transform = Transform3D(0.08303428, 0, 0.99654686, 0, 1, 0, -0.99654686, 0, 0.08303428, -9.640906, 3.961588, -1.0579479)
+
+[node name="Flower Wagon" parent="Map/Animatables" unique_id=42859762 instance=ExtResource("26_ke38u")]
+transform = Transform3D(0.9843251, 0, -0.17636323, 0, 1, 0, 0.17636323, 0, 0.9843251, -5.2639103, 1.9031634, -9.929523)
+
+[node name="Frog Cutout" parent="Map/Animatables" unique_id=973085887 instance=ExtResource("27_ehgti")]
+transform = Transform3D(-0.42350385, 0, -0.9058943, 0, 1, 0, 0.9058943, 0, -0.42350385, 8.617659, 1.8985854, 2.3479276)
+
+[node name="Green Balloon Dog" parent="Map/Animatables" unique_id=1535112518 instance=ExtResource("28_253oa")]
+transform = Transform3D(-0.93848705, 0, 0.34531453, 0, 1, 0, -0.34531453, 0, -0.93848705, -4.947946, 1.8997585, 5.5406528)
+
+[node name="Hanging Cloud" parent="Map/Animatables" unique_id=1747203955 instance=ExtResource("29_fivvt")]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -11.687925, 8.181422, -1.665014)
+
+[node name="King Frog" parent="Map/Animatables" unique_id=1351748165 instance=ExtResource("30_vcxxe")]
+transform = Transform3D(-0.4433216, 0, -0.89636266, 0, 1, 0, 0.89636266, 0, -0.4433216, 3.4027288, 1.8965253, 5.5999007)
+
+[node name="Lion" parent="Map/Animatables" unique_id=126651183 instance=ExtResource("31_exxue")]
+transform = Transform3D(0.5608413, 0, -0.82792336, 0, 1, 0, 0.82792336, 0, 0.5608413, 6.702077, 1.8965244, -3.205337)
+
+[node name="Orange Balloon Dog" parent="Map/Animatables" unique_id=474000080 instance=ExtResource("32_524yl")]
+transform = Transform3D(-0.55681765, 0, 0.8306348, 0, 1, 0, -0.8306348, 0, -0.55681765, -4.27429, 1.9017565, 3.506922)
+
+[node name="Palm Tree" parent="Map/Animatables" unique_id=1257790755 instance=ExtResource("33_5vgcd")]
+transform = Transform3D(0.12121114, 0, 0.99262685, 0, 1, 0, -0.99262685, 0, 0.12121114, -12.338437, 1.777647, -7.077142)
+
+[node name="Popcorn Sheep" parent="Map/Animatables" unique_id=1824975997 instance=ExtResource("34_gd307")]
+transform = Transform3D(0.2905519, 0, -0.9568593, 0, 1, 0, 0.9568593, 0, 0.2905519, 8.277735, 1.9041499, -0.54783237)
+
+[node name="Present Cutout" parent="Map/Animatables" unique_id=798852107 instance=ExtResource("35_orruf")]
+transform = Transform3D(-0.34840852, 0, 0.9373429, 0, 1, 0, -0.9373429, 0, -0.34840852, -5.234595, 1.9051436, 8.472332)
+
+[node name="Purple Snake" parent="Map/Animatables" unique_id=1722533452 instance=ExtResource("36_nll4q")]
+transform = Transform3D(0.85828894, 0, 0.51316684, 0, 1, 0, -0.51316684, 0, 0.85828894, -6.92091, 4.547189, -10.1844635)
+
+[node name="Red Balloon Dog" parent="Map/Animatables" unique_id=1945089146 instance=ExtResource("37_srr3x")]
+transform = Transform3D(-0.89888585, 0, 0.43818283, 0, 1, 0, -0.43818283, 0, -0.89888585, -6.3262715, 2.8988464, 7.612276)
+
+[node name="Shark" parent="Map/Animatables" unique_id=1999952549 instance=ExtResource("38_bjdc4")]
+transform = Transform3D(0.028375238, 0, 0.9995974, 0, 1, 0, -0.9995974, 0, 0.028375238, -9.562484, 3.8267043, -6.553464)
+
+[node name="Snail" parent="Map/Animatables" unique_id=1515491360 instance=ExtResource("39_aier8")]
+transform = Transform3D(0.672496, 0, 0.74010074, 0, 1, 0, -0.74010074, 0, 0.672496, -8.436211, 1.8965251, -8.432391)
+
+[node name="Lasso Pig" parent="Map/Animatables" unique_id=308862614 instance=ExtResource("47_i6pjh")]
+transform = Transform3D(0.8658421, 0, -0.5003174, 0, 1, 0, 0.5003174, 0, 0.8658421, 4.4904537, 1.9083796, -8.7339325)
+
+[node name="Squirrel" parent="Map/Animatables" unique_id=624762389 instance=ExtResource("40_7q6x5")]
+transform = Transform3D(0.8018175, 0, 0.5975692, 0, 1, 0, -0.5975692, 0, 0.8018175, -6.1570373, 7.818859, -10.543493)
+
+[node name="Starfish" parent="Map/Animatables" unique_id=1262723051 instance=ExtResource("41_1a1ku")]
+transform = Transform3D(0.10216753, 0, 0.9947671, 0, 1, 0, -0.9947671, 0, 0.10216753, -9.245145, 3.5993319, -5.9358883)
+
+[node name="Sun Moons" parent="Map/Animatables" unique_id=1713168144 instance=ExtResource("42_6gfa3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.581277, 5.6207037, -10.589486)
+
+[node name="Tragedy" parent="Map/Animatables" unique_id=1672302578 instance=ExtResource("43_wquxw")]
+transform = Transform3D(0.88007987, 0, -0.47482568, 0, 1, 0, 0.47482568, 0, 0.88007987, 4.601021, 9.716163, -9.1053705)
+
+[node name="Turtle" parent="Map/Animatables" unique_id=2130453129 instance=ExtResource("44_xp1mc")]
+transform = Transform3D(0.08552127, 0, 0.9963364, 0, 1, 0, -0.9963364, 0, 0.08552127, -9.774228, 4.3502774, -0.89165264)
+
+[node name="Rocktapus" parent="Map/Animatables" unique_id=486519850 instance=ExtResource("46_u1qki")]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -8.6106205, 1.8965304, -3.2916698)
+
+[node name="Welcome Show Stairs" parent="Map/Animatables" unique_id=1603449091 groups=["SOTM_CUTOUT"] instance=ExtResource("46_k1822")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.47723877, -0.003006637, -8.356054)
+
+[node name="Party Hats" parent="Map/Animatables" unique_id=1978621837 instance=ExtResource("58_jhmpf")]
+transform = Transform3D(-0.8803864, 0, 0.47425726, 0, 1, 0, -0.47425726, 0, -0.8803864, -8.062748, 1.8965077, 5.1610155)
+
+[node name="Party Hats2" parent="Map/Animatables" unique_id=592088048 instance=ExtResource("58_jhmpf")]
+transform = Transform3D(0.8801627, 0, -0.47467187, 0, 1, 0, 0.47467187, 0, 0.8801627, -8.062748, 1.8965077, 5.1610155)
+
+[node name="Boy Frog" parent="Map/Animatables" unique_id=519964351 instance=ExtResource("50_q3irn")]
+transform = Transform3D(-0.91145355, 0, -0.41140306, 0, 1, 0, 0.41140306, 0, -0.91145355, 4.8818827, 1.8777223, 4.518209)
+
+[node name="Swing Bee" parent="Map/Animatables" unique_id=1871752093 instance=ExtResource("48_848g7")]
+transform = Transform3D(0.5194296, 0, 0.8545132, 0, 1, 0, -0.8545132, 0, 0.5194296, -9.72145, 7.6537447, -7.6563325)
+
+[node name="Map Mesh & Collision" type="Node" parent="Map" unique_id=807558692]
+
+[node name="Welcome Show" parent="Map/Map Mesh & Collision" unique_id=572133774 instance=ExtResource("3_k1maa")]
+transform = Transform3D(-6.9938224e-08, 0, -1.6, 0, 1.6, 0, 1.6, 0, -6.9938224e-08, -93.76305, 0.24, -123.42261)
+
+[node name="OmniLight3D" type="SpotLight3D" parent="Map/Map Mesh & Collision" unique_id=1336680671]
+transform = Transform3D(1, 0, 0, 0, -4.371139e-08, 1, 0, -1, -4.371139e-08, -0.54033697, 6.9149017, 5.474177)
+light_color = Color(0.78039217, 0.72156864, 1, 1)
+light_energy = 4.396
+shadow_enabled = true
+spot_range = 8.515
+spot_angle = 31.26
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Map/Map Mesh & Collision" unique_id=749743399]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=873758726]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.687439, 7.3192997, 8.780426)
+shape = SubResource("BoxShape3D_ou855")
+
+[node name="CollisionShape3D2" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1456077808]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.76100826, 15.112684, 1.827867)
+shape = SubResource("BoxShape3D_qdg1u")
+
+[node name="CollisionShape3D3" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1865317562]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.76100826, 15.158712, -7.3030963)
+shape = SubResource("BoxShape3D_1v7pc")
+
+[node name="CollisionShape3D4" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=453943438]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -6.0737267, 15.158712, -2.799508)
+shape = SubResource("BoxShape3D_cjgw4")
+
+[node name="CollisionShape3D5" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=117193002]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.5106354, 15.158712, -2.799508)
+shape = SubResource("BoxShape3D_cjgw4")
+
+[node name="CollisionShape3D6" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=2115691101]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.007132, 15.158712, -5.90944)
+shape = SubResource("BoxShape3D_6f5je")
+
+[node name="CollisionShape3D7" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=440383576]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.007132, 15.158712, 0.42242908)
+shape = SubResource("BoxShape3D_6f5je")
+
+[node name="CollisionShape3D8" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=608710681]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.585502, 15.158712, -5.90944)
+shape = SubResource("BoxShape3D_6f5je")
+
+[node name="CollisionShape3D9" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=664863789]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10.585502, 15.158712, 0.42242908)
+shape = SubResource("BoxShape3D_6f5je")
+
+[node name="CollisionShape3D10" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=510530893]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.74584484, 16.44803, -10.362891)
+shape = SubResource("BoxShape3D_7ks7s")
+
+[node name="CollisionShape3D20" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=307640107]
+transform = Transform3D(0.8898707, -0.4562129, 0, 0.4562129, 0.8898707, 0, 0, 0, 1, -3.757067, 15.757994, -7.240664)
+shape = SubResource("BoxShape3D_h53ma")
+
+[node name="CollisionShape3D21" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1233981632]
+transform = Transform3D(-0.89021283, 0.4555449, -8.742278e-08, 0.4555449, 0.89021283, 0, 7.782488e-08, -3.9825e-08, -1, 2.2515962, 15.772444, -7.240664)
+shape = SubResource("BoxShape3D_h53ma")
+
+[node name="CollisionShape3D11" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=214986149]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.68188477, 1.868866, -11.003052)
+shape = SubResource("BoxShape3D_mvm2o")
+
+[node name="CollisionShape3D12" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=2102212363]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.81108093, 8.062933, 10.804131)
+shape = SubResource("BoxShape3D_0fwej")
+
+[node name="CollisionShape3D13" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=619058579]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.81108093, 13.088933, -13.503236)
+shape = SubResource("BoxShape3D_k3tak")
+
+[node name="CollisionShape3D18" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1778453285]
+transform = Transform3D(1, 0, 0, 0, -0.5, -0.8660253, 0, 0.8660253, -0.5, -0.81108093, 21.002104, 2.5009918)
+shape = SubResource("BoxShape3D_drm30")
+
+[node name="CollisionShape3D19" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=484372700]
+transform = Transform3D(1, 0, 0, 0, -4.3711385e-08, -0.99999994, 0, 0.99999994, -4.3711385e-08, -0.81108093, 25.987549, -9.785591)
+shape = SubResource("BoxShape3D_k8n6e")
+
+[node name="CollisionShape3D14" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=791017476]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, -13.188238, 13.088933, 1.2928133)
+shape = SubResource("BoxShape3D_rbfby")
+
+[node name="CollisionShape3D15" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=214571738]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 11.528564, 13.088933, 1.2928133)
+shape = SubResource("BoxShape3D_bckie")
+
+[node name="CollisionShape3D16" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=483844862]
+transform = Transform3D(0.7660444, 0, 0.6427875, 0, 1, 0, -0.6427875, 0, 0.7660444, -12.542145, 13.088933, -8.44029)
+shape = SubResource("BoxShape3D_cb76s")
+
+[node name="CollisionShape3D17" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1808201260]
+transform = Transform3D(0.7660443, 0, -0.6427875, 0, 1, 0, 0.6427875, 0, 0.7660443, 10.257038, 13.088933, -8.44029)
+shape = SubResource("BoxShape3D_gt5wa")
+
+[node name="CollisionShape3D22" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1472453136]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, 9.082245, 4.6825314, -1.1559606)
+shape = SubResource("BoxShape3D_xp1mc")
+
+[node name="CollisionShape3D23" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=225739685]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, 2.9362857, 1.4262824, 9.108091)
+shape = SubResource("BoxShape3D_k1822")
+
+[node name="CollisionShape3D24" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1585224806]
+transform = Transform3D(-4.2904787e-08, 0.87482274, 0.48444313, 8.358488e-09, 0.48444322, -0.8748226, -0.9999999, -3.3484866e-08, -2.8097137e-08, 4.704262, 0.6764353, 9.076597)
+shape = SubResource("BoxShape3D_i6pjh")
+
+[node name="CollisionShape3D25" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=2097786945]
+transform = Transform3D(-4.2904787e-08, 0.87482274, 0.48444313, 8.358488e-09, 0.48444322, -0.8748226, -0.9999999, -3.3484866e-08, -2.8097137e-08, -9.80073, 0.65545374, 1.4896023)
+shape = SubResource("BoxShape3D_u1qki")
+
+[node name="CollisionShape3D26" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=806416819]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, 10.117143, 2.4475994, -0.9405999)
+shape = SubResource("BoxShape3D_848g7")
+
+[node name="CollisionShape3D29" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1683028443]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, 1.537161, 8.226444, 7.505007)
+shape = SubResource("BoxShape3D_g4dm4")
+
+[node name="CollisionShape3D32" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1104593682]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, -0.20606971, 8.209367, 7.4747567)
+shape = SubResource("BoxShape3D_xvjyp")
+
+[node name="CollisionShape3D33" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=95098254]
+transform = Transform3D(-4.371138e-08, 0, 0.9999998, 0, 1, 0, -0.9999998, 0, -4.371138e-08, -0.60037154, 8.209367, 7.0158887)
+shape = SubResource("BoxShape3D_6gudw")
+
+[node name="CollisionShape3D30" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=580419676]
+transform = Transform3D(-4.371138e-08, -0.30901697, 0.9510563, 0, 0.9510565, 0.30901694, -0.9999998, 1.3507561e-08, -4.157199e-08, -10.427902, 7.4079003, 7.505007)
+shape = SubResource("BoxShape3D_poq8k")
+
+[node name="CollisionShape3D31" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=780178651]
+transform = Transform3D(-4.3707278e-08, -0.32200128, 0.94673896, -5.9809985e-10, 0.94673914, 0.32200125, -0.99999976, 1.350756e-08, -4.1571987e-08, -10.5666485, 6.492459, 8.894866)
+shape = SubResource("BoxShape3D_kt7g2")
+
+[node name="CollisionShape3D27" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=634069745]
+transform = Transform3D(-4.3711374e-08, -1.4727012e-15, 0.99999976, -0.43188107, 0.9019306, -1.8878119e-08, -0.90193033, -0.4318811, -3.942462e-08, 10.117143, 1.8074778, -4.136677)
+shape = SubResource("BoxShape3D_q3irn")
+
+[node name="CollisionShape3D28" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1328915812]
+transform = Transform3D(-3.9420346e-08, -1.8887068e-08, -0.99999976, -0.43208566, 0.9018325, 0, 0.90183234, 0.43208575, -4.3711378e-08, 10.117143, 1.8074778, 2.2868593)
+shape = SubResource("BoxShape3D_q3irn")
+
+[node name="CollisionShape3D34" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1263267860]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -1.363445, 14.705091, -0.5061285)
+shape = SubResource("BoxShape3D_8n47d")
+
+[node name="CollisionShape3D35" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1830296314]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -1.363445, 14.705091, -8.060999)
+shape = SubResource("BoxShape3D_8n47d")
+
+[node name="CollisionShape3D36" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=828441328]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -1.363445, 14.705091, -7.2627335)
+shape = SubResource("BoxShape3D_8n47d")
+
+[node name="CollisionShape3D37" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1786802897]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -1.363445, 14.705091, 5.5198364)
+shape = SubResource("BoxShape3D_8n47d")
+
+[node name="CollisionShape3D38" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=989789909]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -1.363445, 14.705091, 6.315687)
+shape = SubResource("BoxShape3D_8n47d")
+
+[node name="CollisionShape3D39" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1437691719]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -11.782769, 14.705091, -0.8487733)
+shape = SubResource("BoxShape3D_24o3w")
+
+[node name="CollisionShape3D40" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=335808075]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -10.975978, 14.705091, -0.8487733)
+shape = SubResource("BoxShape3D_24o3w")
+
+[node name="CollisionShape3D41" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1077547529]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 8.368399, 14.705091, -0.8487733)
+shape = SubResource("BoxShape3D_24o3w")
+
+[node name="CollisionShape3D42" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1799809660]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 9.153178, 14.705091, -0.8487733)
+shape = SubResource("BoxShape3D_24o3w")
+
+[node name="CollisionShape3D43" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1016593110]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 3.6358743, 16.032179, -2.727455)
+shape = SubResource("BoxShape3D_jhmpf")
+
+[node name="CollisionShape3D44" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=188380083]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 5.3500094, 16.032179, -2.727455)
+shape = SubResource("BoxShape3D_jhmpf")
+
+[node name="CollisionShape3D45" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1850642259]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -5.194747, 16.032179, -2.727455)
+shape = SubResource("BoxShape3D_jhmpf")
+
+[node name="CollisionShape3D46" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=13290525]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -6.970195, 16.032179, -2.727455)
+shape = SubResource("BoxShape3D_jhmpf")
+
+[node name="CollisionShape3D47" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=679918486]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -11.432582, 16.032179, 1.1975268)
+shape = SubResource("BoxShape3D_e18ba")
+
+[node name="CollisionShape3D48" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=72335842]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -11.432582, 16.032179, -6.619593)
+shape = SubResource("BoxShape3D_e18ba")
+
+[node name="CollisionShape3D49" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=751900874]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 9.860409, 16.032179, 1.1975268)
+shape = SubResource("BoxShape3D_e18ba")
+
+[node name="CollisionShape3D55" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1779744885]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 0.873831, 17.41048, -10.792413)
+shape = SubResource("BoxShape3D_x374d")
+
+[node name="CollisionShape3D56" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1610859862]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -2.4105484, 17.41048, -10.792413)
+shape = SubResource("BoxShape3D_x374d")
+
+[node name="CollisionShape3D57" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1972505625]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -0.7483977, 17.41048, -6.4168653)
+shape = SubResource("BoxShape3D_hlfwi")
+
+[node name="CollisionShape3D58" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=769324879]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -0.7638893, 16.032206, 2.67136)
+shape = SubResource("BoxShape3D_mqf0c")
+
+[node name="CollisionShape3D50" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1855918095]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 9.860409, 16.032179, -6.619593)
+shape = SubResource("BoxShape3D_e18ba")
+
+[node name="CollisionShape3D51" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1497536639]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 8.157439, 16.032179, -5.7888107)
+shape = SubResource("BoxShape3D_s8leu")
+
+[node name="CollisionShape3D52" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=155706700]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, 8.157439, 16.032179, 0.32618904)
+shape = SubResource("BoxShape3D_s8leu")
+
+[node name="CollisionShape3D53" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=654025782]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -9.714455, 16.032179, -5.7888107)
+shape = SubResource("BoxShape3D_s8leu")
+
+[node name="CollisionShape3D54" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1254104613]
+transform = Transform3D(-4.3711378e-08, 0, 0.99999976, 0, 1, 0, -0.99999976, 0, -4.3711378e-08, -9.714455, 16.032179, 0.32618904)
+shape = SubResource("BoxShape3D_s8leu")
+
+[node name="CollisionShape3D59" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1452351960]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -0.7452011, 16.032206, 0.9284408)
+shape = SubResource("BoxShape3D_8lh6t")
+
+[node name="CollisionShape3D60" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=220832806]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -8.307581, 16.032206, 0.9284408)
+shape = SubResource("BoxShape3D_gb242")
+
+[node name="CollisionShape3D61" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1484734718]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, 6.7448063, 16.032206, 0.9284408)
+shape = SubResource("BoxShape3D_gb242")
+
+[node name="CollisionShape3D68" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1606790327]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, 6.7448063, 16.032206, -6.480069)
+shape = SubResource("BoxShape3D_gb242")
+
+[node name="CollisionShape3D69" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1379247142]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -8.327688, 16.032206, -6.480069)
+shape = SubResource("BoxShape3D_gb242")
+
+[node name="CollisionShape3D70" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=396468243]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -10.877828, 15.639421, 2.0839646)
+shape = SubResource("BoxShape3D_k22hl")
+
+[node name="CollisionShape3D71" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1673979199]
+transform = Transform3D(0.64944786, 0, 0.7604058, 0, 1, 0, -0.7604058, 0, 0.64944786, -9.2258, 15.649572, -7.3993177)
+shape = SubResource("BoxShape3D_7jwkd")
+
+[node name="CollisionShape3D72" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=777977699]
+transform = Transform3D(0.44619766, 0, 0.8949341, 0, 1, 0, -0.8949341, 0, 0.44619766, -9.151869, 16.381678, -7.3906946)
+shape = SubResource("BoxShape3D_wn45s")
+
+[node name="CollisionShape3D62" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=274992631]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, 8.99088, 16.032206, -0.32722974)
+shape = SubResource("BoxShape3D_2jrim")
+
+[node name="CollisionShape3D63" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=719263654]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -10.553991, 16.032206, -0.32722974)
+shape = SubResource("BoxShape3D_2jrim")
+
+[node name="CollisionShape3D64" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=439582198]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -10.553991, 16.032206, -5.1354322)
+shape = SubResource("BoxShape3D_2jrim")
+
+[node name="CollisionShape3D65" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=1590872966]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, 8.998331, 16.032206, -5.1354322)
+shape = SubResource("BoxShape3D_2jrim")
+
+[node name="CollisionShape3D66" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=257930981]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, 6.7250752, 16.032206, -8.1858635)
+shape = SubResource("BoxShape3D_jcnbp")
+
+[node name="CollisionShape3D67" type="CollisionShape3D" parent="Map/Map Mesh & Collision/StaticBody3D" unique_id=620291177]
+transform = Transform3D(0.99999976, 0, 0, 0, 1, 0, 0, 0, 0.99999976, -8.326536, 16.032206, -8.1858635)
+shape = SubResource("BoxShape3D_jcnbp")
+
+[node name="Girl Frog" parent="." unique_id=820039860 instance=ExtResource("51_g4dm4")]
+transform = Transform3D(-0.010175096, 0, -0.9999482, 0, 1, 0, 0.9999482, 0, -0.010175096, 6.576925, 2.5350242, 3.971581)

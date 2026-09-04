@@ -1,0 +1,8 @@
+{
+  "King Frog": {
+	"animation": "King Frog",
+	"in_speed": 0.4,
+	"out_speed": 0.4,
+	"type": "loop"
+  }
+}

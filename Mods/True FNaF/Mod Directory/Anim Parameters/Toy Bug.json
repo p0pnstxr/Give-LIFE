@@ -1,0 +1,32 @@
+{
+  "Tail": {
+	"animation": "Bug Tail",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Body": {
+	"animation": "Bug Body",
+	"in_speed": 1.9,
+	"out_speed": 2.25,
+	"type": "standard"
+  },
+"Head": {
+	"animation": "Bug Head",
+	"in_speed": 1.9,
+	"out_speed": 2.25,
+	"type": "standard"
+  },
+"Eyes L": {
+	"animation": "Bug Eyes L",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Eyes R": {
+	"animation": "Bug Eyes R",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+}

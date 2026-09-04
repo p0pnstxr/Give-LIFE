@@ -1,0 +1,8 @@
+{
+  "Comedy": {
+	"animation": "Comedy",
+	"in_speed": 1,
+	"out_speed": 1,
+	"type": "standard"
+  }
+}

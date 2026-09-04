@@ -1,0 +1,50 @@
+{
+"Jaw": {
+	"animation": "Jaw",
+	"in_speed": 3,
+	"out_speed": 5,
+	"type": "standard"
+  },
+"Arm R": {
+	"animation": "Arm R",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Body L": {
+	"animation": "Body L",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Body R": {
+	"animation": "Body R",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Head R": {
+	"animation": "Head R",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Head Tilt R": {
+	"animation": "Head Tilt R",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Head Tilt L": {
+	"animation": "Head Tilt L",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Tail": {
+	"animation": "Tail",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+}

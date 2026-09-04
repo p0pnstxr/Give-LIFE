@@ -1,0 +1,44 @@
+{
+"Jaw": {
+	"animation": "Jaw",
+	"in_speed": 3,
+	"out_speed": 5,
+	"type": "standard"
+  },
+"Arm L": {
+	"animation": "Arm L",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Body L": {
+	"animation": "Body L",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Body R": {
+	"animation": "Body R",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Head R": {
+	"animation": "Head R",
+	"in_speed": 2,
+	"out_speed": 2,
+	"type": "standard"
+  },
+"Banjo Strum": {
+	"animation": "Banjo Strum",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+"Tail": {
+	"animation": "Tail",
+	"in_speed": 3,
+	"out_speed": 3,
+	"type": "standard"
+  },
+}
