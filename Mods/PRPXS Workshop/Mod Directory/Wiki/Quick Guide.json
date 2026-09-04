@@ -1,7 +1,7 @@
 {
 		"Controls": "[font_size=26]In-Game[/font_size]
 ESC ({Start}) = Pause
-Tab ({Select}) = Toggle Editor
+Tab ({Back}) = Toggle Editor
 WASD ({Joystick Left}) = Move
 Space ({A}) = Jump
 Q ({Right Stick Click}) = Crouch
