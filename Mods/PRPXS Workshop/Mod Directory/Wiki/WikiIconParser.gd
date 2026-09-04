@@ -92,7 +92,8 @@ func _parse_controller_icons(raw_text: String) -> String:
 		"Left Stick Click": "L3",
 		"Right Shoulder Button": "RB",
 		"Left Shoulder Button": "LB",
-		"Joystick Left": "LstickL"
+		"Joystick Left": "LstickL",
+		"Select": "Back"
 	}
 
 	var parsed = raw_text
