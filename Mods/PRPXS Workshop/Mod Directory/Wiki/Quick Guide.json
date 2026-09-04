@@ -1,9 +1,9 @@
 {
 		"Controls": "[font_size=26]In-Game[/font_size]
-ESC ({Start}) {Start} = Pause
-Tab = Toggle Editor
+ESC ({Start}) = Pause
+Tab ({Select}) = Toggle Editor
 WASD ({Joystick Left}) = Move
-Space ({A}) {A} = Jump
+Space ({A}) = Jump
 Q ({Right Stick Click}) = Crouch
 Shift = Sprint Speed
 E ({Right Shoulder Button}) = Toggle Flashlight

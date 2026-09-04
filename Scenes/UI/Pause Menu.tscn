@@ -34,11 +34,13 @@
 [ext_resource type="StyleBox" uid="uid://crsm0yvhb6rv1" path="res://UI/Themes/Main.tres" id="15_o2xf1"]
 [ext_resource type="StyleBox" uid="uid://8vn4doi14jgv" path="res://UI/Themes/Button.tres" id="16_xrto2"]
 [ext_resource type="FontFile" uid="uid://5wbjikluy4eo" path="res://UI/Fonts/3270-Regular.otf" id="17_l5do0"]
-[ext_resource type="Texture2D" uid="uid://deb4ph8rdatva" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/System/XBOX_System.png" id="25_71dls"]
-[ext_resource type="Texture2D" uid="uid://47h83k4t62rb" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/System/PS_System.png" id="26_w40ph"]
-[ext_resource type="Texture2D" uid="uid://cwo0r8aukdgl" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/System/Switch_System.png" id="27_71dls"]
+[ext_resource type="Texture2D" uid="uid://bnie4ltau04j1" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/Xbox 360/360_A.png" id="25_w40ph"]
+[ext_resource type="Texture2D" uid="uid://bikqs50priinb" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/PS4/PS4_Triangle.png" id="26_1pghq"]
+[ext_resource type="Texture2D" uid="uid://be4166m0efhuf" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Switch/Switch_Home.png" id="27_8d58p"]
+[ext_resource type="Texture2D" uid="uid://bil0j1h60p0ul" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Steam Deck/SteamDeck_A.png" id="28_1pghq"]
 [ext_resource type="StyleBox" uid="uid://dc8kkag77ptu2" path="res://UI/Themes/Sub.tres" id="28_lijsr"]
-[ext_resource type="Texture2D" uid="uid://oki46usb6lll" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/System/Steam_System.png" id="28_w40ph"]
+[ext_resource type="Texture2D" uid="uid://cnsoyy1hxuslc" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/Xbox One/XboxOne_A.png" id="29_8d58p"]
+[ext_resource type="Texture2D" uid="uid://cn8rxuixskqn6" path="res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/Others/System/Universal_System.png" id="29_w40ph"]
 [ext_resource type="AudioStream" uid="uid://d32r2h55ktsse" path="res://Mods/Faz Anim 2/Custom Assets/Sounds/Trashed.wav" id="32_2uws7"]
 [ext_resource type="Script" uid="uid://t56kwrd7w4b7" path="res://Scripts/Editor/GL_Wiki.gd" id="32_8dgrc"]
 [ext_resource type="FontFile" uid="uid://k0v7y7qxnu2g" path="res://UI/Fonts/Amarna-Medium.ttf" id="33_lrdyb"]
@@ -323,25 +325,28 @@ text = "Controller Icons"
 layout_mode = 2
 action_mode = 1
 selected = 0
-item_count = 6
+item_count = 7
 popup/item_0/text = "XBOX"
-popup/item_0/icon = ExtResource("25_71dls")
+popup/item_0/icon = ExtResource("25_w40ph")
 popup/item_0/id = 0
 popup/item_1/text = "PlayStation"
-popup/item_1/icon = ExtResource("26_w40ph")
+popup/item_1/icon = ExtResource("26_1pghq")
 popup/item_1/id = 1
 popup/item_2/text = "Switch"
-popup/item_2/icon = ExtResource("27_71dls")
+popup/item_2/icon = ExtResource("27_8d58p")
 popup/item_2/id = 2
 popup/item_3/text = "Steam Deck"
-popup/item_3/icon = ExtResource("28_w40ph")
+popup/item_3/icon = ExtResource("28_1pghq")
 popup/item_3/id = 3
 popup/item_4/text = "XBOX (Dark)"
-popup/item_4/icon = ExtResource("25_71dls")
+popup/item_4/icon = ExtResource("29_8d58p")
 popup/item_4/id = 4
-popup/item_5/text = "Universal"
-popup/item_5/icon = ExtResource("28_w40ph")
+popup/item_5/text = "Playstation (Dark)"
+popup/item_5/icon = ExtResource("26_1pghq")
 popup/item_5/id = 5
+popup/item_6/text = "Universal"
+popup/item_6/icon = ExtResource("29_w40ph")
+popup/item_6/id = 6
 script = ExtResource("5_8r7np")
 hover_sound = ExtResource("8_lcruc")
 press_sound = ExtResource("8_mu3iq")
