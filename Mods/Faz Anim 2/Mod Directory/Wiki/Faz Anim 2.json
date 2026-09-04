@@ -7,13 +7,13 @@
 	
 	The game also features robust and easy modding support, with it only taking a few minutes to drop in a character and have it become a working animatable bot.",
 		"Controls": "[font_size=26]In-Game[/font_size]
-ESC = Pause
+ESC (Start) = Pause
 Tab = Toggle Editor
-WASD = Move
-Space = Jump
-Q = Crouch
+WASD (Joystick Left) = Move
+Space (A) = Jump
+Q (Right Stick Click(?)) = Crouch
 Shift = Sprint Speed
-E = Toggle Flashlight
+E (Right Button) = Toggle Flashlight
 E (Hold) + Scroll = Change Flashlight Size
 
 Ctrl (Hold) + Scroll = Change Camera Zoom
@@ -25,7 +25,7 @@ R = Smooth Out Movement Toggle
 F = Smooth Out Camera Toggle
 	F (Hold) + Scroll = Change Smooth Amount
 
-C = Construction Mode
+C (???) = Construction Mode
 	Clicking on Construction Mode Items = Open Options
 	Selection + Scroll = Change Option
 	Option Selected + Scroll = Rotate/Scale

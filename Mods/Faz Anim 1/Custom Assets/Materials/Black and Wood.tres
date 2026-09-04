@@ -1,6 +1,6 @@
 [gd_resource type="StandardMaterial3D" format=3 uid="uid://b5lii7slbqa1f"]
 
-[ext_resource type="Texture2D" path="res://Mods/Faz Anim 1/Custom Assets/Textures/BlackWood.webp" id="1_s8og6"]
+[ext_resource type="Texture2D" uid="uid://co3skdimhfrqm" path="res://Mods/Faz Anim 1/Custom Assets/Textures/BlackWood.webp" id="1_s8og6"]
 
 [resource]
 albedo_texture = ExtResource("1_s8og6")
