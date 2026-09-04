@@ -9,10 +9,10 @@ var _icon_set: int = 0
 const BASE = "res://UI/Buttons/Xelu_Free_Controller&Key_Prompts/"
 
 const ICON_MAP = {
-	"A":               ["Others/Xbox 360/360_A.png",              "Others/PS3/PS3_Cross.png",     "Switch/Switch_A.png",              "Steam Deck/SteamDeck_A.png"],
-	"B":               ["Others/Xbox 360/360_B.png",              "Others/PS3/PS3_Circle.png",    "Switch/Switch_B.png",              "Steam Deck/SteamDeck_B.png"],
-	"X":               ["Others/Xbox 360/360_X.png",              "Others/PS3/PS3_Square.png",    "Switch/Switch_X.png",              "Steam Deck/SteamDeck_X.png"],
-	"Y":               ["Others/Xbox 360/360_Y.png",              "Others/PS3/PS3_Triangle.png",  "Switch/Switch_Y.png",              "Steam Deck/SteamDeck_Y.png"],
+	"A":               ["Others/Xbox 360/360_A.png",              "Others/PS3/PS3_Cross.png",     "Switch/Switch_A.png",              "Steam Deck/SteamDeck_A.png",              "XBOX Series/XBOXSeriesX_A.png",              "Positional Prompts/PositionalPrompts_Down.png"],
+	"B":               ["Others/Xbox 360/360_B.png",              "Others/PS3/PS3_Circle.png",    "Switch/Switch_B.png",              "Steam Deck/SteamDeck_B.png",              "XBOX Series/XBOXSeriesX_B.png",              "Positional Prompts/PositionalPrompts_Right.png"],
+	"X":               ["Others/Xbox 360/360_X.png",              "Others/PS3/PS3_Square.png",    "Switch/Switch_X.png",              "Steam Deck/SteamDeck_X.png",              "XBOX Series/XBOXSeriesX_X.png",              "Positional Prompts/PositionalPrompts_Left.png"],
+	"Y":               ["Others/Xbox 360/360_Y.png",              "Others/PS3/PS3_Triangle.png",  "Switch/Switch_Y.png",              "Steam Deck/SteamDeck_Y.png",              "XBOX Series/XBOXSeriesX_Y.png",              "Positional Prompts/PositionalPrompts_Up.png"],
 	"LB":              ["Others/Xbox 360/360_LB.png",             "Others/PS3/PS3_L1.png",        "Switch/Switch_LB.png",             "Steam Deck/SteamDeck_L1.png"],
 	"RB":              ["Others/Xbox 360/360_RB.png",             "Others/PS3/PS3_R1.png",        "Switch/Switch_RB.png",             "Steam Deck/SteamDeck_R1.png"],
 	"LT":              ["Others/Xbox 360/360_LT.png",             "Others/PS3/PS3_L2.png",        "Switch/Switch_LT.png",             "Steam Deck/SteamDeck_L2.png"],
