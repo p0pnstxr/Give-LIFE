@@ -75,4 +75,39 @@ func _build_category_ui(category: String, pages: Dictionary) -> void:
 	category_list.add_child(spacer)
 
 func _show_page(content: String) -> void:
-	content_display.text = content
+	content_display.text = _parse_controller_icons(content)
+
+func _parse_controller_icons(raw_text: String) -> String:
+	var icon_set: int = 0
+	var pause_menu = get_tree().get_first_node_in_group("Pause Menu")
+	if pause_menu and pause_menu.currentSettings.has("controller_icons"):
+		icon_set = pause_menu.currentSettings.get("controller_icons", 0)
+
+	# translate descriptive json names to ControllerIcon keys
+	var aliases = {
+		"Right Stick Click": "R3",
+		"Left Stick Click": "L3",
+		"Right Shoulder Button": "RB",
+		"Left Shoulder Button": "LB",
+		"Joystick Left": "LstickL"
+	}
+
+	var parsed = raw_text
+
+	# replace exact ICON_MAP keys e.g. {Start}, {A}, {RB}
+	for key in ControllerIcon.ICON_MAP.keys():
+		var paths: Array = ControllerIcon.ICON_MAP[key]
+		var idx = clamp(icon_set, 0, paths.size() - 1)
+		var img_tag = "[img=22]" + ControllerIcon.BASE + paths[idx] + "[/img]"
+		parsed = parsed.replace("{" + key + "}", img_tag)
+
+	# replace alias tags e.g. {Right Stick Click}
+	for alias in aliases.keys():
+		var target_key = aliases[alias]
+		if ControllerIcon.ICON_MAP.has(target_key):
+			var paths: Array = ControllerIcon.ICON_MAP[target_key]
+			var idx = clamp(icon_set, 0, paths.size() - 1)
+			var img_tag = "[img=22]" + ControllerIcon.BASE + paths[idx] + "[/img]"
+			parsed = parsed.replace("{" + alias + "}", img_tag)
+
+	return parsed

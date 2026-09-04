@@ -1,0 +1,53 @@
+{
+		"Controls": "[font_size=26]In-Game[/font_size]
+ESC ({Start}) {Start} = Pause
+Tab = Toggle Editor
+WASD ({Joystick Left}) = Move
+Space ({A}) {A} = Jump
+Q ({Right Stick Click}) = Crouch
+Shift = Sprint Speed
+E ({Right Shoulder Button}) = Toggle Flashlight
+E (Hold) + Scroll = Change Flashlight Size
+
+Ctrl (Hold) + Scroll = Change Camera Zoom
+Alt (Hold) + Scroll = Change Camera Tilt
+
+R = Smooth Out Movement Toggle
+	R (Hold) + Scroll = Change Smooth Amount
+
+F = Smooth Out Camera Toggle
+	F (Hold) + Scroll = Change Smooth Amount
+
+C (???) = Construction Mode
+	Clicking on Construction Mode Items = Open Options
+	Selection + Scroll = Change Option
+	Option Selected + Scroll = Rotate/Scale
+ 
+
+V = Fly
+	Flying + Q = Descend
+	Flying + Space = Ascend
+
+[font_size=26]In-Editor[/font_size]
+P = Play/Pause Show (Works In-Game Too)
+Shift + Scroll = Pan the Timeline
+Ctrl + Scroll = Zoom the Timeline
+Scroll = Scroll the Channel List
+
+For each channel, the '[ ]' box on the left can be hovered and a number key (0-9) pressed to assign that key to the channel. Pressing BackSpace deletes that assignment.
+
+When hovering a channel with an assigned key, holding that key and moving the mouse plots out a signal for that channel. You can also hit the play button and press those keys to have them plotted down along with the audio.
+
+Right clicking any plotted signal deletes it. Left click dragging can move the signal. Left lcick dragging the edge of a signal can lengthen/shorten it.",
+	"Adding Showtape Media": "When creating a new showtape, go to the 'Media' tab on the top left and click the 'Add Media' button. You can import images, video, and audio. The engine will default to the first video/audio it finds in the list as the one that plays. If the imported audio contains an album cover, it will extract that and add it as 'cover.png' which will become the showtape cover. If you want to add your own cover, just rename an image to 'cover.png' or 'cover.jpg' and add it.",
+	
+	"Credits": "Made by sudo trans --pony
+Showtape format documentation - Palazzol
+Welcome Show asset extraction - fredmilk
+Secret of the Mimic, Help Wanted 1+2, Security Breach assets - Steel Wool
+Source Archival animatronics - I6NIS + Splinks
+Source Archival map - Keithy
+
+Iterated from the DEAD-Engine and RR-Engine
+Fully Open Source, GNU General Public License v3.0"
+}

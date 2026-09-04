@@ -4,7 +4,7 @@
 [ext_resource type="StyleBox" uid="uid://hv77ga8j47gk" path="res://UI/Themes/MapMod.tres" id="2_eqh7j"]
 [ext_resource type="Texture2D" uid="uid://bumrryxwwf62o" path="res://UI/IconGreen.png" id="3_aiaj2"]
 [ext_resource type="Shader" uid="uid://dbvxilfu1o8jv" path="res://Scenes/UI/Blur.gdshader" id="3_e6w2d"]
-[ext_resource type="Texture2D" uid="uid://2gf53ot26fag" path="res://Mods/True FNaF/Mod Icon.png" id="3_hcf2h"]
+[ext_resource type="Texture2D" uid="uid://2gf53ot26fag" path="res://Mods/Real FNaF/Mod Icon.png" id="3_hcf2h"]
 [ext_resource type="Script" uid="uid://b4aa4vacbh1ln" path="res://Scripts/Sound UI/SoundUI.gd" id="4_eqh7j"]
 [ext_resource type="AudioStream" uid="uid://bevbh0ckbw0o4" path="res://Sounds/Tick.wav" id="5_hcf2h"]
 [ext_resource type="AudioStream" uid="uid://dajwfjwf772x" path="res://Sounds/Donk.wav" id="6_e6w2d"]
