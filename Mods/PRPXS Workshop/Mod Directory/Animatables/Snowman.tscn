@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://b50mdnd88w2wt"]
+
+[ext_resource type="Script" uid="uid://iqrmm33dxvui" path="res://Scripts/Animatables/GL_Animatronic.gd" id="1_6wngb"]
+[ext_resource type="Texture2D" uid="uid://mikgrvtytpiy" path="res://UI/Question.png" id="2_bgnoh"]
+[ext_resource type="PackedScene" uid="uid://drvoa1knp3p81" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/snowman.glb" id="3_g53wt"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_gxm2r"]
+radius = 1.2734375
+height = 4.2218604
+
+[node name="Snowman" type="Node3D" unique_id=1657990153 groups=["PRPX_SMW"]]
+script = ExtResource("1_6wngb")
+animParametersFileName = "Snowman"
+animatableIcon = ExtResource("2_bgnoh")
+animatableName = "Snowman"
+animatableAuthors = "prpx"
+animatableColor = Color(0.23128158, 0.4476496, 0.61388564, 1)
+
+[node name="snowman" parent="." unique_id=1081122123 instance=ExtResource("3_g53wt")]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=1122726225]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=556650503]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.83957267, 0)
+shape = SubResource("CapsuleShape3D_gxm2r")

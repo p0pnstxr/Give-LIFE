@@ -5,8 +5,9 @@
 [ext_resource type="PackedScene" uid="uid://e7fchal1xfda" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Animatronics/cookietronic_NEWBEST.glb" id="3_qt181"]
 [ext_resource type="Script" uid="uid://60lyan8oproc" path="res://Scripts/Animatables/Physics_Bones.gd" id="4_qt181"]
 
-[sub_resource type="SphereShape3D" id="SphereShape3D_qt181"]
-radius = 1.0
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_ydimm"]
+radius = 1.50354
+height = 3.0133057
 
 [node name="Cookietronic" type="Node3D" unique_id=1560122702 groups=["PRPX_CCK"]]
 script = ExtResource("1_tjumi")
@@ -17,12 +18,12 @@ animatableAuthors = "prpx"
 animatableColor = Color(0.42717046, 0.18645781, 0.0635469, 1)
 
 [node name="cookietronic_NEWBEST" parent="." unique_id=1397822045 instance=ExtResource("3_qt181")]
-transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0.097)
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
 script = ExtResource("4_qt181")
 boneConfigFileName = "Cookietronic"
 
 [node name="StaticBody3D" type="StaticBody3D" parent="." unique_id=146631577]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" unique_id=333902599]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.00025510788, 1.2835388, 0.0007019043)
-shape = SubResource("SphereShape3D_qt181")
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.2667847, 0)
+shape = SubResource("CapsuleShape3D_ydimm")

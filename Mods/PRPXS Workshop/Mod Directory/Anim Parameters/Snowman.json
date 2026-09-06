@@ -1,0 +1,54 @@
+{
+"1: stand": {
+	"animation": "stand",
+	"in_speed": 3,
+	"out_speed": 4,
+	"type": "move_to"
+  },
+"2: rotate whole L": {
+	"_comment": "#rotate",
+	"animation": "rotatewhole_L",
+	"in_speed": 7,
+	"out_speed": 8,
+	"type": "standard"
+  },
+"2-1: rotate whole R": {
+	"animation": "rotatewhole_R",
+	"in_speed": 3.0,
+	"out_speed": 4.0,
+	"type": "standard"
+  },
+"3: rotate body L": {
+	"_comment": "#rotate-body",
+	"animation": "rotatebody_L",
+	"in_speed": 5,
+	"out_speed": 6,
+	"type": "standard"
+  },
+"3-1: rotate body R": {
+	"animation": "rotatebody_R",
+	"in_speed": 5,
+	"out_speed": 6,
+	"type": "standard"
+  },
+"4: rotate head L": {
+	"_comment": "#rotate-head",
+	"animation": "rotatehead_L",
+	"in_speed": 5.5,
+	"out_speed": 6.0,
+	"type": "standard"
+  },
+"4-1: rotate head R": {
+	"animation": "rotatehead_R",
+	"in_speed": 5.5,
+	"out_speed": 6.0,
+	"type": "standard"
+  },
+"5: head lift": {
+	"_comment": "#when their in the ground and peak like munch jr",
+	"animation": "headlift",
+	"in_speed": 3.5,
+	"out_speed": 4.0,
+	"type": "standard"
+  }
+}

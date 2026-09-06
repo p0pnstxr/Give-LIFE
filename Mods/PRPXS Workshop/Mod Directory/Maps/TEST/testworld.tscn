@@ -4,6 +4,7 @@
 [ext_resource type="ArrayOccluder3D" uid="uid://b5apq7a6beypk" path="res://Mods/PRPXS Workshop/Mod Directory/Maps/TEST/testworld.occ" id="2_itpav"]
 [ext_resource type="PackedScene" uid="uid://exjhq2go0147" path="res://Mods/PropFNAF/Custom Assets/Models/basicasstestscene.glb" id="2_suu3c"]
 [ext_resource type="PackedScene" uid="uid://c1ursmuwehccf" path="res://Mods/PRPXS Workshop/Mod Directory/Animatables/Cookietronic.tscn" id="3_itpav"]
+[ext_resource type="PackedScene" uid="uid://b50mdnd88w2wt" path="res://Mods/PRPXS Workshop/Mod Directory/Animatables/Snowman.tscn" id="4_vd031"]
 [ext_resource type="PackedScene" uid="uid://c2ir1x7cpdyxy" path="res://Mods/PRPXS Workshop/Custom Assets/Models/Maps/otherflatcube.tscn" id="5_8tbuu"]
 
 [sub_resource type="Environment" id="Environment_itpav"]
@@ -36,6 +37,9 @@ shape = SubResource("WorldBoundaryShape3D_vd031")
 
 [node name="Cookietronic" parent="Animatables" unique_id=1560122702 instance=ExtResource("3_itpav")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.8055071, 0)
+
+[node name="Snowman" parent="Animatables" unique_id=1657990153 instance=ExtResource("4_vd031")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.5790243, -2.2712755, 0)
 
 [node name="Map Lights" type="Node" parent="." unique_id=857015380]
 
