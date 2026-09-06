@@ -4,6 +4,7 @@ export.cfg
 export_presets.cfg
 *.png.import
 *.webp.import
+.webp.import
 *.glb.import
 *.fbx.import
 
@@ -62,3 +63,4 @@ Mods/.DS_Store
 Mods/PRPXS Workshop/Custom Assets/Models/.DS_Store
 Mods/PRPXS Workshop/Custom Assets/.DS_Store
 Mods/PRPXS Workshop/.DS_Store
+*.import
