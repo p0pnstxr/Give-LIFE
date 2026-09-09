@@ -5,18 +5,18 @@ Tab ({Back}) = Toggle Editor
 WASD ({Joystick Left}) = Move
 Space ({A}) = Jump
 Q ({Right Stick Click}) = Crouch
-Shift = Sprint Speed
+Shift ({Left Stick Click}) = Sprint Speed
 E ({Right Shoulder Button}) = Toggle Flashlight
-E (Hold) + Scroll = Change Flashlight Size
+	- (Hold) + Scroll ({DPad Up} + {DPad Down}) = Change Flashlight Size
 
-Ctrl (Hold) + Scroll = Change Camera Zoom
-Alt (Hold) + Scroll = Change Camera Tilt
+Ctrl/{X} (Hold) + Scroll ({DPad Up} + {DPad Down}) = Change Camera Zoom
+Alt/{Y} (Hold) + Scroll ({DPad Up} + {DPad Down}) = Change Camera Tilt
 
-R = Smooth Out Movement Toggle
-	R (Hold) + Scroll = Change Smooth Amount
+R (?) = Smooth Out Movement Toggle
+	- (Hold) + Scroll = Change Smooth Amount
 
-F = Smooth Out Camera Toggle
-	F (Hold) + Scroll = Change Smooth Amount
+F ({DPad Left}) = Smooth Out Camera Toggle
+	- (Hold) + Scroll = Change Smooth Amount
 
 C (???) = Construction Mode
 	Clicking on Construction Mode Items = Open Options
